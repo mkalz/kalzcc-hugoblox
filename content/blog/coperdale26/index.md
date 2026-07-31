@@ -24,7 +24,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-
+projects = []
 ---
 In her PhD project, Marlene Ganz deals with foundational work on data-literacy. Our joint research interest is how data-literacy can be theoretically conceptualized and measured and what kind of educational formats can be used to support adult learners in building knowledge, skills and competencies in this area.
 
