@@ -1,0 +1,99 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+
+name:
+  display: Marco Kalz
+  given: Marco
+  family: Kalz
+  alternate: ''
+  pronunciation: ''
+
+postnominals:
+  - PhD
+
+role: Professor of Educational Technology
+
+bio: |
+  I am a researcher in educational technology whose work explores how digital
+  technologies reshape learning, teaching, and educational institutions. My
+  research combines educational technology, learning sciences, feedback
+  research, and critical perspectives on digital transformation.
+
+  Current areas of interest include peer feedback and feedback literacy, open
+  and networked learning, AI and misinformation in education, digital learning
+  ecologies, and the societal implications of data-driven and platform-based
+  education. Methodologically, my work spans empirical learning research,
+  psychometric scale development, design-oriented research, and conceptual
+  analyses of digital transformation in education.
+
+  I am working as a full professor of educational technology and Chief
+  Information/Chief Digital Officer (CIO/CDO) at the Heidelberg University of
+  Education.
+
+affiliations:
+  - name: Heidelberg University of Education
+    url: https://www.ph-heidelberg.de/
+
+links:
+  - icon: at-symbol
+    url: mailto:kalz@ph-heidelberg.de
+    label: Email
+  - icon: brands/github
+    url: https://github.com/mkalz
+    label: GitHub
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=6W4v6GQAAAAJ
+    label: Google Scholar
+
+interests:
+  - Open Education
+  - Peer Feedback
+  - Data Science in Education
+  - Data Literacy
+  - Learner Intentions
+  - Educational Scalability
+
+education:
+  - degree: PhD in Educational Technology
+    institution: Open University of the Netherlands
+  - degree: MA Multimedia Didactics
+    institution: University of Erlangen-Nuremberg
+  - degree: First State Examination for Teachers
+    institution: University of Cologne
+
+experience: 
+  - role: Professor of Digital Education
+    org: Heidelberg University of Education
+    start: 2018-04-01
+    summary: |
+      Responsibilities include:
+
+      - Director of the study program E-Learning and Media Education
+      - Research on technology-enhanced learning
+      - Teaching in master's and teacher education programmes
+
+  - role: Elected President
+    org: European Association of Technology-Enhanced Learning (EATEL)
+    start: 2018-09-18
+    end: 2021-09-19
+    summary: |
+      Responsibilities included:
+
+      - Strategic management of the association
+      - Legal and financial administration
+      - Representation and networking with other professional organisations
+
+  - role: Professor of Open Education
+    org: Open University of the Netherlands
+    start: 2015-04-01
+    end: 2018-03-31
+    summary: |
+      Responsibilities included:
+
+      - Research group leadership
+      - Membership of the management board of the Welten Institute
+      - Supervision of doctoral researchers
+skills: []
+languages: []
+awards: []

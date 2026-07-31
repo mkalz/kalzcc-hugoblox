@@ -1,0 +1,43 @@
+{{ $project := .Get 0 }}
+{{ $publications := where site.RegularPages "Section" "publications" }}
+{{ $related := slice }}
+
+{{ range $publications }}
+  {{ $publication := . }}
+  {{ $projects := $publication.Params.projects | default (slice) }}
+
+  {{ range $projects }}
+    {{ $assignedProject := printf "%v" . }}
+
+    {{ if eq $assignedProject $project }}
+      {{ $related = $related | append $publication }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with $related }}
+<section class="project-publications">
+  <h2>Related Publications</h2>
+
+  {{ range sort . "Date" "desc" }}
+    <div style="margin-bottom: 1.5rem;">
+      <div style="padding-left: 2rem; text-indent: -2rem;">
+        {{ with .Params.apa_citation }}
+          {{ . | markdownify }}
+        {{ else }}
+          {{ partial "views/citation.html" (dict "item" .) }}
+        {{ end }}
+      </div>
+
+   <div style="margin-top: 0.75rem;">
+  <a
+    href="{{ .RelPermalink }}"
+    class="inline-flex items-center rounded-md bg-primary-600 px-3 py-2 text-sm text-white shadow-sm transition hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2"
+    style="text-decoration: none; font-weight: 400;"
+  >
+    View publication details
+  </a>
+  </div>
+  {{ end }}
+</section>
+{{ end }}
