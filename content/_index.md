@@ -115,14 +115,7 @@ sections:
         <h2>Newsletter</h2>
         <p>I publish the newsletter <em>The day’s refrain – musings on digital education</em> every three to four weeks.</p>
         <img src="uploads/logonl.png" alt="Logo for Newsletter" style="display:block; width:100%; max-width:260px; margin:1.5rem auto;">
-        <form method="post" action="https://sendfox.com/form/1dr8zj/m2q2v6" class="sendfox-form" id="m2q2v6" data-async="true" data-recaptcha="true">
-        <p><label for="sendfox_form_name">First Name</label><input type="text" id="sendfox_form_name" placeholder="First Name" name="first_name" required></p>
-        <p><label for="sendfox_form_last_name">Last Name</label><input type="text" id="sendfox_form_last_name" placeholder="Last Name" name="last_name" required></p>
-        <p><label for="sendfox_form_email">Email</label><input type="email" id="sendfox_form_email" placeholder="Email" name="email" required></p>
-        <p><label style="display:flex; gap:0.5rem; align-items:flex-start;"><input type="checkbox" name="gdpr" value="1" required style="width:auto; margin-top:0.25rem;"> <span>I agree to receive email updates and promotions.</span></label></p>
-        <div style="position:absolute; left:-5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off"></div>
-        <p><button type="submit">Subscribe</button></p>
-        </form>
+        <script src="https://cdn.sendfox.com/js/embed.js" data-form="1kpjjj" data-api="https://sendfox.com" async></script>
         </div>
         <div class="contact-column" id="contact">
         <h2>Contact</h2>
