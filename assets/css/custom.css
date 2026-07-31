@@ -1,0 +1,54 @@
+.newsletter-contact-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+  gap: 3rem;
+  width: 100%;
+  align-items: start;
+}
+
+.newsletter-column,
+.contact-column {
+  min-width: 0;
+}
+
+.newsletter-column h2,
+.contact-column h2 {
+  margin-bottom: 1.25rem;
+}
+
+.newsletter-column input[type="text"],
+.newsletter-column input[type="email"] {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0.65rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 0.4rem;
+}
+
+.newsletter-column label {
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.newsletter-column button {
+  padding: 0.7rem 1.2rem;
+  color: white;
+  background: #172554;
+  border: 0;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.contact-column iframe {
+  display: block;
+  width: 100%;
+  min-height: 780px;
+  border: 0;
+  border-radius: 0.75rem;
+}
+
+@media (max-width: 900px) {
+  .newsletter-contact-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
