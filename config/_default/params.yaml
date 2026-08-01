@@ -12,36 +12,29 @@ hugoblox:
   # Site-level branding (for people/profiles, use the author system in content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
-    # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "Prof. Dr. Marco Kalz"
-    # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
-    # Schema.org type for structured data
-    type: person # person | organization | local_business
-    # Short tagline displayed on your site
-    tagline: ""
-    # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
-    # Social accounts (used for meta tags like Twitter Cards)
+    organization: "Heidelberg University of Education"
+    type: person
+    tagline: "Research on digital education, technology-enhanced learning, and educational innovation"
+    description: >-
+      Academic website of Prof. Dr. Marco Kalz, Professor of Educational Technology at
+      Heidelberg University of Education.
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
   # Color and visual design system
   # ────────────────────────────────────────────────────────────────────────────
   theme:
-    # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
-    # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
-    # Optional: Override theme pack colors
+    pack: "marine"
+
     colors:
-      primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
-    # Optional: Mode-specific color overrides
+      primary: "blue"
+      secondary: "cyan"
+      neutral: "slate"
+
     colors_light: {}
     colors_dark: {}
     # Optional: Semantic surface color overrides
@@ -60,20 +53,16 @@ hugoblox:
   # Font and text sizing
   # ────────────────────────────────────────────────────────────────────────────
   typography:
-    # Theme pack: name from data/fonts/
-    pack: "academic"
+    pack: "modern"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
   # Spacing and shape tokens
   # ────────────────────────────────────────────────────────────────────────────
   layout:
-    # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
-    radius: "md"
-    # Spacing density: 'compact', 'comfortable', or 'spacious'
-    spacing: "spacious"
-    # Avatar shape in author profiles
-    avatar_shape: circle # circle | square | rounded
+    radius: "lg"
+    spacing: "comfortable"
+    avatar_shape: circle
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
@@ -81,32 +70,26 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   header:
     enable: true
-    # Header style variant
-    style: navbar # navbar | navbar-simple | minimal
-    # Stick to top on scroll
+    style: navbar
     sticky: true
-    # Menu alignment
-    align: center # left | center | right
-    # Feature toggles
+    align: right
     search: true
     theme_toggle: true
-    theme_picker: true
-    language_switcher: true
-    # Call-to-action button
+    theme_picker: false
+    language_switcher: false
     cta:
       enable: false
       text: ""
       url: ""
+
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
   # Site footer
   # ────────────────────────────────────────────────────────────────────────────
   footer:
-    # Footer style variant
-    style: minimal # minimal | columns | centered
-    language_switcher: true
-    # Custom footer text (HTML supported)
+    style: minimal
+    language_switcher: false
     text: ""
 
   # ────────────────────────────────────────────────────────────────────────────
