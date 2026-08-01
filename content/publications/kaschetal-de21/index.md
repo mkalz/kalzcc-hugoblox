@@ -8,7 +8,7 @@ authors:
 - Ansje Löhr
 - Roland Klemke
 - Alessandra Antonaci
-- admin"
+- me
 date: 2021-04-11T10:15:34+02:00
 hugoblox:
   ids:

@@ -3,7 +3,7 @@
 
 title: "Kompetenzorientierung"
 authors:
-- admin
+- me
 date: 2025-09-09T01:33:18+02:00
 hugoblox:
   ids:

@@ -5,7 +5,7 @@ title: "ARLearn: augmented reality meets augmented virtuality"
 authors:
 - Stefaan Ternier
 - Roland Klemke
-- admin
+- me
 - Patricia Van Ulzen
 - Marcus Specht 
 date: 2012-08-01T13:28:01+02:00

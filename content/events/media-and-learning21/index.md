@@ -17,7 +17,7 @@ tags:
   - resilience
   - pandemic
   - emergency remote teaching
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

@@ -7,6 +7,8 @@ authors: []
 tags: [open education, MOOCs, scalability, intentions, SRL, innovation, National project]
 categories: [projects, research]
 date: 2021-04-10T21:50:37+02:00
+project_start: 2015-09-01
+project_end: 2020-08-30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

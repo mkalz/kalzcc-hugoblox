@@ -17,7 +17,7 @@ tags:
   - PC
   - mediendidaktik
   - dgfe
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

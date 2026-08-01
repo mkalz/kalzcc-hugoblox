@@ -19,7 +19,7 @@ tags:
   - moocs
   - intentions
   - intention-behaviour gap
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

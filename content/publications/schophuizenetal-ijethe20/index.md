@@ -4,7 +4,7 @@
 title: "Educational innovation projects in Dutch higher education: bottom-up contextual coping to deal with organizational challenges"
 authors:
 - Martine Schophuizen
-- admin
+- me
 date: 2020-05-03T11:02:28+02:00
 hugoblox:
   ids:

@@ -6,7 +6,7 @@ authors:
 - Maartje Henderikx
 - Karel Kreijns
 - Jonatan Castaño-Muñoz
-- admin
+- me
 date: 2019-05-08T11:02:28+02:00
 hugoblox:
   ids:

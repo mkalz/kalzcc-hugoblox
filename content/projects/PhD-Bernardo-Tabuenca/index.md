@@ -7,6 +7,8 @@ authors: [Bernardo Tabuenca]
 tags: [PhD]
 categories: []
 date: 2015-07-10T13:58:28+02:00
+project_start: 2011-10-01
+project_end: 2015-07-30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

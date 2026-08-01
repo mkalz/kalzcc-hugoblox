@@ -3,7 +3,7 @@
 
 title: "Infrastrukturen zur Verwaltung von Metadaten für Offene Bildungsressourcen"
 authors:
-- admin
+- me
 - Roland Klemke
 - Stefaan Ternier
 - Marcus Specht

@@ -4,7 +4,7 @@
 title: "Lead me gently: Facilitating knowledge gain through attention-aware ambient learning displays"
 authors:
 - Dirk Börner
-- admin
+- me
 - Marcus Specht
 date: 2014-09-03T11:02:28+02:00
 hugoblox:

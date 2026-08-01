@@ -5,7 +5,7 @@ title: "Implementing infrastructures for managing learning objects"
 authors:
 - Roland Klemke
 - Stefaan Ternier
-- admin
+- me
 - Marcus Specht
 date: 2010-10-13T11:02:28+02:00
 hugoblox:

@@ -34,7 +34,7 @@ tags:
   - feedback
   - peer-feedback
 
-featured: true
+featured: false
 draft: false
 
 image:

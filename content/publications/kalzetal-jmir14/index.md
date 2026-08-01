@@ -3,7 +3,7 @@
 
 title: "Smartphone Apps for Cardiopulmonary Resuscitation Training and Real Incident Support: A Mixed-Methods Evaluation Study"
 authors:
-- admin
+- me
 - Niklas Lenssen
 - Marc Felzen
 - Rolf Rossaint

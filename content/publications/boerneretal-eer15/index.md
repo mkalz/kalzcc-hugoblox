@@ -4,7 +4,7 @@
 title: "It Doesn’t Matter, But: Examining the impact of ambient learning displays on energy consumption and conservation at the workplace"
 authors:
 - Dirk Börner
-- admin
+- me
 - Marcus Specht
 date: 2015-12-03T11:02:28+02:00
 hugoblox:

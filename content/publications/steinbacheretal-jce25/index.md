@@ -5,7 +5,7 @@ title: "Exploring the Current Use of Educational Technologies in the Oncology Do
 authors:
 - Jana Steinbacher
 - Taibe Kulaksiz
-- admin
+- me
 date: 2025-08-29T21:22:31+01:00
 hugoblox:
   ids:

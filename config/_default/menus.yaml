@@ -21,9 +21,14 @@ main:
     weight: 40
 
   - name: Talks
-    url: /#talks
+    url: /#upcoming-talks
     weight: 50
 
   - name: Contact & Newsletter
     url: /#contact
     weight: 60
+
+footer:
+  - name: Privacy Statement
+    pageRef: /privacy
+    weight: 10

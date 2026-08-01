@@ -3,7 +3,7 @@
 
 title: "Assessing the crossdisciplinarity of technology-enhanced learning with science overlay maps and diversity measures"
 authors:
-- admin
+- me
 - Marcus Specht
 date: 2014-05-01T11:02:28+02:00
 hugoblox:

@@ -4,7 +4,7 @@
 title: "Goal Setting and Striving in MOOCs: A Peek Inside the Black Box of Learner Behaviour"
 authors:
 - Maartje Henderikx
-- admin
+- me
 date: 2019-09-12T11:02:28+02:00
 hugoblox:
   ids:

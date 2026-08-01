@@ -4,7 +4,7 @@
 title: "Exploring predictors of instructional resilience during emergency remote teaching in higher education"
 authors:
 - Joshua Weidlich
-- admin
+- me
 date: 2021-08-09T13:39:39+02:00
 hugoblox:
   ids:

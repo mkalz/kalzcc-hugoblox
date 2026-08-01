@@ -3,7 +3,7 @@
 
 title: "Open Education as Social Movement? Between Evidence-Based Research and Activism"
 authors:
-- admin
+- me
 date: 2022-06-11T16:33:18+02:00
 hugoblox:
   ids:

@@ -4,7 +4,7 @@
 title: "Individualisiertes Lernen mit digitalen Bildungsressourcen: Eine Delphi Studie aus der Perspektive von Lehrer:innen."
 authors:
 - Stefan Pietrusky
-- admin
+- me
 date: 2025-02-04T21:22:31+01:00
 hugoblox:
   ids:

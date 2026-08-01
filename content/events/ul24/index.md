@@ -35,4 +35,6 @@ event_end: 2024-01-24T14:00:00+02:00
 event_all_day: false
 event_name: Kick-off Veranstaltung zur Vorbereitung des 10. Tags der Lehre 2025. SKILLS FOR TOMORROW.
 ---
+## Recording
 
+{{< youtube KappY1Xcla0 >}}

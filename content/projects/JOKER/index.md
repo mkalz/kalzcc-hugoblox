@@ -7,6 +7,8 @@ authors: []
 tags: [National project]
 categories: [journalism, cross-media development, social media, pre-service teachers, OER]
 date: 2022-10-01T02:59:50+02:00
+project_start: 2021-10-01
+project_end: 2024-09-30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

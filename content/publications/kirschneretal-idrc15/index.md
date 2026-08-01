@@ -13,7 +13,7 @@ authors:
 - Wim Westera
 - Marcus Specht
 - Maarten de Laat
-- admin
+- me
 - Hendrik Drachsler
 date: 2015-12-27T13:28:01+02:00
 

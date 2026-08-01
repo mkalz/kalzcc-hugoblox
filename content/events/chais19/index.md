@@ -35,5 +35,9 @@ event_end: 2019-02-13T11:00:00+02:00
 event_all_day: false
 event_name: Annual CHAIS conference of the Research Center for Innovation in Learning Technologies at the Open University of Israel
 ---
+## Recording
+
+{{< youtube hmz-5CblECw >}}
+
 
 Kalz, M. (2019). Learning in the digital society. Effects and unintended consequences of mainstreaming of technology-enhanced learning. Invited keynote at the annual CHAIS conference of the Research Center for Innovation in Learning Technologies at the Open University of Israel. February 2019, Open University of Israel, Ra'anana, Israel.

@@ -4,7 +4,7 @@
 title: "How well does teacher education prepare for teaching with technology? A TPACK-based investigation at a university of education"
 authors:
 - Joshua Weidlich
-- admin
+- me
 date: 2023-08-04T13:39:39+02:00
 hugoblox:
   ids:

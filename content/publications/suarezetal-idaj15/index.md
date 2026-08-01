@@ -5,7 +5,7 @@ title: "Supporting Inquiry-based Learning with Google Glass (GPIM)"
 authors:
 - Angel Suarez
 - Stefaan Ternier
-- admin
+- me
 - Marcus Specht
 
 date: 2015-06-19T11:02:28+02:00

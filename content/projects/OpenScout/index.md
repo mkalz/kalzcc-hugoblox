@@ -7,6 +7,8 @@ authors: []
 tags: [Open Educational Resources, competences, skills, OER, management education, repository, EU project]
 categories: [projects, research]
 date: 2021-04-11T14:00:05+02:00
+project_start: 2009-09-01
+project_end: 2012-10-31
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

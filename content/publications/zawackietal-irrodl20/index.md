@@ -16,7 +16,7 @@ authors:
 - Andrea Broens
 - Elisa Bruhn
 - Carina Dolch
-- admin
+- me
 - Yasar Kondakci
 - Victoria Marin
 - Kerstin Mayrberger

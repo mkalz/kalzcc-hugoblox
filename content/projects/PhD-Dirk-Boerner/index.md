@@ -7,7 +7,8 @@ authors: [Dirk Börner]
 tags: [PhD]
 categories: []
 date: "2013-11-15T13:58:17+02:00"
-
+project_start: 2009-10-01
+project_end: 2013-12-01
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

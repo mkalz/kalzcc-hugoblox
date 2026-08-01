@@ -17,7 +17,7 @@ tags:
   - keynote
   - AI
   - teacher-education
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

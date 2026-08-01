@@ -5,7 +5,7 @@ title: "Intention-behavior dynamics in MOOCs Learning; What happens to good inte
 authors:
 - Maartje Henderikx
 - Karel Kreijns
-- admin
+- me
 date: 2018-09-12T11:02:28+02:00
 hugoblox:
   ids:

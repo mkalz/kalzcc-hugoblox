@@ -7,6 +7,8 @@ authors: [Maria Spilker]
 tags: [PhD]
 categories: []
 date: 2025-01-30T06:59:00+02:00
+project_start: 2021-10-01
+project_end:
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

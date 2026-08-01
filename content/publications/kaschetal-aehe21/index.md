@@ -6,7 +6,7 @@ authors:
 - Julia Kasch
 - Peter van Rosmalen
 - Maartje Henderikx
-- admin
+- me
 date: 2021-03-12T21:22:31+01:00
 hugoblox:
   ids:

@@ -7,6 +7,8 @@ authors: []
 tags: [National project]
 categories: [mobile learning, AI, gesture-based interaction, music teaching, feedback]
 date: 2022-10-01T02:59:50+02:00
+project_start: 2022-10-01
+project_end: 2024-09-30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

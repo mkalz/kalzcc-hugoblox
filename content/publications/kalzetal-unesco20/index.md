@@ -3,7 +3,7 @@
 
 title: "The disaggregated, networked and open future of education for sustainable development"
 authors:
-- admin
+- me
 - Martine Schophuizen
 - Serdar Türkeli
 date: 2020-04-11T16:33:18+02:00

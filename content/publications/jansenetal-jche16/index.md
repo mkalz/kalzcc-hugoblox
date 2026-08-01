@@ -7,7 +7,7 @@ authors:
 - Anouschka van Leeuwen
 - Jeroen Janssen
 - Liesbeth Kester
-- admin
+- me
 date: 2016-10-25T11:02:28+02:00
 hugoblox:
   ids:

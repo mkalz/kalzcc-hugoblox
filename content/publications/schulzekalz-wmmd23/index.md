@@ -3,7 +3,8 @@
 
 title: "Mobiles Lernen im Zeitalter der Mobilität und Postdigitalität"
 authors:
-- admin
+- Annette Schulze
+- me
 date: 2023-12-13T16:33:18+02:00
 
 # Schedule page publish date (NOT publication's date).

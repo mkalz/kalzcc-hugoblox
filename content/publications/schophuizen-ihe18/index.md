@@ -6,7 +6,7 @@ authors:
 - Martine Schophuizen
 - Karel Kreijns
 - Slavi Stoyanov
-- admin
+- me
 date: 2018-01-01T11:02:28+02:00
 hugoblox:
   ids:

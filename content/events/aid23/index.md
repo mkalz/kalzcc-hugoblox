@@ -16,7 +16,7 @@ tags:
   - events
   - invited talk
   - data science
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

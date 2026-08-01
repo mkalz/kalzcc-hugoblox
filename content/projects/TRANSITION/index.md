@@ -7,6 +7,8 @@ authors: []
 tags: [EU project, cancer, professionalization, doctors, nurses, TEL]
 categories: [project, EU, R&D, H2020, EU Health]
 date: 2023-01-17T23:25:23+02:00
+project_start: 2023-03-01
+project_end: 2025-02-28
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

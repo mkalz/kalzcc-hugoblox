@@ -19,7 +19,7 @@ tags:
   - journals
   - conferences
   - impact
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

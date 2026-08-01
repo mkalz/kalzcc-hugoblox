@@ -7,6 +7,9 @@ authors: []
 tags: [open content, OER, open practices, EU project]
 categories: [projects, EU-funding]
 date: 2021-04-11T14:00:32+02:00
+project_start: 2006-01-01
+project_end: 2007-12-31
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

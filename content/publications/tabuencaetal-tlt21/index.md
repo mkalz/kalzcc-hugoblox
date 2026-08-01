@@ -6,7 +6,7 @@ title: "Effects of an ambient learning display on noise levels and
 authors: 
 - Bernardo Tabuenca
 - Dirk Börner
-- admin
+- me
 date: 2021-02-01T10:42:47+02:00
 hugoblox:
   ids:

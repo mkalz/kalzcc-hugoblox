@@ -3,7 +3,7 @@
 
 title: "Setting-up a European Cross-Provider Data Collection on Open Online Courses"
 authors:
-- admin
+- me
 - Karel Kreijns
 - Jaap Walhout
 - Jonatan Castaño-Munoz

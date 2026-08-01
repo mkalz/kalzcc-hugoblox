@@ -7,6 +7,8 @@ authors: [Eyal Rabin]
 tags: [PhD]
 categories: []
 date: 2021-09-10T13:57:31+02:00
+project_start: 2017-10-01
+project_end: 2022-10-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

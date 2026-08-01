@@ -4,7 +4,7 @@
 title: "General Problem-solving Skills Can be Enhanced by Short-time Use of Problem-Based Learning (PBL)"
 authors:
 - Marcus Knöpfel
-- admin
+- me
 - Patric Meyer
 date: 2024-04-12T01:33:18+02:00
 hugoblox:
@@ -75,7 +75,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [PhD-Markus-Knoepfel]
+projects: 
+ - PhD-Markus-Knoepfel
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

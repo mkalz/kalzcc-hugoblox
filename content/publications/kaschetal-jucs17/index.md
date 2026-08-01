@@ -5,7 +5,7 @@ title: "A Framework Towards Educational Scalability of Open Online Courses"
 authors:
 - Julia Kasch
 - Peter Van Rosmalen
-- admin
+- me
 date: 2017-12-27T13:28:01+02:00
 hugoblox:
   ids:

@@ -4,7 +4,7 @@
 title: "Time will tell: The role of mobile learning analytics in self-regulated learning"
 authors:
 - Bernardo Tabuenca
-- admin
+- me
 - Hendrik Drachsler
 - Marcus Specht
 

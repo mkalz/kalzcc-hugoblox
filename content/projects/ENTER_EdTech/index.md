@@ -7,6 +7,8 @@ authors: []
 tags: [entrepreneurship, EdTech, startups, EU project]
 categories: [project, EU, R&D]
 date: 2021-04-10T23:25:23+02:00
+project_start: 2021-01-01
+project_end: 2024-12-31
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -8,6 +8,9 @@ tags:
   - National project
 categories: [open education, data science, artificial intelligence datafication, data literacy, teachers, schools]
 date: 2021-04-11T13:59:50+02:00
+project_start: 2021-04-01
+project_end: 2022-02-01
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -19,7 +19,7 @@ tags:
   - AI
   - Künstliche Intelligenz
   - Artificial Intelligence
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

@@ -3,7 +3,7 @@
 
 title: "Erneuerung der Hochschule von Außen nach Innen oder umgekehrt? Kritische Diskussion und Alternativen zur Future Skills-Bewegung"
 authors:
-- admin
+- me
 - Gabi Reinmann
 date: 2024-08-19T01:33:18+02:00
 

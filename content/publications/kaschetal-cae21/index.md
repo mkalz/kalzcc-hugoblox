@@ -5,7 +5,7 @@ title: "Educational scalability in MOOCs: Analysing instructional designs to fin
 authors:
 - Julia Kasch
 - Peter van Rosmalen
-- admin
+- me
 date: 2020-11-03T10:53:43+02:00
 hugoblox:
   ids:

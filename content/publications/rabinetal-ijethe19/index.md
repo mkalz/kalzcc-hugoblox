@@ -5,7 +5,7 @@ title: "An empirical investigation of the antecedents of learner-centered outcom
 authors:
 - Eyal Rabin
 - Yoram Kalman
-- admin
+- me
 date: 2019-04-29T11:02:28+02:00
 hugoblox:
   ids:

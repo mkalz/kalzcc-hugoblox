@@ -4,7 +4,7 @@
 title: "The MOOC and learning analytics innovation cycle (MOLAC): a reflective summary of ongoing research and its challenges"
 authors:
 - Hendrik Drachsler
-- admin
+- me
 date: 2016-03-16T11:02:28+02:00
 hugoblox:
   ids:

@@ -32,5 +32,8 @@ event_end: 2023-09-19T14:00:00+02:00
 event_all_day: false
 event_name: Themenreihe "KI in der Hochschullehre" der Deutschen Gesellschaft für Hochschuldidaktik
 ---
+## Recording
 
+{{< youtube uUIz1VV4Mqw >}}
+<br>
 {{< googlePdfReader "1aiLSt2_qujU8cY35_0UNZr1zsegJCAWn" "Slides des Vortrags vom 19.09.2023" >}}

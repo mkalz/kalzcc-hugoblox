@@ -3,7 +3,7 @@
 
 title: "Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen"
 authors:
-- admin
+- me
 date: 2023-11-19T01:33:18+02:00
 hugoblox:
   ids:

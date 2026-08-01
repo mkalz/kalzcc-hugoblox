@@ -16,7 +16,7 @@ tags:
   - events
   - invited talk
   - future skills
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

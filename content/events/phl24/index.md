@@ -19,7 +19,7 @@ tags:
   - 4K
   - schlüsselkompetenz
   - lerntransfer
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

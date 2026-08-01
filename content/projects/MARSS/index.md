@@ -3,6 +3,8 @@
 title: MARSS
 slug: marss
 summary: "MARSS: Multimodales System zur Abwehr von Desinformation für Schüler:innen"
+project_start: 2026-04-01
+project_end:
 
 authors: []
 tags:

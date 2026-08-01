@@ -7,6 +7,8 @@ authors: [Markus Knöpfel]
 tags: [PhD]
 categories: []
 date: 2024-04-12T06:59:00+02:00
+project_start: 2021-10-01
+project_end: 2026-06-30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

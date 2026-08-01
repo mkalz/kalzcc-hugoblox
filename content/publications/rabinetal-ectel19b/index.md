@@ -6,7 +6,7 @@ authors:
 - Eyal Rabin
 - Vered Silber-Varod
 - Yoram Kalman
-- admin
+- me
 date: 2019-09-09T11:02:28+02:00
 hugoblox:
   ids:

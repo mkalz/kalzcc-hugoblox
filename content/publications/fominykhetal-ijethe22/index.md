@@ -5,7 +5,7 @@ title: "What do they TEL(L)? A systematic analysis of master programs in technol
 authors:
 - Mikhail Fominykh
 - Joshua Weidlich
-- admin
+- me
 - Ingunn Dahler Hybertsen 
 date: 2022-01-06T11:02:28+02:00
 hugoblox:

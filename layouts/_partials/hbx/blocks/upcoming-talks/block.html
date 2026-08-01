@@ -1,0 +1,102 @@
+{{ $block := .wcBlock }}
+{{ $events := where site.RegularPages "Section" "events" }}
+{{ $upcoming := slice }}
+{{ $currentTime := now }}
+
+{{ range $events }}
+  {{ $event := . }}
+  {{ $startValue := $event.Params.event_start | default $event.Date }}
+  {{ $endValue := $event.Params.event_end | default $startValue }}
+
+  {{ if $startValue }}
+    {{ $startTime := time.AsTime $startValue }}
+    {{ $endTime := time.AsTime $endValue }}
+
+    {{ if ge $endTime.Unix $currentTime.Unix }}
+      {{ $upcoming = $upcoming | append $event }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $upcoming = sort $upcoming "Params.event_start" "asc" }}
+
+{{ $count := $block.content.count | default 6 }}
+{{ if and (gt $count 0) (gt (len $upcoming) $count) }}
+  {{ $upcoming = first $count $upcoming }}
+{{ end }}
+
+<div class="upcoming-talks-container">
+  {{ with $block.content.title }}
+    <h2 class="upcoming-talks-title">{{ . }}</h2>
+  {{ end }}
+
+  {{ with $block.content.text }}
+    <div class="upcoming-talks-intro">{{ . | markdownify }}</div>
+  {{ end }}
+
+  {{ if $upcoming }}
+    <div class="upcoming-talks-grid">
+      {{ range $upcoming }}
+        {{ $event := . }}
+        {{ $startTime := time.AsTime ($event.Params.event_start | default $event.Date) }}
+        {{ $image := $event.Resources.GetMatch "featured.*" }}
+
+        <article class="upcoming-talk-card">
+          {{ with $image }}
+            {{ $imageURL := .RelPermalink }}
+
+            {{ if reflect.IsImageResourceProcessable . }}
+              {{ $processed := .Fill "720x405 Center webp" }}
+              {{ $imageURL = $processed.RelPermalink }}
+            {{ end }}
+
+            <a href="{{ $event.RelPermalink }}" class="upcoming-talk-image-link">
+              <img
+                src="{{ $imageURL }}"
+                alt=""
+                class="upcoming-talk-image"
+                loading="lazy"
+              >
+            </a>
+          {{ end }}
+
+          <div class="upcoming-talk-content">
+            <p class="upcoming-talk-date">
+              {{ if $event.Params.event_all_day }}
+                {{ $startTime.Format "2 January 2006" }}
+              {{ else }}
+                {{ $startTime.Format "2 January 2006, 15:04" }}
+              {{ end }}
+            </p>
+
+            <h3 class="upcoming-talk-heading">
+              <a href="{{ $event.RelPermalink }}">
+                {{ $event.Title }}
+              </a>
+            </h3>
+
+            {{ with $event.Params.event_name }}
+              <p class="upcoming-talk-event">{{ . }}</p>
+            {{ end }}
+
+            {{ with $event.Params.location }}
+              <p class="upcoming-talk-location">{{ . }}</p>
+            {{ end }}
+
+            {{ with $event.Params.summary }}
+              <div class="upcoming-talk-summary">
+                {{ . | markdownify }}
+              </div>
+            {{ end }}
+
+            <a href="{{ $event.RelPermalink }}" class="upcoming-talk-button">
+              View talk details
+            </a>
+          </div>
+        </article>
+      {{ end }}
+    </div>
+  {{ else }}
+    <p class="upcoming-talks-empty">No upcoming talks currently scheduled.</p>
+  {{ end }}
+</div>

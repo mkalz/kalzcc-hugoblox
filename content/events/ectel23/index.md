@@ -18,7 +18,7 @@ tags:
   - EC-TEL
   - futures
   - education
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

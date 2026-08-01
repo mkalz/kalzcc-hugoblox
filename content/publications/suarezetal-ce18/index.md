@@ -6,7 +6,7 @@ authors:
 - Angel Suarez
 - Marcus Specht
 - Fleur Prinsen
-- admin
+- me
 - Stefaan Ternier
 
 date: 2018-03-01T13:28:01+02:00

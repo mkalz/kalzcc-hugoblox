@@ -7,6 +7,8 @@ authors: [Julia Kasch]
 tags: [PhD]
 categories: []
 date: 2020-10-09T13:51:01+02:00
+project_start: 2016-10-01
+project_end: 2020-10-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

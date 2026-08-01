@@ -5,7 +5,7 @@ title: "To Change or not to Change? That’s the Question… On MOOC-Success, Ba
 authors:
 - Maartje Henderikx
 - Karel Kreijns
-- admin
+- me
 date: 2017-09-12T11:02:28+02:00
 hugoblox:
   ids:

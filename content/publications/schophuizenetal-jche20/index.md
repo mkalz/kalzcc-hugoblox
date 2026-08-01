@@ -7,7 +7,7 @@ authors:
 - Karel Kreijns
 - Slavi Stoyanov
 - Scott Rosas
-- admin
+- me
 date: 2020-10-23T11:02:28+02:00
 hugoblox:
   ids:

@@ -10,7 +10,7 @@ authors:
 - Maria Perifanou
 - Maria Victoria Soule
 - Davinia Hernández-Leo
-- admin
+- me
 - Ralf Klamma
 - Luís Pedro
 - Carlos Santos

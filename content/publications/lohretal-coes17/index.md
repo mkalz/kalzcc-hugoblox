@@ -6,7 +6,7 @@ authors:
 - Ansje Löhr
 - Heidi Savelli
 - Raoul Beunen
-- admin
+- me
 - Ad Ragas
 - Frank Van Belleghem
 date: 2017-08-07T13:28:01+02:00

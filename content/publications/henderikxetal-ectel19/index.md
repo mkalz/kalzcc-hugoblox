@@ -5,7 +5,7 @@ title: "Enjoyed or Bored? A Study into Achievement Emotions and the Association 
 authors:
 - Maartje Henderikx
 - Ansje Lohr
-- admin
+- me
 date: 2019-09-12T11:02:28+02:00
 hugoblox:
   ids:

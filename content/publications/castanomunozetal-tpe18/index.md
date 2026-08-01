@@ -6,7 +6,7 @@ authors:
 - Jonatan Castaño-Munoz
 - Karel Kreijns
 - Yves Punie
-- admin
+- me
 date: 2018-10-19T11:02:28+02:00
 hugoblox:
   ids:

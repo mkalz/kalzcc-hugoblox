@@ -58,13 +58,15 @@ sections:
     content:
       title: Featured Publications
       text: ''
-      count: 0
+      count: 6
       filters:
         folders:
           - publications
         featured_only: true
+      order: desc
     design:
-      view: citation
+      view: article-grid
+      columns: 3
   - block: collection
     content:
       title: Recent Publications
@@ -84,18 +86,18 @@ sections:
       columns: '1'
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
+  - block: current-projects
     id: projects
     content:
-      title: Projects
+      title: Current Projects
       text: ''
-      count: 0
-      filters:
-        folders:
-          - projects
+      count: 6
+      archive:
+        enable: true
+        text: View all projects
     design:
-      view: article-grid
-      columns: 3
+      spacing:
+        padding: [3rem, 1rem, 3rem, 1rem]
   - block: markdown
     content:
       title: ''
@@ -105,32 +107,24 @@ sections:
       columns: '1'
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
-    id: talks
+  - block: upcoming-talks
+    id: upcoming-talks
     content:
       title: Upcoming Talks
       text: ''
-      count: 0
-      filters:
-        folders:
-          - events
-        exclude_past: true
+      count: 6
     design:
-      view: card
-      columns: 3
-  - block: collection
+      spacing:
+        padding: [3rem, 1rem, 3rem, 1rem]
+  - block: featured-talks
     id: featured-talks
     content:
       title: Featured Talks
       text: ''
-      count: 0
-      filters:
-        folders:
-          - events
-        featured_only: true
+      count: 6
     design:
-      view: card
-      columns: 3
+      spacing:
+        padding: [3rem, 1rem, 3rem, 1rem]
   - block: markdown
     content:
       title: ''

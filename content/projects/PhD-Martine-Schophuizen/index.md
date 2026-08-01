@@ -7,6 +7,8 @@ authors: [Martine Schophuizen]
 tags: [PhD]
 categories: []
 date: 2022-02-18T13:59:00+02:00
+project_start: 2019-01-01
+project_end: 2022-03-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

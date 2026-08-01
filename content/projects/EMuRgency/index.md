@@ -7,6 +7,8 @@ authors: []
 tags: [cardiac arrest, CPR, game-based learning, OER, ambient displays, EU project]
 categories: [projects, research]
 date: 2021-04-11T13:59:57+02:00
+project_start: 2011-09-01
+project_end: 2014-08-31
 
 links:
   - type: site

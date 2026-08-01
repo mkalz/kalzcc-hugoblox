@@ -5,7 +5,7 @@ title: "Massive Open Online Education for Environmental Activism: The Worldwide 
 authors:
 - Bernardo Tabuenca
 - Ansje Löhr
-- admin
+- me
 date: 2020-05-31T11:02:28+02:00
 hugoblox:
   ids:

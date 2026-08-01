@@ -230,3 +230,436 @@ article {
     display: none;
   }
 }
+
+/* Custom Upcoming Talks block */
+
+.upcoming-talks-container {
+  width: min(1200px, calc(100vw - 3rem));
+  margin: 0 auto;
+}
+
+.upcoming-talks-title {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.upcoming-talks-intro {
+  max-width: 760px;
+  margin: -1rem auto 2rem;
+  text-align: center;
+}
+
+.upcoming-talks-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+}
+
+.upcoming-talk-card {
+  overflow: hidden;
+  border: 1px solid rgba(37, 99, 235, 0.16);
+  border-radius: 1rem;
+  background: var(--color-background, #fff);
+  box-shadow: 0 14px 36px rgba(15, 23, 42, 0.08);
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.upcoming-talk-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 20px 42px rgba(15, 23, 42, 0.14);
+}
+
+.upcoming-talk-image-link {
+  display: block;
+}
+
+.upcoming-talk-image {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.upcoming-talk-content {
+  padding: 1.5rem;
+}
+
+.upcoming-talk-date {
+  margin-bottom: 0.65rem;
+  color: #0891b2;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.upcoming-talk-heading {
+  margin-bottom: 0.75rem;
+  font-size: 1.3rem;
+  line-height: 1.3;
+}
+
+.upcoming-talk-heading a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.upcoming-talk-event,
+.upcoming-talk-location {
+  margin: 0.25rem 0;
+  color: #64748b;
+}
+
+.upcoming-talk-summary {
+  margin-top: 1rem;
+}
+
+.upcoming-talk-button {
+  display: inline-block;
+  margin-top: 1.25rem;
+  padding: 0.65rem 1rem;
+  border-radius: 0.55rem;
+  background: linear-gradient(135deg, #2563eb, #0891b2);
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.upcoming-talks-empty {
+  text-align: center;
+  color: #64748b;
+}
+
+@media (prefers-color-scheme: dark) {
+  .upcoming-talk-card {
+    border-color: rgba(34, 211, 238, 0.2);
+    background: rgba(15, 23, 42, 0.72);
+    box-shadow: none;
+  }
+
+  .upcoming-talk-event,
+  .upcoming-talk-location,
+  .upcoming-talks-empty {
+    color: #94a3b8;
+  }
+}
+
+@media (max-width: 800px) {
+  .upcoming-talks-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .upcoming-talks-container {
+    width: min(100%, calc(100vw - 2rem));
+  }
+}
+
+/* Compact Featured Talks block */
+
+.featured-talks-container {
+  width: min(1200px, calc(100vw - 3rem));
+  margin: 0 auto;
+}
+
+.featured-talks-title {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.featured-talks-intro {
+  max-width: 760px;
+  margin: -1rem auto 2rem;
+  text-align: center;
+}
+
+.featured-talks-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.featured-talk-card {
+  overflow: hidden;
+  border: 1px solid rgba(37, 99, 235, 0.14);
+  border-radius: 0.85rem;
+  background: var(--color-background, #fff);
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.07);
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.featured-talk-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 34px rgba(15, 23, 42, 0.12);
+}
+
+.featured-talk-image-link {
+  display: block;
+}
+
+.featured-talk-image {
+  display: block;
+  width: 100%;
+  height: 155px;
+  object-fit: cover;
+}
+
+.featured-talk-content {
+  padding: 1.1rem;
+}
+
+.featured-talk-date {
+  margin-bottom: 0.45rem;
+  color: #0891b2;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.featured-talk-heading {
+  margin-bottom: 0.6rem;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.featured-talk-heading a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.featured-talk-event,
+.featured-talk-location {
+  margin: 0.2rem 0;
+  color: #64748b;
+  font-size: 0.86rem;
+  line-height: 1.4;
+}
+
+.featured-talk-button {
+  display: inline-block;
+  margin-top: 0.9rem;
+  padding: 0.5rem 0.8rem;
+  border-radius: 0.45rem;
+  background: linear-gradient(135deg, #2563eb, #0891b2);
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.featured-talks-empty {
+  text-align: center;
+  color: #64748b;
+}
+
+@media (prefers-color-scheme: dark) {
+  .featured-talk-card {
+    border-color: rgba(34, 211, 238, 0.18);
+    background: rgba(15, 23, 42, 0.72);
+    box-shadow: none;
+  }
+
+  .featured-talk-event,
+  .featured-talk-location,
+  .featured-talks-empty {
+    color: #94a3b8;
+  }
+}
+
+@media (max-width: 950px) {
+  .featured-talks-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .featured-talks-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .featured-talks-container {
+    width: min(100%, calc(100vw - 2rem));
+  }
+}
+
+/* Current Projects cards */
+
+.current-projects-container {
+  width: min(1200px, calc(100vw - 3rem));
+  margin: 0 auto;
+}
+
+.current-projects-title {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.current-projects-intro {
+  max-width: 760px;
+  margin: -1rem auto 2rem;
+  text-align: center;
+}
+
+.current-projects-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.75rem;
+}
+
+.current-project-card {
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  border: 1px solid rgba(37, 99, 235, 0.15);
+  border-radius: 1rem;
+  background: var(--color-background, #fff);
+  box-shadow: 0 12px 32px rgba(15, 23, 42, 0.08);
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.current-project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 42px rgba(15, 23, 42, 0.14);
+}
+
+.current-project-image-link {
+  display: block;
+  overflow: hidden;
+}
+
+.current-project-image {
+  display: block;
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+  transition: transform 250ms ease;
+}
+
+.current-project-card:hover .current-project-image {
+  transform: scale(1.025);
+}
+
+.current-project-content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 1.3rem;
+}
+
+.current-project-period {
+  margin-bottom: 0.5rem;
+  color: #0891b2;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.current-project-heading {
+  margin-bottom: 0.75rem;
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
+
+.current-project-heading a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.current-project-summary {
+  margin-bottom: 1rem;
+  color: #475569;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.current-project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: auto;
+  margin-bottom: 1rem;
+}
+
+.current-project-tag {
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  background: rgba(37, 99, 235, 0.09);
+  color: #1d4ed8;
+  font-size: 0.72rem;
+}
+
+.current-project-button {
+  align-self: flex-start;
+  padding: 0.55rem 0.9rem;
+  border-radius: 0.5rem;
+  background: linear-gradient(135deg, #2563eb, #0891b2);
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.current-projects-archive {
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+.current-projects-archive-button {
+  display: inline-block;
+  padding: 0.8rem 1.35rem;
+  border: 2px solid #2563eb;
+  border-radius: 0.65rem;
+  background: #2563eb;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  transition:
+    background 160ms ease,
+    transform 160ms ease;
+}
+
+.current-projects-archive-button:hover {
+  background: #1d4ed8;
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+.current-projects-empty {
+  text-align: center;
+  color: #64748b;
+}
+
+@media (prefers-color-scheme: dark) {
+  .current-project-card {
+    border-color: rgba(34, 211, 238, 0.2);
+    background: rgba(15, 23, 42, 0.72);
+    box-shadow: none;
+  }
+
+  .current-project-summary {
+    color: #cbd5e1;
+  }
+
+  .current-project-tag {
+    background: rgba(34, 211, 238, 0.12);
+    color: #67e8f9;
+  }
+}
+
+@media (max-width: 950px) {
+  .current-projects-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .current-projects-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .current-projects-container {
+    width: min(100%, calc(100vw - 2rem));
+  }
+}

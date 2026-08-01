@@ -3,7 +3,7 @@
 
 title: "Positioning of Learners in Learning Networks with Content, Metadata and Ontologies"
 authors:
-- admin
+- me
 - Jan van Bruggen
 - Ellen Rusman
 - Bas Giesbers

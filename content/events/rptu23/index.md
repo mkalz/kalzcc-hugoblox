@@ -19,7 +19,7 @@ tags:
   - 4K
   - AI
   - skills
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

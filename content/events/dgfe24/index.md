@@ -17,7 +17,7 @@ tags:
   - invited talk
   - future skills
   - AI skills
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

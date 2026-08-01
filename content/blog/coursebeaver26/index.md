@@ -4,7 +4,7 @@ subtitle: A practical pipeline for audio-enhanced learning
 date: 2026-04-25T10:30:00+02:00
 authors:
   - me
-draft: false
+draft: true
 featured: false
 image:
   filename: featured.png

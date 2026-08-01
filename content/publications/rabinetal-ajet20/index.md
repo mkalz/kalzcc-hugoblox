@@ -6,7 +6,7 @@ authors:
 - Eyal Rabin
 - Maartje Henderikx
 - Yoram Kalman
-- admin
+- me
 date: 2020-06-29T13:39:39+02:00
 hugoblox:
   ids:

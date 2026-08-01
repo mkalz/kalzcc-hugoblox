@@ -7,6 +7,8 @@ authors: []
 tags: [EU project]
 categories: []
 date: 2021-04-11T13:59:50+02:00
+project_start: 2019-09-01
+project_end: 2022-12-31
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

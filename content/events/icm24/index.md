@@ -17,7 +17,7 @@ tags:
   - invited talk
   - future skills
   - 4K
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

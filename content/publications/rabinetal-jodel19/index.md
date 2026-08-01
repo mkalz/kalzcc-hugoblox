@@ -5,7 +5,7 @@ title: "The cathedral’s ivory tower and the open education bazaar – catalyzi
 authors:
 - Eyal Rabin
 - Yoram Kalman
-- admin
+- me
 date: 2019-09-09T11:02:28+02:00
 hugoblox:
   ids:

@@ -3,7 +3,7 @@
 
 title: "A Study about Placement Support Using Semantic Similarity"
 authors:
-- admin
+- me
 - Jan van Bruggen
 - Bas Giesbers
 - Wim Waterink

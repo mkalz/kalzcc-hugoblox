@@ -1,0 +1,148 @@
+{{ $block := .wcBlock }}
+{{ $projects := where site.RegularPages "Section" "projects" }}
+{{ $currentProjects := slice }}
+{{ $currentTime := now }}
+
+{{/* Aktuell laufende Projekte auswählen */}}
+{{ range $projects }}
+  {{ $project := . }}
+  {{ $startValue := $project.Params.project_start }}
+  {{ $endValue := $project.Params.project_end }}
+  {{ $isCurrent := false }}
+
+  {{ with $startValue }}
+    {{ $startTime := time.AsTime . }}
+
+    {{ if le $startTime.Unix $currentTime.Unix }}
+      {{ if $endValue }}
+        {{ $endTime := time.AsTime $endValue }}
+
+        {{ if ge $endTime.Unix $currentTime.Unix }}
+          {{ $isCurrent = true }}
+        {{ end }}
+      {{ else }}
+        {{/* Ohne Enddatum gilt das Projekt als laufend */}}
+        {{ $isCurrent = true }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if $isCurrent }}
+    {{ $currentProjects = $currentProjects | append $project }}
+  {{ end }}
+{{ end }}
+
+{{/* Neueste laufende Projekte zuerst */}}
+{{ $currentProjects = sort $currentProjects "Params.project_start" "desc" }}
+
+{{/* Maximale Anzahl begrenzen */}}
+{{ $count := $block.content.count | default 6 }}
+
+{{ if and (gt $count 0) (gt (len $currentProjects) $count) }}
+  {{ $currentProjects = first $count $currentProjects }}
+{{ end }}
+
+<div class="current-projects-container">
+
+  {{ with $block.content.title }}
+    <h2 class="current-projects-title">{{ . }}</h2>
+  {{ end }}
+
+  {{ with $block.content.text }}
+    <div class="current-projects-intro">
+      {{ . | markdownify }}
+    </div>
+  {{ end }}
+
+  {{ if $currentProjects }}
+    <div class="current-projects-grid">
+
+      {{ range $currentProjects }}
+        {{ $project := . }}
+        {{ $startTime := time.AsTime $project.Params.project_start }}
+        {{ $endValue := $project.Params.project_end }}
+        {{ $featuredImage := $project.Resources.GetMatch "featured.*" }}
+
+        <article class="current-project-card">
+
+          {{ with $featuredImage }}
+            {{ $imageURL := .RelPermalink }}
+
+            {{ if reflect.IsImageResourceProcessable . }}
+              {{ $processedImage := .Fill "720x405 Center webp" }}
+              {{ $imageURL = $processedImage.RelPermalink }}
+            {{ end }}
+
+            <a
+              href="{{ $project.RelPermalink }}"
+              class="current-project-image-link"
+              aria-label="{{ $project.Title }}"
+            >
+              <img
+                src="{{ $imageURL }}"
+                alt=""
+                class="current-project-image"
+                loading="lazy"
+              >
+            </a>
+          {{ end }}
+
+          <div class="current-project-content">
+
+            <p class="current-project-period">
+              {{ $startTime.Format "January 2006" }}
+              <span aria-hidden="true">–</span>
+
+              {{ if $endValue }}
+                {{ (time.AsTime $endValue).Format "January 2006" }}
+              {{ else }}
+                Present
+              {{ end }}
+            </p>
+
+            <h3 class="current-project-heading">
+              <a href="{{ $project.RelPermalink }}">
+                {{ $project.Title }}
+              </a>
+            </h3>
+
+            {{ with $project.Params.summary }}
+              <div class="current-project-summary">
+                {{ . | markdownify }}
+              </div>
+            {{ end }}
+
+            {{ with $project.Params.tags }}
+              <div class="current-project-tags">
+                {{ range first 4 . }}
+                  <span class="current-project-tag">{{ . }}</span>
+                {{ end }}
+              </div>
+            {{ end }}
+
+          </div>
+        </article>
+      {{ end }}
+
+    </div>
+  {{ else }}
+    <p class="current-projects-empty">
+      No current projects available.
+    </p>
+  {{ end }}
+
+  {{/* Genau ein Button unterhalb des Grids */}}
+  {{ if $block.content.archive.enable }}
+    {{ with site.GetPage "/projects" }}
+      <div class="current-projects-archive">
+        <a
+          href="{{ .RelPermalink }}"
+          class="current-projects-archive-button"
+        >
+          {{ $block.content.archive.text | default "View all projects" }}
+        </a>
+      </div>
+    {{ end }}
+  {{ end }}
+
+</div>

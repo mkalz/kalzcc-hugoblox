@@ -7,6 +7,8 @@ authors: []
 tags: [MOOCS, learning design, cross-language, NLP, EU project]
 categories: [projects, EU, R&D]
 date: 2021-04-10T23:26:00+02:00
+project_start: 2019-09-01
+project_end: 2022-12-31
 featured: false
 
 links:
