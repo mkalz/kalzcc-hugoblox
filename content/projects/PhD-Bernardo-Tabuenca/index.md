@@ -6,7 +6,7 @@ summary: "Ubiquitous technology for lifelong learners"
 authors: [Bernardo Tabuenca]
 tags: [PhD]
 categories: []
-date: 2015-07-10T13:58:28+02:00
+date: "2015-07-10T13:58:28+02:00"
 project_start: 2011-10-01
 project_end: 2015-07-30
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 - Title of the thesis: Ubiquitous technology for lifelong learners

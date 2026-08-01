@@ -8,7 +8,7 @@ authors:
   - Holger Meeh
   - Joshua Weidlich
 
-date: 2026-04-06T00:00:00+02:00
+date: "2026-04-06T00:00:00+02:00"
 
 publication_types:
   - article-journal
@@ -22,11 +22,6 @@ publication:
   publisher: "Springer"
 
 apa_citation: "Kalz, M., Schulze, A., Meeh, H., & Weidlich, J. (2026). Validity evidence for the internal structure of the peer feedback orientation scale. *Technology, Knowledge and Learning*, 1–16. https://doi.org/10.1007/s10758-026-09972-9"
-
-
-
-
-
 
 hugoblox:
   ids:
@@ -90,4 +85,4 @@ projects: []
 
 ---
 
-Kalz, M., Schulze, A., Meeh, H., & Weidlich, J. (2026). Validity evidence for the internal structure of the peer feedback orientation scale. *Technology, Knowledge and Learning*, 1–16. https://doi.org/10.1007/s10758-026-09972-9
+Kalz, M., Schulze, A., Meeh, H., & Weidlich, J. (2026). Validity evidence for the internal structure of the peer feedback orientation scale. _Technology, Knowledge and Learning_, 1–16. https://doi.org/10.1007/s10758-026-09972-9

@@ -1,6 +1,7 @@
 ---
 title: Buttons
 linkTitle: Buttons
+
 ---
 
 A modern, customizable button shortcode with gradient styling, icons, and smart link handling.

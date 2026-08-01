@@ -3,16 +3,16 @@
 
 title: "Massive Open Online Education for Environmental Activism: The Worldwide Problem of Marine Litter"
 authors:
-- Bernardo Tabuenca
-- Ansje Löhr
-- me
-date: 2020-05-31T11:02:28+02:00
+  - Bernardo Tabuenca
+  - Ansje Löhr
+  - me
+date: "2020-05-31T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.3390/su11102860"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-05-20T11:02:28+02:00
+publishDate: "2019-05-20T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,11 +30,6 @@ publication:
   publisher: "Multidisciplinary Digital Publishing Institute"
 
 apa_citation: "Tabuenca, B., Kalz, M., & Löhr, A. (2019). Massive open online education for environmental activism: The worldwide problem of marine litter. *Sustainability*, *11*(10), 2860. https://doi.org/10.3390/su11102860"
-
-
-
-
-
 
 abstract: "The amount of plastic discharges in the environment has drastically increased in the last decades negatively affecting aquatic ecosystems, societies, and the world economy. The policies initiated to deal with this problem are insufficient and there is an urgency to initiate local actions based on a deep understanding of the factors involved. (2) This paper investigates the potential of massive open online courses (MOOCs) to spread environmental education. Therefore, the conclusions drawn from the implementation of a MOOC to combat the problem of marine litter in the world are presented. (3) This work describes the activity of 3632 participants from 64 countries taking an active role presenting useful tools, connecting them with the main world associations, and defining applied action plans in their local area. Pre- and post-questionnaires explore behavioral changes regarding the actions of participants to combat marine litter. The role of MOOCs is contrasted with social media, formal education, and informal education. (4) Findings suggest that MOOCs are useful instruments to promote environmental activism, and to develop local solutions to global problems, for example, clean beaches, supplanting plastic bottles, educational initiatives, and prohibition of single-use plastic."
 # Summary. An optional shortened abstract.
@@ -62,7 +57,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -82,6 +77,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Tabuenca, B., Kalz, M., & Löhr, A. (2019). Massive open online education for environmental activism: The worldwide problem of marine litter. *Sustainability*, *11*(10), 2860. https://doi.org/10.3390/su11102860
+Tabuenca, B., Kalz, M., & Löhr, A. (2019). Massive open online education for environmental activism: The worldwide problem of marine litter. _Sustainability_, _11_(10), 2860. https://doi.org/10.3390/su11102860

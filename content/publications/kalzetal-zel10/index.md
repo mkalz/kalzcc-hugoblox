@@ -3,14 +3,14 @@
 
 title: "Infrastrukturen zur Verwaltung von Metadaten für Offene Bildungsressourcen"
 authors:
-- me
-- Roland Klemke
-- Stefaan Ternier
-- Marcus Specht
-date: 2010-03-03T11:02:28+02:00
+  - me
+  - Roland Klemke
+  - Stefaan Ternier
+  - Marcus Specht
+date: "2010-03-03T11:02:28+02:00"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-01-26T11:02:28+02:00
+publishDate: "2023-01-26T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,11 +28,6 @@ publication:
   publisher: ""
 
 apa_citation: "Kalz, M., Klemke, R., Ternier, S., & Specht, M. (2010). Infrastrukturen zur Verwaltung von Metadaten für Offene Bildungsressourcen. *Zeitschrift Für E-Learning*, *5*(3)."
-
-
-
-
-
 
 abstract: "In den letzten Jahren sind weltweit zahlreiche Initiativen gestartet worden, um offene Bildungsressourcen zu speichern und der Öffentlichkeit zugänglich zu machen. Zu diesem Zweck sind an vielen Orten Lernobjektrepositorien eingerichtet worden, die die persistente Speicherung von offenen Bildungsressourcen erlauben. Die dezentrale Einrichtung dieser Repositorien machte es für Endbenutzer schwierig, geeignete Ressourcen in ihrer Domäne zu finden und wiederzuverwenden. Darüberhinaus waren in vielen Fällen keine oder wenig standardisierte Metadaten mit den Lerninhalten gespeichert, was das Finden von passenden Lernresourcen noch mehr erschwerte. Um die Sichtbarkeit und Zugänglichkeit von Offenen Bildungsressourcen zu erhöhen, hat die Europäische Kommission im Rahmen des eContentplus-Programmes Projekte gefördert, die diese Sitution verbessern sollten. In diesem Beitrag sollen Erfahrungen aus einigen Projekten vorgestellt und diskutiert werden. Dazu werden in diesem Artikel das verteilte Management von offenen Bildungsressourcen erläutert, die Erstellung eines Applikationsprofils diskutiert sowie die Rolle von verschiedenen Metadaten und deren Erstellung vorgestellt. Der Beitrag richtet sich an Projektleiter und Entscheidungsträger von Projekten, die sich mit Lernobjekten beschäftigen sowie an Forscher, die die Zugänglichkeit von Lernobjekten verbessern wollen."
 
@@ -61,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -81,6 +76,7 @@ projects: [OpenScout]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Kalz, M., Klemke, R., Ternier, S., & Specht, M. (2010). Infrastrukturen zur Verwaltung von Metadaten für Offene Bildungsressourcen. *Zeitschrift für E-Learning*, 5(3).
+Kalz, M., Klemke, R., Ternier, S., & Specht, M. (2010). Infrastrukturen zur Verwaltung von Metadaten für Offene Bildungsressourcen. _Zeitschrift für E-Learning_, 5(3).

@@ -3,16 +3,16 @@
 
 title: "Valuing technology-enhanced academic conferences for continuing professional development. A systematic literature review"
 authors:
-- Maria Spilker
-- Fleur Prinsen
-- me
-date: 2020-05-31T11:02:28+02:00
+  - Maria Spilker
+  - Fleur Prinsen
+  - me
+date: "2020-05-31T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1080/19415257.2019.1629614"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-06-15T11:02:28+02:00
+publishDate: "2019-06-15T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,11 +30,6 @@ publication:
   publisher: "Taylor & Francis"
 
 apa_citation: "Spilker, M., Prinsen, F., & Kalz, M. (2020). Valuing technology-enhanced academic conferences for continuing professional development. A systematic literature review. *Professional Development in Education*, *46*(3), 482–499. https://doi.org/10.1080/19415257.2019.1629614"
-
-
-
-
-
 
 abstract: "This review presents a systematic search for and analysis of the state of the art concerning research (1993–2018) on technology-enhanced conferences for academics’ professional development. Fifty-nine scientific publications were included in the review which analyses them through the lens of the value creation framework. Conference formats are undergoing innovations focussed on amplifying social learning, and the role of technologies to enrich this new landscape is being explored. Initial results indicated that while new practices are emerging, a coherent perspective on technology-enhanced continuing professional development to help understand and inform the transition towards learning conferences was lacking across the literature. For instance, traditional evaluations of conferences, such as satisfaction surveys applied by the end of the conference, are not yet taking into account the full range of possible values created through participation in conferences. In addition, results about the use of social media for community building and enduring professional development remain inconclusive, and a more guided approach towards the application of social media at academic conferences is needed. The Value Creation Framework seems to be an appropriate conceptual framework for understanding the impact of conference attendance for the development of (digital) professional competences of academics."
 # Summary. An optional shortened abstract.
@@ -62,7 +57,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -82,6 +77,7 @@ projects: [PhD-Maria-Spilker]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Spilker, M., Prinsen, F., & Kalz, M. (2020). Valuing technology-enhanced academic conferences for continuing professional development. A systematic literature review. *Professional development in education*, *46*(3), 482-499. https://doi.org/10.1080/19415257.2019.1629614
+Spilker, M., Prinsen, F., & Kalz, M. (2020). Valuing technology-enhanced academic conferences for continuing professional development. A systematic literature review. _Professional development in education_, _46_(3), 482-499. https://doi.org/10.1080/19415257.2019.1629614

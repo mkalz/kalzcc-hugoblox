@@ -6,8 +6,8 @@ name:
   display: Marco Kalz
   given: Marco
   family: Kalz
-  alternate: ''
-  pronunciation: ''
+  alternate: ""
+  pronunciation: ""
 
 postnominals:
   - PhD
@@ -41,17 +41,17 @@ bio: |
 
 affiliations:
   - name: Heidelberg University of Education
-    url: https://www.ph-heidelberg.de/
+    url: "https://www.ph-heidelberg.de/"
 
 links:
   - icon: at-symbol
-    url: mailto:kalz@ph-heidelberg.de
+    url: "mailto:kalz@ph-heidelberg.de"
     label: Email
   - icon: brands/github
-    url: https://github.com/mkalz
+    url: "https://github.com/mkalz"
     label: GitHub
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=6W4v6GQAAAAJ
+    url: "https://scholar.google.com/citations?user=6W4v6GQAAAAJ"
     label: Google Scholar
 
 interests:
@@ -70,7 +70,7 @@ education:
   - degree: First State Examination for Teachers
     institution: University of Cologne
 
-experience: 
+experience:
   - role: Professor of Digital Education
     org: Heidelberg University of Education
     start: 2018-04-01

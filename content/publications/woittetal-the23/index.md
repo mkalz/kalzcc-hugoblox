@@ -3,19 +3,19 @@
 
 title: "Students’feedback literacy in higher education: an initial scale validation study"
 authors:
-- Svenja Woitt
-- Joshua Weidlich
-- Ioana Jivet
-- Derya Orhan Göksun
-- Hendrik Drachsler
-- me
-date: 2023-10-18T04:39:39+02:00
+  - Svenja Woitt
+  - Joshua Weidlich
+  - Ioana Jivet
+  - Derya Orhan Göksun
+  - Hendrik Drachsler
+  - me
+date: "2023-10-18T04:39:39+02:00"
 hugoblox:
   ids:
     doi: "10.1080/13562517.2023.2263838"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-18T04:39:39+02:00
+publishDate: "2023-10-18T04:39:39+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,11 +33,6 @@ publication:
   publisher: "Routledge"
 
 apa_citation: "Svenja Woitt, & Kalz, M. (2023). Students’ feedback literacy in higher education: an initial scale validation study. *Teaching in Higher Education*, *0*(0), 1–20. https://doi.org/10.1080/13562517.2023.2263838"
-
-
-
-
-
 
 abstract: "Given the crucial role of feedback in supporting learning in higher education,  understanding  the  factors  influencing  feedback effectiveness is imperative. Student feedback literacy, that is, the set of attitudes and abilities to make sense of and utilize feedback  is  therefore  considered  a  key  concept.  Rigorous investigations of feedback literacy require psychometrically sound measurement. To this end, the present paper reports on the development and initial validation (N= 221) of a self-report instrument. Grounded in the conceptual literature and building on previous scale validation efforts, an initial overinclusive itempool is generated. Exploratory factor analysis and the Rasch measurement model yield adequate psychometric properties of an initial scale measuring two dimensions: feedback attitudes and feedback practices with a total of 21 items. We further provide evidence for criterion-related validity. Findings are discussed in light of the emerging feedback literacy literature and avenues for further improvement of the scale are reported."
 
@@ -66,7 +61,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -86,5 +81,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
-Woitt,S., Weidlich, J., Jivet, I., Göksün, D.O., Drachsler, H. & Kalz, M. (2023) Students’ feedback literacy in higher education: an initial scale validation study, *Teaching in Higher Education*, doi: https://doi.org/10.1080/13562517.2023.2263838
+
+Woitt,S., Weidlich, J., Jivet, I., Göksün, D.O., Drachsler, H. & Kalz, M. (2023) Students’ feedback literacy in higher education: an initial scale validation study, _Teaching in Higher Education_, doi: https://doi.org/10.1080/13562517.2023.2263838

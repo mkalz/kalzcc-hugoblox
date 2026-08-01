@@ -6,7 +6,7 @@ summary: "Perceived Value of Learning and Development Departments in Organizatio
 authors: [Yanay Zaguri]
 tags: [PhD]
 categories: []
-date: 2023-08-19T13:58:28+02:00
+date: "2023-08-19T13:58:28+02:00"
 project_start: 2024-10-01
 project_end:
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 Project title: Perceived Value of Learning and Development Departments in Organizations

@@ -1,7 +1,7 @@
 ---
 title: AI destroys principles of authorship. A scary case from educational technology publishing.
 subtitle:
-date: 2023-09-15T06:36:59.875Z
+date: "2023-09-15T06:36:59.875Z"
 authors:
   - me
 draft: false
@@ -22,7 +22,9 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+
 ---
+
 I have long waited before I share a special case of AI generated publishing in the field of educational technology which needs a public reflection and review. Approximately 3 months ago, I have received a citation alert which made me curious. One of our papers has been cited by a team of authors who have published a [book in German on "Educational Data Mining and Learning Analytics"](https://link.springer.com/book/10.1007/978-3-658-39607-7). The book has as subtitle "A machine generated overview". Especially the fact that authors from Ireland have published a book in German and the use of generative AI for the book has made me even more curious.
 
 After an initial reading I was really confused what I am seeing there. First of all, the introduction and much of the text did not really make a lot of sense and the language was not up to scientific standards. Second, I read the part where our paper should have been cited and I was surprised to see that our publication has been somehow mentioned, but that there is no proper citation in the text (but there is one in the references). After reading the text more intensively, which should be a summary of our paper according to the introduction, I had the impression that the text itself is not a summary, but a direct translation of our original publication. This left me really confused and I translated the so-called summary back into English to see that my initial impression was right. A large proportion of text is not summarized but just translated and put into this chapter without quoting the original text. Puzzled by this case of plagiarism I first checked how Springer as a publisher acts in such kinds of cases.

@@ -6,7 +6,7 @@ summary: "Structuration of Open Online Education in the Netherlands"
 authors: []
 tags: [open education, MOOCs, scalability, intentions, SRL, innovation, National project]
 categories: [projects, research]
-date: 2021-04-10T21:50:37+02:00
+date: "2021-04-10T21:50:37+02:00"
 project_start: 2015-09-01
 project_end: 2020-08-30
 
@@ -40,7 +40,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
 **Funded via a grant of the Dutch Ministry of Education and the national coordination unit for educational sciences, September 2015 – August 2020), Budget: 1,35 Mio EUR (1.03 Mio acquired for own institution, Role: coordinator), http://www.sooner.nu**
 
  The SOONER project focused on fundamental and accompagnying research about open online education (OOE) in the Netherlands. Open online education is viewed as a strategic activity of an educational institution with systemic implications for the organization. Based on proven approaches for program evaluations from the health sciences, the project will enable systematic and long-term research on open online education from a macro-, meso- and micro-perspective. In addition, this project combines fundamental and accompanying research. SOONER will be organized via three PhD-projects on 1) self-regulated learning skill acquisition in the context of OOE, 2) motivation and intentions as key to drop-out in OOE and last but not least 3) scalable support solutions for OOE including learning analytics. These projects will be framed by a Post-Doc project that focuses on the structural and organizational embedding of OOE.

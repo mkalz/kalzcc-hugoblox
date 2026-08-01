@@ -3,16 +3,16 @@
 
 title: "MoocCast: evaluating mobile-screencast for online courses"
 authors:
-- Bernardo Tabuenca
-- Ansje Löhr
-- me
-date: 2018-11-01T13:28:01+02:00
+  - Bernardo Tabuenca
+  - Ansje Löhr
+  - me
+date: "2018-11-01T13:28:01+02:00"
 hugoblox:
   ids:
     doi: "10.1007/s10209-017-0528-x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-11-01T13:28:01+02:00
+publishDate: "2018-11-01T13:28:01+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,11 +30,6 @@ publication:
   publisher: "Springer"
 
 apa_citation: "Tabuenca, B., Kalz, M., & Löhr, A. (2018). MoocCast: Evaluating mobile-screencast for online courses. *Universal Access in the Information Society*, *17*(4), 745–753. https://doi.org/10.1007/s10209-017-0528-x"
-
-
-
-
-
 
 abstract: "The progressive adoption of smartphones and interconnected devices is inspiring students to redesign their physical spaces toward a seamless shift between daily life and learning activities. In the last years, Massive Open Online Courses (MOOCs) represent one of the key resources facilitating universal access to education as they enable students to learn across formal and informal contexts. However, there is little research exploring these alternative ways to present the content offered to learners in MOOCs for improved accessibility from personal contexts. This work presents the first study evaluating mobile-screencast technology as a means to facilitate learning processes in online courses. The contribution from this manuscript is threefold: First, preferred learning spaces for students enrolled to accomplish the activities in a MOOC are identified; second, mobile-screencast is evaluated as a solution for improved accessibility in online courses; third, an open tool for mobile-screencast and initial results from a formative evaluation are presented. This tool can be reused and adapted in further MOOC implementations. Finally, lessons learned are discussed and cues for future implementations are challenged."
 
@@ -63,7 +58,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -83,6 +78,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Tabuenca, B., Kalz, M., & Löhr, A. (2018). MoocCast: Evaluating mobile-screencast for online courses. *Universal Access in the Information Society*, *17*(4), 745-753. https://doi.org/10.1007/s10209-017-0528-x
+Tabuenca, B., Kalz, M., & Löhr, A. (2018). MoocCast: Evaluating mobile-screencast for online courses. _Universal Access in the Information Society_, _17_(4), 745-753. https://doi.org/10.1007/s10209-017-0528-x

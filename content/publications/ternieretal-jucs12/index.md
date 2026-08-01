@@ -3,18 +3,18 @@
 
 title: "ARLearn: augmented reality meets augmented virtuality"
 authors:
-- Stefaan Ternier
-- Roland Klemke
-- me
-- Patricia Van Ulzen
-- Marcus Specht 
-date: 2012-08-01T13:28:01+02:00
+  - Stefaan Ternier
+  - Roland Klemke
+  - me
+  - Patricia Van Ulzen
+  - Marcus Specht
+date: "2012-08-01T13:28:01+02:00"
 hugoblox:
   ids:
     doi: "10.3217/jucs-018-15-2143"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-11-01T13:28:01+02:00
+publishDate: "2018-11-01T13:28:01+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,11 +32,6 @@ publication:
   publisher: ""
 
 apa_citation: "Ternier, S., Klemke, R., Kalz, M., Van Ulzen, P., & Specht, M. (2012). ARLearn: Augmented Reality Meets Augmented Virtuality. *J. Univers. Comput. Sci.*, *18*(15), 2143–2164. https://doi.org/10.3217/jucs-018-15-2143"
-
-
-
-
-
 
 abstract: "This article deals with educational opportunities for mixed reality games and related scenarios for learning. It discusses several issues and educational challenges to be tackled when linking augmented reality and augmented virtuality. Second, the paper describes the architecture of the ARLearn system which offers highly flexible support for different educational settings. Three prototypical use cases implemented based on the underlying ARLearn framework are discussed, which are a field trip system, an augmented Google StreetView client called StreetLearn, and a real time crisis intervention game. ARLearn combines real time notification and mixed reality games across Mobile Augmented Reality and Virtual Reality and the authors aim to use the underlying (open source) framework for further case studies and mixed reality applications for learning support."
 
@@ -65,7 +60,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -85,6 +80,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Ternier, S., Klemke, R., Kalz, M., Van Ulzen, P., & Specht, M. (2012). ARLearn: augmented reality meets augmented virtuality. *Journal of Universal Computer Science*, *18*(15), 2143-2164. https://doi.org/10.3217/jucs-018-15-2143
+Ternier, S., Klemke, R., Kalz, M., Van Ulzen, P., & Specht, M. (2012). ARLearn: augmented reality meets augmented virtuality. _Journal of Universal Computer Science_, _18_(15), 2143-2164. https://doi.org/10.3217/jucs-018-15-2143

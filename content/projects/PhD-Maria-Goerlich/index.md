@@ -6,7 +6,7 @@ summary: "Competencies of primary school teachers regarding the targeted support
 authors: [Maria Görlich]
 tags: [PhD]
 categories: []
-date: 2025-08-01T06:59:00+02:00
+date: "2025-08-01T06:59:00+02:00"
 project_start: 2024-08-01
 project_end:
 
@@ -40,13 +40,16 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
 Project title: Competencies of primary school teachers regarding the targeted support of students who are disadvantaged by the digital divide
 
 Institution: Heidelberg University of Education
 
 Local Supervision:
- - Prof. Dr. Barbara Getto (PH Zurich)
- - Prof. Dr. Leonie Sibley (PH Zurich)
+
+- Prof. Dr. Barbara Getto (PH Zurich)
+- Prof. Dr. Leonie Sibley (PH Zurich)
 
 The project is conducted in the context of the [DEEP-project](https://deep-consortium.ch/).

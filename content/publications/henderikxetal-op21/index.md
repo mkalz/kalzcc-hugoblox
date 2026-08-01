@@ -3,17 +3,17 @@
 
 title: "Making Barriers to Learning in MOOCs Visible. A Factor Analytical Approach"
 authors:
-- Maartje Henderikx
-- Karel Kreijns
-- Kate M. Xu
-- me
-date: 2021-10-20T13:39:39+02:00
+  - Maartje Henderikx
+  - Karel Kreijns
+  - Kate M. Xu
+  - me
+date: "2021-10-20T13:39:39+02:00"
 hugoblox:
   ids:
     doi: "10.5944/openpraxis.13.2.124"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-20T13:39:39+02:00
+publishDate: "2021-10-20T13:39:39+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,11 +31,6 @@ publication:
   publisher: "International Council for Open, Distance Education"
 
 apa_citation: "Henderikx, M., Kreijns, K., Xu, K. M., & Kalz, M. (2021). Making barriers to learning in MOOCs visible. A factor analytical approach. *Open Praxis*, *13*(2), 143–159. https://doi.org/10.5944/openpraxis.13.2.124"
-
-
-
-
-
 
 abstract: "Learners in MOOCs often experience challenges that can be identified as barriers to learning. These barriers may be MOOC- or not MOOC-related. By knowing about potential barriers learners would be better prepared and more likely to handle and overcome them. Therefore, the aim of this study was to advance insight and knowledge about barriers to learning in MOOCs. Assessment and reassessment of the data using exploratory factor analysis provided a good model fit for a 6-factor structure. This was confirmed by a confirmatory factor analysis. Further classification of the factors revealed that barriers experienced by learners were predominantly non-MOOC related. To get insight into the barriers learners experience, it was suggested to convert the identified factor structure into a diagnostic instrument (dashboard) powered by learner self-report. This dashboard then provides information about barriers learners experience and can be valuable for making (re) design decisions and for developing learner supporting tools and interventions."
 
@@ -64,7 +59,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -84,6 +79,7 @@ projects: [SOONER, PhD-Maartje-Henderikx]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Henderikx, M., Kreijns, K., Xu, K. M., & Kalz, M. (2021). Making Barriers to Learning in MOOCs Visible. A Factor Analytical Approach. *Open Praxis*, *13*(2), 143–159. DOI: http://doi.org/10.5944/openpraxis.13.2.124
+Henderikx, M., Kreijns, K., Xu, K. M., & Kalz, M. (2021). Making Barriers to Learning in MOOCs Visible. A Factor Analytical Approach. _Open Praxis_, _13_(2), 143–159. DOI: http://doi.org/10.5944/openpraxis.13.2.124

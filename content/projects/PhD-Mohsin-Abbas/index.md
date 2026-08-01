@@ -6,7 +6,7 @@ summary: "Automated formative feedback on essays using metrics, cues and visuali
 authors: [Mohsin Abbas]
 tags: [PhD]
 categories: []
-date: 2020-07-10T13:58:28+02:00
+date: "2020-07-10T13:58:28+02:00"
 project_start: 2020-10-01
 project_end:
 # Optional external URL for project (replaces project detail page).
@@ -39,6 +39,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 Project title: Automated formative feedback on essays using metrics, cues and visualization

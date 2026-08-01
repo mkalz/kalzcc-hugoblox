@@ -6,7 +6,7 @@ summary: "Educational Innovation towards Organizational Development. The Art of 
 authors: [Martine Schophuizen]
 tags: [PhD]
 categories: []
-date: 2022-02-18T13:59:00+02:00
+date: "2022-02-18T13:59:00+02:00"
 project_start: 2019-01-01
 project_end: 2022-03-01
 
@@ -40,7 +40,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
 - Title of the thesis: Educational Innovation towards Organizational Development. The Art of Governing Open and Online Education in Dutch Higher Education Institutions
 - Defense date: 18. February 2022
 - Awarding institution: Open University of the Netherlands

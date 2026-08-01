@@ -3,18 +3,18 @@
 
 title: "Time will tell: The role of mobile learning analytics in self-regulated learning"
 authors:
-- Bernardo Tabuenca
-- me
-- Hendrik Drachsler
-- Marcus Specht
+  - Bernardo Tabuenca
+  - me
+  - Hendrik Drachsler
+  - Marcus Specht
 
-date: 2015-11-30T11:02:28+02:00
+date: "2015-11-30T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1016/j.compedu.2015.08.004"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2015-11-30T11:02:28+02:00
+publishDate: "2015-11-30T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,11 +32,6 @@ publication:
   publisher: "Elsevier"
 
 apa_citation: "Tabuenca, B., Kalz, M., Drachsler, H., & Specht, M. (2015). Time will tell: The role of mobile learning analytics in self-regulated learning. *Computers & Education*, *89*, 53–74. https://doi.org/10.1016/j.compedu.2015.08.004"
-
-
-
-
-
 
 abstract: "This longitudinal study explores the effects of tracking and monitoring time devoted to learn with a mobile tool, on self-regulated learning. Graduate students (n = 36) from three different online courses used their own mobile devices to track how much time they devoted to learn over a period of four months. Repeated measures of the Online Self-Regulated Learning Questionnaire and Validity and Reliability of Time Management Questionnaire were taken along the course. Our findings reveal positive effects of tracking time on time management skills. Variations in the channel, content and timing of the mobile notifications to foster reflective practice are investigated, and time-logging patterns are described. These results not only provide evidence of the benefits of recording learning time, but also suggest relevant cues on how mobile notifications should be designed and prompted towards self-regulated learning of students in online courses."
 # Summary. An optional shortened abstract.
@@ -64,7 +59,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -84,6 +79,7 @@ projects: [PhD-Bernardo-Tabuenca]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Tabuenca, B., Kalz, M., Drachsler, H., & Specht, M. (2015). Time will tell: The role of mobile learning analytics in self-regulated learning. *Computers & Education*, *89*, 53-74. https://doi.org/10.1016/j.compedu.2015.08.004
+Tabuenca, B., Kalz, M., Drachsler, H., & Specht, M. (2015). Time will tell: The role of mobile learning analytics in self-regulated learning. _Computers & Education_, _89_, 53-74. https://doi.org/10.1016/j.compedu.2015.08.004

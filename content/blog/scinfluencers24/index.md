@@ -1,7 +1,7 @@
 ---
 title: The rise of the scinfluencers and the new narrative emerging from pseudo-scientific policy-making
 subtitle:
-date: 2024-03-16T09:36:59.875Z
+date: "2024-03-16T09:36:59.875Z"
 authors:
   - me
 draft: false
@@ -20,7 +20,9 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+
 ---
+
 The topic of science communication has gained a lot of attention in the last years and no higher educaton institution has not been involved in concepts related to "transfer" activities or the so called "third mission" of higher education institutions. While I have initially supported these activities, with the demise of social media platforms I have developed more and more doubts about science communication if it is driven by people who have never been involved in scientific work themselves. In the last time I perceive a trend which worries me. Weingart and Guenther (2016) have formulated this worry in the following way:
 
 "science communication has become an arena in which many different stakeholders battle for attention and the power of definition, because there is money in the game, there are jobs to be captured, and there are professional identities at stake".
@@ -31,7 +33,6 @@ This leads to discussion papers, research selection procedures and strategic doc
 
 My conclusion is that higher education institutions need to recognize the danger of influencers of all kinds and better follow a skeptical approach towards policy-making with an unclear interest. Instead I see a lot of institutions who are going where the money is and I am missing a national discourse on potential dangers of policy-making and influence in higher education.
 
+#### References
 
-#### References ####
-Weingart, P., & Guenther, L. (2016). Science communication and the issue of trust. *Journal of Science communication*, 15(05), C01.
-
+Weingart, P., & Guenther, L. (2016). Science communication and the issue of trust. _Journal of Science communication_, 15(05), C01.

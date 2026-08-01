@@ -1,7 +1,7 @@
 ---
 title: Restarting my personal knowledge management
 subtitle: First steps in Logseq
-date: 2022-01-02T09:36:59.875Z
+date: "2022-01-02T09:36:59.875Z"
 authors:
   - me
 draft: false
@@ -22,7 +22,9 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+
 ---
+
 The break and transition into the new year is always a time for me to optimise my workflows or to explore some changes in the way I handle information, tasks or communication. Via some tweets by [Doug Holton](https://twitter.com/edtechdev) I have discovered [Logseq](https://logseq.com) as a new framework and tool to handle my information workflow. I have experimented with it in the last days and would like to summarise why I think this could become a game changer for my personal knowledge management.
 
 **Usage scenario of Logseq for my personal knowledge management**

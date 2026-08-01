@@ -6,7 +6,7 @@ summary: "Scaling the Unscalable? Interaction and Support in Open Online Educati
 authors: [Julia Kasch]
 tags: [PhD]
 categories: []
-date: 2020-10-09T13:51:01+02:00
+date: "2020-10-09T13:51:01+02:00"
 project_start: 2016-10-01
 project_end: 2020-10-01
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 - Title of the thesis: Scaling the Unscalable? Interaction and Support in Open Online Education [(thesis download)](https://research.ou.nl/files/24569608/11402_Julia_Kasch_complete_PDF.pdf)

@@ -1,5 +1,6 @@
 ---
 title: Formatting
+
 ---
 
 Write rich, engaging content with Markdown and re-usable Hugo Blox components (shortcodes):

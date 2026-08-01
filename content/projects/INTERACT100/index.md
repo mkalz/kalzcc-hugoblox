@@ -6,7 +6,7 @@ summary: "Innovative collaboration for Inter-specialty cancer training across Eu
 authors: []
 tags: [EU project, cancer, professionalization, doctors, nurses, TEL]
 categories: [project, EU, R&D, H2020, EU Health]
-date: 2023-11-29T23:25:23+02:00
+date: "2023-11-29T23:25:23+02:00"
 project_start: 2023-12-01
 project_end:
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 **INTERACT Europe 100 (funded via the EU Health Programme by the European Commission), December 2023 – November 2026, Budget: 8.75 Mio EUR (331,579.52 EUR acquired for own institution)**

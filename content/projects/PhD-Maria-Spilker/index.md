@@ -6,7 +6,7 @@ summary: "Academic conferences for continuing professional development and learn
 authors: [Maria Spilker]
 tags: [PhD]
 categories: []
-date: 2025-01-30T06:59:00+02:00
+date: "2025-01-30T06:59:00+02:00"
 project_start: 2021-10-01
 project_end:
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 Project title: Academic conferences for continuing professional development and learning

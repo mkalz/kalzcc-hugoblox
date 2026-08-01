@@ -3,12 +3,12 @@
 
 title: "Mobiles Lernen im Zeitalter der Mobilität und Postdigitalität"
 authors:
-- Annette Schulze
-- me
-date: 2023-12-13T16:33:18+02:00
+  - Annette Schulze
+  - me
+date: "2023-12-13T16:33:18+02:00"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-12-23T16:33:18+02:00
+publishDate: "2023-12-23T16:33:18+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,11 +26,6 @@ publication:
   publisher: "Verlag Julius Klinkhardt"
 
 apa_citation: "Schulze, A., & Kalz, M. (2023). Mobiles Lernen im Zeitalter der Mobilität und Postdigitalität. In G. Brandhofer & C. Wiesner (Eds.), *Didaktik in einer Kultur der Digitalität: Wirkmächtige Mediendidaktik, zukunftsorientierte Pädagogik* (pp. 57–70). Verlag Julius Klinkhardt."
-
-
-
-
-
 
 abstract: "In diesem Kapitel widmen wir uns dem mobilen Lernen aus der Perspektive der Mobilität und Postdigitalität. Auf der Basis eines historischen Abrisses der verschiedenen Forschungs- und Entwicklungsströmungen des Feldes stellen die Autor:innen einige grundlegende Theorien und Modelle vor, die für die Diskussion zum mobilen Lernen ein hilfreiches Rahmenwerk zur Diskussion bieten können. Didaktische Perspektiven werden entlang den Orientierungsdimensionen einer „wirkmächtigen Mediendidaktik“ diskutiert."
 
@@ -59,7 +54,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -79,6 +74,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Schulze, A., & Kalz, M. (2023). Mobiles Lernen im Zeitalter der Mobilität und Postdigitalität. In Brandhofer, G., & Wiesner, C. (Hrsg.). (2023). Didaktik in einer Kultur der Digitalität. Wirkmächtige Mediendidaktik, zukunftsorientierte Pädagogik (pp 57-70). Verlag Julius Klinkhardt GmbH & Co. KG. 
+Schulze, A., & Kalz, M. (2023). Mobiles Lernen im Zeitalter der Mobilität und Postdigitalität. In Brandhofer, G., & Wiesner, C. (Hrsg.). (2023). Didaktik in einer Kultur der Digitalität. Wirkmächtige Mediendidaktik, zukunftsorientierte Pädagogik (pp 57-70). Verlag Julius Klinkhardt GmbH & Co. KG.

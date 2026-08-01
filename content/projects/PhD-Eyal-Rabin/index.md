@@ -6,7 +6,7 @@ summary: "Through the Lens of the Learner: Using Learning Analytics to Predict L
 authors: [Eyal Rabin]
 tags: [PhD]
 categories: []
-date: 2021-09-10T13:57:31+02:00
+date: "2021-09-10T13:57:31+02:00"
 project_start: 2017-10-01
 project_end: 2022-10-01
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 - Title of the thesis: Through the Lens of the Learner: Using Learning Analytics to Predict Learner-Centered Outcomes in Massive Open Online Courses [(thesis download)](https://research.ou.nl/ws/portalfiles/portal/44133170/Eyal_Rabin_dissertation_PhD.pdf)

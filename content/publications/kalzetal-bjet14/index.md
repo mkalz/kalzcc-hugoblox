@@ -3,15 +3,15 @@
 
 title: "Assessing the crossdisciplinarity of technology-enhanced learning with science overlay maps and diversity measures"
 authors:
-- me
-- Marcus Specht
-date: 2014-05-01T11:02:28+02:00
+  - me
+  - Marcus Specht
+date: "2014-05-01T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1111/bjet.12092"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2014-12-03T11:02:28+02:00
+publishDate: "2014-12-03T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,11 +29,6 @@ publication:
   publisher: "Wiley Online Library"
 
 apa_citation: "Kalz, M., & Specht, M. (2014). Assessing the crossdisciplinarity of technology-enhanced learning with science overlay maps and diversity measures. *British Journal of Educational Technology*, *45*(3), 415–427. https://doi.org/10.1111/bjet.12092"
-
-
-
-
-
 
 abstract: "This paper deals with the assessment of the crossdisciplinarity of technology-enhanced learning (TEL). Based on a general discussion of the concept interdisciplinarity and a summary of the discussion in the field two empirical methods from scientometrics are introduced and applied. Science overlay maps and the Rao-Stirling-Diversity index are used to analyze the TEL field with a scientometric analysis. The science overlay maps show that a wide variety of disciplines contribute to research in the field. The analysis reveals that the field has been operating on a relatively high level of crossdisciplinarity in the last 10 years compared to 6 other fields of reference. Only in 2004 a decrease in the level of crossdisciplinarity could be identified."
 
@@ -62,7 +57,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -82,6 +77,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Kalz, M., & Specht, M. (2014). Assessing the crossdisciplinarity of technology-enhanced learning with science overlay maps and diversity measures. *British Journal of Educational Technology*. *45*(3), 415 – 427. https://doi.org/10.1111/bjet.12092
+Kalz, M., & Specht, M. (2014). Assessing the crossdisciplinarity of technology-enhanced learning with science overlay maps and diversity measures. _British Journal of Educational Technology_. _45_(3), 415 – 427. https://doi.org/10.1111/bjet.12092

@@ -3,17 +3,17 @@
 
 title: "Who is taking MOOCs for teachers’ professional development on the use of ICT? A cross-sectional study from Spain"
 authors:
-- Jonatan Castaño-Munoz
-- Karel Kreijns
-- Yves Punie
-- me
-date: 2018-10-19T11:02:28+02:00
+  - Jonatan Castaño-Munoz
+  - Karel Kreijns
+  - Yves Punie
+  - me
+date: "2018-10-19T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1080/1475939X.2018.1528997"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-10-19T11:02:28+02:00
+publishDate: "2018-10-19T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,11 +31,6 @@ publication:
   publisher: "Taylor & Francis"
 
 apa_citation: "Castaño-Muñoz, J., Kalz, M., Kreijns, K., & Punie, Y. (2018). Who is taking MOOCs for teachers’ professional development on the use of ICT? A cross-sectional study from Spain. *Technology, Pedagogy and Education*, *27*(5), 607–624. https://doi.org/10.1080/1475939X.2018.1528997"
-
-
-
-
-
 
 abstract: "Research on the use of Massive Open Online Courses (MOOCs) for teacher professional development (TPD) and the characteristics of their participants is scarce. This article presents a case of a MOOC initiative supported by the Spanish Ministry of Education aiming at teachers’ professional development on the use of ICT for teaching and learning. The analysis is focused on (a) the sociodemographic and school characteristics of the teachers participating in MOOCs; (b) their experience and beliefs about lifelong learning; and (c) the relevance of MOOCs for their work. By contrasting the characteristics of the participants in this initiative with the characteristics of the whole population of teachers in Spain, and a sample of Spanish participants in MOOCs not aimed at TPD, the article sheds light on the specificities of the teachers who use this way of TPD. The results have implications for the design of programmes aimed to develop MOOCs for TPD."
 # Summary. An optional shortened abstract.
@@ -63,7 +58,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -83,6 +78,7 @@ projects: [MOOCKnowledge]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Castaño-Muñoz, J., Kalz, M., Kreijns, K., & Punie, Y. (2018). Who is taking MOOCs for teachers’ professional development on the use of ICT? A cross-sectional study from Spain. *Technology, Pedagogy and Education*, *27*(5), 607-624. https://doi.org/10.1080/1475939X.2018.1528997
+Castaño-Muñoz, J., Kalz, M., Kreijns, K., & Punie, Y. (2018). Who is taking MOOCs for teachers’ professional development on the use of ICT? A cross-sectional study from Spain. _Technology, Pedagogy and Education_, _27_(5), 607-624. https://doi.org/10.1080/1475939X.2018.1528997

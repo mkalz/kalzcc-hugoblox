@@ -6,7 +6,7 @@ summary: "Skill-based scouting of open user-generated and community-improved con
 authors: []
 tags: [Open Educational Resources, competences, skills, OER, management education, repository, EU project]
 categories: [projects, research]
-date: 2021-04-11T14:00:05+02:00
+date: "2021-04-11T14:00:05+02:00"
 project_start: 2009-09-01
 project_end: 2012-10-31
 
@@ -40,7 +40,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
 **Targeted Project funded under the eContentplus programme from September 2009 – October 2012), Budget: 5,6 Mio EUR (202 776 EUR for own institution, Role: partner)**
 
 OpenScout stands for “Skill based scouting of open user-generated and community-improved content for management education and training”. OpenScout is a project co-funded by the European Commission within the eContentplus Programme as a Targeted Project in the area of Educational Content (Grant ECP 2008 EDU 428016). OpenScout started in September 2009 and has a duration of three years. OpenScout aims at providing an education service in the internet that enables users to easily find, access, use and exchange open content for management education and training.

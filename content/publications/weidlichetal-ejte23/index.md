@@ -3,15 +3,15 @@
 
 title: "How well does teacher education prepare for teaching with technology? A TPACK-based investigation at a university of education"
 authors:
-- Joshua Weidlich
-- me
-date: 2023-08-04T13:39:39+02:00
+  - Joshua Weidlich
+  - me
+date: "2023-08-04T13:39:39+02:00"
 hugoblox:
   ids:
     doi: "10.1080/02619768.2023.2243645"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-09-09T13:39:39+02:00
+publishDate: "2023-09-09T13:39:39+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,11 +29,6 @@ publication:
   publisher: "Taylor & Francis"
 
 apa_citation: "Weidlich, J., & Kalz, M. (2026). How well does teacher education prepare for teaching with technology? A TPACK-based investigation at a university of education. *European Journal of Teacher Education*, *49*(1), 168–188. https://doi.org/10.1080/02619768.2023.2243645"
-
-
-
-
-
 
 abstract: "Past research has identified deficits in knowledge of student teachers regarding integration of technology in teaching leading to a need to investigate the efficacy of teacher training initiatives. There is a gap in understanding of developmental trajectories of these skills, as well as whether other factors moderate this. Using the TPACK-Model, the current study presents an analysis (N = 526) of a teacher training at a University of Education in Germany. Overall, results suggest trajectories where some knowledge domains are positively associated with study progress while others are not. Specifically, technology-related knowledge mostly does not show an association with study progress. However, this phenomenon is moderated by gender, suggesting that women report lower skills in technology-related dimensions and no associations with study progress. Our results illustrate the necessity to improve teacher training so that preservice teachers in general, but especially women, feel better qualified to integrate technology into the classroom."
 
@@ -62,7 +57,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -82,6 +77,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Weidlich, J., & Kalz, M. (2023). How well does teacher education prepare for teaching with technology? A TPACK-based investigation at a university of education. *European Journal of Teacher Education*, 1-21. doi: https://doi.org/10.1080/02619768.2023.2243645
+Weidlich, J., & Kalz, M. (2023). How well does teacher education prepare for teaching with technology? A TPACK-based investigation at a university of education. _European Journal of Teacher Education_, 1-21. doi: https://doi.org/10.1080/02619768.2023.2243645

@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-summary: ''
+title: ""
+summary: ""
 date: 2022-10-24
 type: landing
 
@@ -9,14 +9,14 @@ sections:
   - block: resume-biography-3
     content:
       username: me
-      text: ''
+      text: ""
       button:
         text: Give anonymous feedback
-        url: https://www.admonymous.co/mkalz
+        url: "https://www.admonymous.co/mkalz"
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: ""
+        education: ""
+        interests: ""
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -35,7 +35,7 @@ sections:
     id: posts
     content:
       title: Recent Posts
-      text: ''
+      text: ""
       count: 3
       filters:
         folders:
@@ -46,18 +46,18 @@ sections:
       columns: 3
   - block: markdown
     content:
-      title: ''
+      title: ""
       text: |-
         <div class="peep-break peep-right peep-cyan" aria-hidden="true"><img src="media/peeps/reading.svg" alt="" loading="lazy"></div>
     design:
-      columns: '1'
+      columns: "1"
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
     id: featured
     content:
       title: Featured Publications
-      text: ''
+      text: ""
       count: 6
       filters:
         folders:
@@ -70,7 +70,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: ''
+      text: ""
       filters:
         folders:
           - publications
@@ -79,18 +79,18 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: ''
+      title: ""
       text: |-
         <div class="peep-break peep-left peep-blue" aria-hidden="true"><img src="media/peeps/research.svg" alt="" loading="lazy"></div>
     design:
-      columns: '1'
+      columns: "1"
       spacing:
         padding: [0, 0, 0, 0]
   - block: current-projects
     id: projects
     content:
       title: Current Projects
-      text: ''
+      text: ""
       count: 6
       archive:
         enable: true
@@ -100,18 +100,18 @@ sections:
         padding: [3rem, 1rem, 3rem, 1rem]
   - block: markdown
     content:
-      title: ''
+      title: ""
       text: |-
         <div class="peep-break peep-right peep-violet" aria-hidden="true"><img src="media/peeps/conversation.svg" alt="" loading="lazy"></div>
     design:
-      columns: '1'
+      columns: "1"
       spacing:
         padding: [0, 0, 0, 0]
   - block: upcoming-talks
     id: upcoming-talks
     content:
       title: Upcoming Talks
-      text: ''
+      text: ""
       count: 6
     design:
       spacing:
@@ -120,25 +120,25 @@ sections:
     id: featured-talks
     content:
       title: Featured Talks
-      text: ''
+      text: ""
       count: 6
     design:
       spacing:
         padding: [3rem, 1rem, 3rem, 1rem]
   - block: markdown
     content:
-      title: ''
+      title: ""
       text: |-
         <div class="peep-break peep-left peep-cyan" aria-hidden="true"><img src="media/peeps/contact.svg" alt="" loading="lazy"></div>
     design:
-      columns: '1'
+      columns: "1"
       spacing:
         padding: [0, 0, 0, 0]
   - block: markdown
     id: newsletter
     content:
       title: Stay in touch
-      subtitle: ''
+      subtitle: ""
       text: |-
         <div class="newsletter-contact-grid" style="display:grid; grid-template-columns:minmax(0,5fr) minmax(0,6fr); gap:3rem; width:min(1400px,calc(100vw - 3rem)); position:relative; left:50%; transform:translateX(-50%); align-items:start;">
         <div class="newsletter-column">
@@ -154,7 +154,7 @@ sections:
         </div>
         <script src="https://sendfox.com/js/form.js"></script>
     design:
-      columns: '1'
+      columns: "1"
       spacing:
         padding: [2rem, 0, 2rem, 0]
   - block: cta-card
@@ -171,10 +171,12 @@ sections:
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: "https://hugoblox.com/templates/"
     design:
       card:
         # Card background color (CSS class)
-        css_class: 'bg-gradient-to-br from-primary-500 via-primary-600 to-secondary-600 text-white shadow-2xl'
-        css_style: ''
+        css_class: "bg-gradient-to-br from-primary-500 via-primary-600 to-secondary-600 text-white shadow-2xl"
+        css_style: ""
+
 ---
+

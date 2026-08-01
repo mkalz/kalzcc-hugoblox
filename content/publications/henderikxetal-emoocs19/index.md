@@ -3,15 +3,15 @@
 
 title: "Goal Setting and Striving in MOOCs: A Peek Inside the Black Box of Learner Behaviour"
 authors:
-- Maartje Henderikx
-- me
-date: 2019-09-12T11:02:28+02:00
+  - Maartje Henderikx
+  - me
+date: "2019-09-12T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1007/978-3-030-19875-6_8"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-09-12T11:02:28+02:00
+publishDate: "2019-09-12T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,11 +29,6 @@ publication:
   publisher: "Springer International Publishing"
 
 apa_citation: "Henderikx, M., & Kalz, M. (2019). Goal Setting and Striving in MOOCs: A Peek Inside the Black Box of Learner Behaviour. In M. Calise, C. Delgado Kloos, J. Reich, J. A. Ruiperez-Valiente, & M. Wirsing (Eds.), *Digital Education: At the MOOC Crossroads Where the Interests of Academia and Business Converge* (pp. 59–69). Springer International Publishing. https://doi.org/10.1007/978-3-030-19875-6_8"
-
-
-
-
-
 
 abstract: "Reaching goals can be challenging, especially if they are not in the near future like with learning in MOOCs. The aim of this explorative study was to get insight in this goal achievement process, which can help to understand learner behaviour. Two research questions were examined namely: (1) what goals do learners set, and do they succeed in reaching these goals? and (2) how does the course of action of several learners look taking Gollwitzer’s Rubikon model of action phases as a guideline? We found that even though learners did not achieve the goals they set, they were still generally satisfied with the knowledge they gained. In addition, learners went more or less intuitively through the theorised action phases, yet typically did not take the time to deliberately plan (before the start) and evaluate (after finishing) their learning process. This insight can serve as starting point for developing supporting tools for learners and personalised dashboards, which can offer the tools at appropriate times in a learner’s course of action."
 # Summary. An optional shortened abstract.
@@ -61,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -81,5 +76,7 @@ projects: [SOONER, PhD-Maartje-Henderikx]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
-Henderikx, M., Kalz, M. (2019). Goal Setting and Striving in MOOCs: A Peek Inside the Black Box of Learner Behaviour. In Calise, M., Delgado Kloos, C., Reich, J., Ruiperez-Valiente, J., Wirsing, M. (eds) *Digital Education: At the MOOC Crossroads Where the Interests of Academia and Business Converge.* (pp.59-69). EMOOCs 2019. Lecture Notes in Computer Science, vol 11475. Springer, Cham. https://doi.org/10.1007/978-3-030-19875-6_8
+
+Henderikx, M., Kalz, M. (2019). Goal Setting and Striving in MOOCs: A Peek Inside the Black Box of Learner Behaviour. In Calise, M., Delgado Kloos, C., Reich, J., Ruiperez-Valiente, J., Wirsing, M. (eds) _Digital Education: At the MOOC Crossroads Where the Interests of Academia and Business Converge._ (pp.59-69). EMOOCs 2019. Lecture Notes in Computer Science, vol 11475. Springer, Cham. https://doi.org/10.1007/978-3-030-19875-6_8

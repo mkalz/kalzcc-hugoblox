@@ -7,13 +7,13 @@ authors:
 - Stefaan Ternier
 - me
 - Marcus Specht
-date: 2010-10-13T11:02:28+02:00
+date: "2010-10-13T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1111/j.1467-8535.2010.01127.x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2014-12-03T11:02:28+02:00
+publishDate: "2014-12-03T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,8 +37,9 @@ apa_citation: "Klemke, R., Ternier, S., Kalz, M., & Specht, M. (2010). Implement
 
 
 
-abstract: "Making learning objects available is critical to reuse learning resources. Making
- content transparently available and providing added value to different stakeholders is among the goals of the European Commission's eContentPlus programme. This article analyses standards and protocols relevant for making learning objects accessible in distributed data provider networks. Types of metadata associated with learning objects and methods for metadata generation are discussed. Experiences from European projects highlight problems in implementing infrastructures and mapping metadata types into common application profiles. The use of learning contents and its associated metadata in different scenarios is described and concluded with lessons learned and pitfalls to avoid."
+abstract: |
+  Making learning objects available is critical to reuse learning resources. Making
+   content transparently available and providing added value to different stakeholders is among the goals of the European Commission's eContentPlus programme. This article analyses standards and protocols relevant for making learning objects accessible in distributed data provider networks. Types of metadata associated with learning objects and methods for metadata generation are discussed. Experiences from European projects highlight problems in implementing infrastructures and mapping metadata types into common application profiles. The use of learning contents and its associated metadata in different scenarios is described and concluded with lessons learned and pitfalls to avoid.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -87,4 +88,4 @@ projects: []
 slides: ""
 ---
 
-Klemke, R., Ternier, S., Kalz, M., & Specht, M. (2010). Implementing infrastructures for managing learning objects. *British Journal of Educational Technology*, *41*(6), 873-882. https://doi.org/10.1111/j.1467-8535.2010.01127.x
+Klemke, R., Ternier, S., Kalz, M., & Specht, M. (2010). Implementing infrastructures for managing learning objects. _British Journal of Educational Technology_, _41_(6), 873-882. https://doi.org/10.1111/j.1467-8535.2010.01127.x

@@ -3,14 +3,14 @@
 
 title: "Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen"
 authors:
-- me
-date: 2023-11-19T01:33:18+02:00
+  - me
+date: "2023-11-19T01:33:18+02:00"
 hugoblox:
   ids:
     doi: "10.21240/mpaed/00/2023.11.19.X"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-11-19T01:33:18+02:00
+publishDate: "2023-11-19T01:33:18+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,11 +28,6 @@ publication:
   publisher: ""
 
 apa_citation: "Kalz, M. (2023). Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen. *MedienPädagogik: Zeitschrift Für Theorie Und Praxis Der Medienbildung*, *2023*(Occasional Papers), 332–352. https://doi.org/10.21240/mpaed/00/2023.11.19.X"
-
-
-
-
-
 
 abstract: "Das Konzept der Zukunftskompetenzen wird aktuell für Hochschulen als eine Option gesehen, um Studierende besser auf eine ungewisse Zukunft vorzubereiten und diese zu Problemlösern der Zukunft auszubilden. Dabei verwundert es, dass das Konzept den Eingang in die politische Förderaktivitäten gefunden hat, ohne dass eine evidenzbasierte Analyse und eine kritische Diskussion des Konzeptes stattgefunden hat. In diesem Beitrag wird die Diskussion in einen historischen Zusammenhang eingeordnet und es werden Verbindungen zu vergleichbaren Konzepten und Aktivitäten hergestellt. Auf Basis von systematischen Literaturanalysen und Evidenzsynthesen wird der aktuelle Forschungsstand zusammengefasst und 9 Problembereiche bei der Diskussion und Förderung von Zukunftskompetenzen identifiziert. Neben der fehlenden Einordnung der Zukunftskompetenzen in frühere Ansätze wurden vor allem die fehlenden empirischen Grundlagen sowie das Nicht- Vorhandensein von Messemethoden zur Analyse dieser Kompetenzen als kritisch für die Förderung von Lernangeboten für Zukunftskompetenzen identifiziert. Als alternative Forschungs- und Entwicklungsrichtung wird die Herausforderung des Transfers innerhalb und ausserhalb von Expertisefeldern diskutiert."
 
@@ -61,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -81,6 +76,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 Kalz, M. (2023). Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen. MedienPädagogik: Zeitschrift für Theorie Und Praxis Der Medienbildung, 2023 (Occasional Papers), 332–352. https://doi.org/10.21240/mpaed/00/2023.11.19.X

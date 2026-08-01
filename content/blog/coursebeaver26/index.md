@@ -1,7 +1,7 @@
 ---
 title: CourseBeaver
 subtitle: A practical pipeline for audio-enhanced learning
-date: 2026-04-25T10:30:00+02:00
+date: "2026-04-25T10:30:00+02:00"
 authors:
   - me
 draft: true
@@ -22,6 +22,7 @@ categories:
   - workflows
   - AI
 projects: [CourseBeaver]
+
 ---
 
 In this semester I was happy to welcome new students to our MA E-Learning and Media-Education. One of my students is visually impaired and his level of blindness increases. While we offer a lot of digital learning resources I was not aware how challenging a normal study mode would be for him. During my lectures I became aware how my teaching style and especially the use of slides depends of connecting the visual channel with the auditive channel. While only my spoken presentation hopefully also serves as a good input for knowledge acqusition, the digital learning material which we offer via Moodle was far from being accessible due to numerous reasons (file formats like PDF, visualizations, lack of clear structure. )

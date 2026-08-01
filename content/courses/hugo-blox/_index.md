@@ -9,10 +9,11 @@ tags:
   - Course
 
 content_meta:
-  content_type: 'Course'
-  difficulty: 'Beginner'
-  prerequisites: ['Markdown']
+  content_type: "Course"
+  difficulty: "Beginner"
+  prerequisites: ["Markdown"]
   trending: false
+
 ---
 
 👋 Welcome to your shiny new site. Ready to learn more?

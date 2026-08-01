@@ -3,18 +3,18 @@
 
 title: "Positioning of Learners in Learning Networks with Content, Metadata and Ontologies"
 authors:
-- me
-- Jan van Bruggen
-- Ellen Rusman
-- Bas Giesbers
-- Rob Koper
-date: 2008-05-30T11:02:28+02:00
+  - me
+  - Jan van Bruggen
+  - Ellen Rusman
+  - Bas Giesbers
+  - Rob Koper
+date: "2008-05-30T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1080/10494820701424585"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2014-12-03T11:02:28+02:00
+publishDate: "2014-12-03T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,11 +32,6 @@ publication:
   publisher: "Taylor & Francis"
 
 apa_citation: "Kalz, M., Van Bruggen, J., Rusman, E., Giesbers, B., & Koper, R. (2007). Positioning of learners in learning networks with content, metadata and ontologies. *Interactive Learning Environments*, *15*(2), 191–200. https://doi.org/10.1080/10494820701424585"
-
-
-
-
-
 
 abstract: "Positioning in learning networks is a process that assists learners in finding a starting point and an efficient route through the network that will foster competence building. In the past we explored computational approaches to positioning that are based on the contents of the learning network and the behavior of those participating in it, more or less ignoring different efforts to stimulate positioning and competence development from a top-down-perspective. In this paper we introduce a research agenda for positioning in learning networks, discuss several cases and give an outlook on the development of a positioning service for learning networks."
 
@@ -65,7 +60,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -85,6 +80,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Kalz, M., Van Bruggen, J., Rusman, E., Giesbers, B., & Koper, R. (2007). Positioning of Learners in Learning Networks with Content, Metadata and Ontologies. *Interactive Learning Environments*, *15*(2), 191-200. https://doi.org/10.1080/10494820701424585
+Kalz, M., Van Bruggen, J., Rusman, E., Giesbers, B., & Koper, R. (2007). Positioning of Learners in Learning Networks with Content, Metadata and Ontologies. _Interactive Learning Environments_, _15_(2), 191-200. https://doi.org/10.1080/10494820701424585

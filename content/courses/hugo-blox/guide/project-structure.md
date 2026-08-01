@@ -1,6 +1,7 @@
 ---
 title: Project Structure
 weight: 1
+
 ---
 
 ## Folder Structure
@@ -20,7 +21,6 @@ There are **4 main folders for Hugo-based sites**:
   - `languages.yaml` to configure your site's language or to set language-specific options in a multilingual site
 - `static/uploads/` for any files you want visitors to download, such as a PDF
 - `go.mod` sets the version of Hugo themes/plugins which your site uses
-
 
 ## Hugo File Naming Convention
 

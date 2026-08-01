@@ -10,7 +10,7 @@ address:
   country: null
 summary: null
 abstract: null
-date: 2024-02-24T00:18:04+02:00
+date: "2024-02-24T00:18:04+02:00"
 authors: []
 tags:
   - events
@@ -30,9 +30,10 @@ url_pdf: null
 url_video: null
 slides: ""
 projects: []
-event_start: 2024-02-27T13:45:00+02:00
-event_end: 2024-02-27T15:00:00+02:00
+event_start: "2024-02-27T13:45:00+02:00"
+event_end: "2024-02-27T15:00:00+02:00"
 event_all_day: false
 event_name: Eingeladener Vortrag RPTU Kaiserslautern-Landau
+
 ---
 

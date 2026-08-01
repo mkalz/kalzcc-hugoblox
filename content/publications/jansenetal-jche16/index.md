@@ -3,18 +3,18 @@
 
 title: "Validation of the self-regulated online learning questionnaire"
 authors:
-- Renée Jansen
-- Anouschka van Leeuwen
-- Jeroen Janssen
-- Liesbeth Kester
-- me
-date: 2016-10-25T11:02:28+02:00
+  - Renée Jansen
+  - Anouschka van Leeuwen
+  - Jeroen Janssen
+  - Liesbeth Kester
+  - me
+date: "2016-10-25T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1007/s12528-016-9125-x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2016-10-25T11:02:28+02:00
+publishDate: "2016-10-25T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,11 +32,6 @@ publication:
   publisher: "Springer"
 
 apa_citation: "Jansen, R. S., Van Leeuwen, A., Janssen, J., Kester, L., & Kalz, M. (2017). Validation of the self-regulated online learning questionnaire. *Journal of Computing in Higher Education*, *29*(1), 6–27. https://doi.org/10.1007/s12528-016-9125-x"
-
-
-
-
-
 
 abstract: "The number of students engaged in Massive Open Online Courses (MOOCs) is increasing rapidly. Due to the autonomy of students in this type of education, students in MOOCs are required to regulate their learning to a greater extent than students in traditional, face-to-face education. However, there is no questionnaire available suited for this online context that measures all aspects of self-regulated learning (SRL). In this study, such a questionnaire is developed based on existing SRL questionnaires. This is the self-regulated online learning questionnaire. Exploratory factor analysis (EFA) on the first dataset led to a set of scales differing from those theoretically defined beforehand. Confirmatory factor analysis (CFA) was conducted on a second dataset to compare the fit of the theoretical model and the exploratively obtained model. The exploratively obtained model provided much better fit to the data than the theoretical model. All models under investigation provided better fit when excluding the task strategies scale and when merging the scales measuring metacognitive activities. From the results of the EFA and the CFA it can be concluded that further development of the questionnaire is necessary."
 # Summary. An optional shortened abstract.
@@ -64,7 +59,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -84,6 +79,7 @@ projects: [SOONER]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 Jansen, R. S., Van Leeuwen, A., Janssen, J., Kester, L., & Kalz, M. (2017). Validation of the self-regulated online learning questionnaire. Journal of Computing in Higher Education, 29(1), 6-27. https://doi.org/10.1007/s12528-016-9125-x

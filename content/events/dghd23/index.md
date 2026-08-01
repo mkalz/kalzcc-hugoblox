@@ -10,7 +10,7 @@ address:
   country: null
 summary: null
 abstract: null
-date: 2023-06-28T00:18:04+02:00
+date: "2023-06-28T00:18:04+02:00"
 authors: []
 tags:
   - events
@@ -27,11 +27,13 @@ links:
     url: "https://www.youtube.com/watch?v=uUIz1VV4Mqw"
 slides: ""
 projects: []
-event_start: 2023-09-19T12:30:00+02:00
-event_end: 2023-09-19T14:00:00+02:00
+event_start: "2023-09-19T12:30:00+02:00"
+event_end: "2023-09-19T14:00:00+02:00"
 event_all_day: false
-event_name: Themenreihe "KI in der Hochschullehre" der Deutschen Gesellschaft für Hochschuldidaktik
+event_name: 'Themenreihe "KI in der Hochschullehre" der Deutschen Gesellschaft für Hochschuldidaktik'
+
 ---
+
 ## Recording
 
 {{< youtube uUIz1VV4Mqw >}}

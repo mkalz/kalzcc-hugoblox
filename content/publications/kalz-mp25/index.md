@@ -3,14 +3,14 @@
 
 title: "Mediendidaktik als Implementierungswissenschaft der Pädagogik? Kommentar zu Michael Kerres ‹Mediendidaktik – Versuch einer Positionierung›"
 authors:
-- me
-date: 2025-09-19T01:33:18+02:00
+  - me
+date: "2025-09-19T01:33:18+02:00"
 hugoblox:
   ids:
     doi: "10.21240/mpaed/65/2025.04.29.X"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-09-19T01:33:18+02:00
+publishDate: "2025-09-19T01:33:18+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,11 +28,6 @@ publication:
   publisher: ""
 
 apa_citation: "Kalz, M. (2025). Mediendidaktik als Implementierungswissenschaft der Pädagogik? Kommentar zu Michael Kerres ‹Mediendidaktik – Versuch einer Positionierung›. *MedienPädagogik: Zeitschrift Für Theorie Und Praxis Der Medienbildung*, *65*(MEDIDA24), 45–49. https://doi.org/10.21240/mpaed/65/2025.04.29.X"
-
-
-
-
-
 
 abstract: "In this commentary the proposal for a repositioning of educational technology is commented and extended. Based on the limits of conceptualization of media, the research focus of educational technology is extended to macro-level of didactics, on the other hand educational technology is drafted as the implementation science of pedagogy."
 
@@ -61,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -81,6 +76,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Kalz, M. (2025). Mediendidaktik als Implementierungswissenschaft der Pädagogik? Kommentar zu Michael Kerres ‹Mediendidaktik – Versuch einer Positionierung›. *MedienPädagogik: Zeitschrift für Theorie Und Praxis Der Medienbildung*, 65(MEDIDA24), 45–49. https://doi.org/10.21240/mpaed/65/2025.04.29.X*
+Kalz, M. (2025). Mediendidaktik als Implementierungswissenschaft der Pädagogik? Kommentar zu Michael Kerres ‹Mediendidaktik – Versuch einer Positionierung›. _MedienPädagogik: Zeitschrift für Theorie Und Praxis Der Medienbildung_, 65(MEDIDA24), 45–49. https://doi.org/10.21240/mpaed/65/2025.04.29.X*

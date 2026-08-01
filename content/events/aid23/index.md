@@ -10,7 +10,7 @@ address:
   country: null
 summary: null
 abstract: null
-date: 2023-06-28T00:18:04+02:00
+date: "2023-06-28T00:18:04+02:00"
 authors: []
 tags:
   - events
@@ -28,9 +28,10 @@ url_video: null
 slides: ""
 projects:
   - Data2Teach
-event_start: 2023-09-26T14:00:00+02:00
-event_end: 2023-09-26T15:00:00+02:00
+event_start: "2023-09-26T14:00:00+02:00"
+event_end: "2023-09-26T15:00:00+02:00"
 event_all_day: false
-event_name: Themenwoche zur Datenkompetenz des Projektes "All is data"
+event_name: 'Themenwoche zur Datenkompetenz des Projektes "All is data"'
+
 ---
 

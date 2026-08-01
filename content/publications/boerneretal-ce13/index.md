@@ -3,16 +3,16 @@
 
 title: "Beyond the channel: A literature review on ambient displays for learning"
 authors:
-- Dirk Börner
-- me
-- Marcus Specht
-date: 2013-07-03T11:02:28+02:00
+  - Dirk Börner
+  - me
+  - Marcus Specht
+date: "2013-07-03T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1016/j.compedu.2012.06.010"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2015-12-03T11:02:28+02:00
+publishDate: "2015-12-03T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,11 +30,6 @@ publication:
   publisher: "Elsevier"
 
 apa_citation: "Börner, D., Kalz, M., & Specht, M. (2013). Beyond the channel: A literature review on ambient displays for learning. *Computers & Education*, *60*(1), 426–435. https://doi.org/10.1016/j.compedu.2012.06.010"
-
-
-
-
-
 
 abstract: "The review analyses work in the research field of ambient display with a focus on the use of such displays for situational awareness, feedback and learning. The purpose of the review is to assess the state-of-the-art of the use of ambient displays with an explicit or implicit learning purpose as well as the possible classification of respective prototypes on the basis of a presented framework. This framework is comprised of theories around the educational concepts of situational awareness and feedback as well as design dimensions of ambient displays. The review sheds light on results of recent empirical studies within this field as well as developed prototypes with a focus on their design and instructional capabilities when providing feedback. The results expose that the explicit use of ambient displays for learning is not a prominent research topic, although implicitly ambient displays are already used to support learning activities fostering situational awareness by exploiting feedback. Overall ambient displays represent a technological concept with great potential for learning and the review facilitates a proper foundation and research questions for further research in this direction – towards ambient learning displays."
 # Summary. An optional shortened abstract.
@@ -62,7 +57,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -82,6 +77,7 @@ projects: [PhD-Dirk-Boerner]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 Börner, D., Kalz, M., & Specht, M. (2013). Beyond the channel: A literature review on ambient displays for learning. Computers and Education, 60(1), 426-435. https://doi.org/10.1016/j.compedu.2012.06.010

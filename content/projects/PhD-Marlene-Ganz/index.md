@@ -6,7 +6,7 @@ summary: "Development and validation of a test instrument to assess students' da
 authors: [Marlene Ganz]
 tags: [PhD]
 categories: []
-date: 2025-01-30T06:59:00+02:00
+date: "2025-01-30T06:59:00+02:00"
 project_start: 2025-01-01
 project_end:
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 Project title: Development and validation of a test instrument to assess students' data literacy: analysis, modeling, and empirical testing

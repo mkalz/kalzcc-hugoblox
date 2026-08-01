@@ -6,13 +6,13 @@ summary: "New approaches for resuscitation support and training in the Euregio M
 authors: []
 tags: [cardiac arrest, CPR, game-based learning, OER, ambient displays, EU project]
 categories: [projects, research]
-date: 2021-04-11T13:59:57+02:00
+date: "2021-04-11T13:59:57+02:00"
 project_start: 2011-09-01
 project_end: 2014-08-31
 
 links:
   - type: site
-    url: https://keep.eu/projects/4360/EMuRgency-NL/
+    url: "https://keep.eu/projects/4360/EMuRgency-NL/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,7 +41,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
 **Funded via INTERREG IVa, September 2011 – August 2014), Budget: 3,53 Mio EUR (605 000 EUR acquired for own institution, Role: Coordinator)**
 
 The EMuRgency project was funded under the INTERREG IVa programe which is partially financed through the European Regional Development Fund (ERDF). Co-financing comes from several regions of the Euregio Rhine-Meuse and partners of the EMuRgency consortium.

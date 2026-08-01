@@ -3,12 +3,12 @@
 
 title: "Erneuerung der Hochschule von Außen nach Innen oder umgekehrt? Kritische Diskussion und Alternativen zur Future Skills-Bewegung"
 authors:
-- me
-- Gabi Reinmann
-date: 2024-08-19T01:33:18+02:00
+  - me
+  - Gabi Reinmann
+date: "2024-08-19T01:33:18+02:00"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-09-28T01:33:18+02:00
+publishDate: "2024-09-28T01:33:18+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,11 +26,6 @@ publication:
   publisher: ""
 
 apa_citation: "Kalz, M., & Reinmann, G. (2024). Erneuerung der Hochschule von Außen nach Innen oder umgekehrt? Kritische Diskussion und Alternativen zur Future Skills-Bewegung. *Impact Free*, *57*, 1–10. https://www.medienpaed.com/article/view/1759"
-
-
-
-
-
 
 abstract: "Wissenschaft lebt von der gegenseitigen Kritik und vom Wettstreit wie auch von der Weiterent-wicklung vorgebrachter Argumente, die mit Theorie und Begründung und/oder mit Empirie und Evidenz arbeiten. Die kontroverse Ausei-nandersetzung zu den „Future Skills“ für den Hochschulkontext ist dafür ein aktuelles Bei-spiel und entsprechend zu begrüßen. Im vorlie-genden Text beziehen wir uns in diesem Sinne auf die “kritische Bestandsaufnahme” von Eh-lers et al. (2024); in dieser werden einzelne Reaktionen und Kritikpunkte auf das Konzept Future Skills zusammengetragen und diskutiert. Dabei greifen die Autorinnen unter anderem auf Reaktionen unsererseits zurück, also auf publizierte Fachartikel von Marco Kalz wie auch auf Kurz- und Blogbeiträge von Gabi Reinmann. In diesem Beitrag werden noch einmal einige hochschuldidaktische Dimensionen der Basis von Future Skills diskutiert"
 
@@ -59,7 +54,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -79,6 +74,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Kalz, M. & Reinmann, G. (2024). Erneuerung der Hochschule von Außen nach Innen oder umgekehrt? Kritische Diskussion und Alternativen zur Future Skills-Bewegung. *Impact Free*, 57, 1–10.
+Kalz, M. & Reinmann, G. (2024). Erneuerung der Hochschule von Außen nach Innen oder umgekehrt? Kritische Diskussion und Alternativen zur Future Skills-Bewegung. _Impact Free_, 57, 1–10.

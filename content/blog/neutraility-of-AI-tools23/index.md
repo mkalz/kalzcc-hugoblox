@@ -7,8 +7,8 @@ summary: ""
 authors: [me]
 tags: [AI, AIEDU, algorithms, ethics, neutrality, determinism]
 categories: [reflection, daily improvisation]
-date: 2023-01-28T04:23:30+02:00
-lastmod: 2023-01-28T04:23:30+02:00
+date: "2023-01-28T04:23:30+02:00"
+lastmod: "2023-01-28T04:23:30+02:00"
 featured: true
 draft: false
 
@@ -26,7 +26,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
 ---
+
 <mark>„ChatGPT itself is a neutral tool, and how it is used depends on the intentions of those who use it.“ (Cohen, 2023).</mark>
 
 

@@ -3,19 +3,19 @@
 
 title: "Solutions for global marine litter pollution"
 authors:
-- Ansje Löhr
-- Heidi Savelli
-- Raoul Beunen
-- me
-- Ad Ragas
-- Frank Van Belleghem
-date: 2017-08-07T13:28:01+02:00
+  - Ansje Löhr
+  - Heidi Savelli
+  - Raoul Beunen
+  - me
+  - Ad Ragas
+  - Frank Van Belleghem
+date: "2017-08-07T13:28:01+02:00"
 hugoblox:
   ids:
     doi: "10.1016/j.cosust.2017.08.009"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2017-08-31T13:28:01+02:00
+publishDate: "2017-08-31T13:28:01+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,11 +33,6 @@ publication:
   publisher: "Elsevier"
 
 apa_citation: "Löhr, A., Savelli, H., Beunen, R., Kalz, M., Ragas, A., & Van Belleghem, F. (2017). Solutions for global marine litter pollution. *Current Opinion in Environmental Sustainability*, *28*, 90–99. https://doi.org/10.1016/j.cosust.2017.08.009"
-
-
-
-
-
 
 abstract: "Since the 1950s the amount of plastics in the marine environment has increased dramatically. Worldwide there is a growing concern about the risks and possible adverse effects of (micro)plastics. This paper reflects on the sources and effects of marine litter and the effects of policies and other actions taken worldwide. Current knowledge offers a solid basis for effective action. Yet, so far the effects of policies and other initiatives are still largely insufficient. The search for appropriate responses could be based on possible interventions and profound understanding of the context specific factors for success. Moreover, the scope, timeframe and dynamics of all initiatives are distinctly different and orchestration at all levels, in close cooperation with one another is currently lacking."
 
@@ -66,7 +61,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -86,6 +81,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Löhr, A., Savelli, H., Beunen, R., Kalz, M., Ragas, A., & Van Belleghem, F. (2017). Solutions for global marine litter pollution. *Current opinion in environmental sustainability*, *28*, 90-99. https://doi.org/10.1016/j.cosust.2017.08.009 
+Löhr, A., Savelli, H., Beunen, R., Kalz, M., Ragas, A., & Van Belleghem, F. (2017). Solutions for global marine litter pollution. _Current opinion in environmental sustainability_, _28_, 90-99. https://doi.org/10.1016/j.cosust.2017.08.009

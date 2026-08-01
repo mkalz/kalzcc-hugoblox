@@ -6,7 +6,7 @@ summary: "Digital Transition and digital resilience in oncology"
 authors: []
 tags: [EU project, cancer, professionalization, doctors, nurses, TEL]
 categories: [project, EU, R&D, H2020, EU Health]
-date: 2023-01-17T23:25:23+02:00
+date: "2023-01-17T23:25:23+02:00"
 project_start: 2023-03-01
 project_end: 2025-02-28
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 **TRANSITION - Digital Transition and digital resilience in oncology (Funded via European Commission, 01.03.2023 - 28.02.2025), Budget: 2.299 541 EUR (53 928 EUR acquired for own institution, Role: partner)**

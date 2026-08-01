@@ -3,19 +3,19 @@
 
 title: "A Study about Placement Support Using Semantic Similarity"
 authors:
-- me
-- Jan van Bruggen
-- Bas Giesbers
-- Wim Waterink
-- Jannes Eshuis
-- Rob Koper
-date: 2014-12-03T11:02:28+02:00
+  - me
+  - Jan van Bruggen
+  - Bas Giesbers
+  - Wim Waterink
+  - Jannes Eshuis
+  - Rob Koper
+date: "2014-12-03T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "https://www.jstor.org/stable/jeductechsoci.17.3.54"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2014-12-03T11:02:28+02:00
+publishDate: "2014-12-03T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,11 +33,6 @@ publication:
   publisher: "JSTOR"
 
 apa_citation: "Kalz, M., Van Bruggen, J., Giesbers, B., Waterink, W., Eshuis, J., & Koper, R. (2014). A study about placement support using semantic similarity. *Journal of Educational Technology & Society*, *17*(3), 54–64. https://doi.org/https://www.jstor.org/stable/jeductechsoci.17.3.54"
-
-
-
-
-
 
 abstract: "This paper discusses Latent Semantic Analysis (LSA) as a method for the assessment of prior learning. The Accreditation of Prior Learning (APL) is a procedure to offer learners an individualized curriculum based on their prior experiences and knowledge. The placement decisions in this process are based on the analysis of student material by domain experts, making it a time-consuming and expensive process. In order to reduce the workload of these domain experts we are seeking ways in which the preprocessing and selection of student submitted material can be achieved with technological support. This approach can at the same time stimulate research about assessment in open and networked learning environments. The study was conducted in the context of a Psychology Course of the Open University of the Netherlands. The results of the study confirm our earlier findings regarding the identification of the ideal number of dimensions and the use of stopwords for small-scale corpora. Furthermore the study indicates that the application of the vector space model and dimensionality reduction produces a well performing classification model for deciding about relevant documents for APL procedures. Together we discuss methodological issues and limitations of our study whilst also providing an outlook on future research in this area."
 
@@ -66,7 +61,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -86,6 +81,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Kalz, M., Van Bruggen, J., Giesbers, B., Waterink, W., Eshuis, J., & Koper, R. (2014). A study about placement support using semantic similarity. *Journal of Educational Technology & Society*, *17*(3), 54-64. https://www.jstor.org/stable/jeductechsoci.17.3.54
+Kalz, M., Van Bruggen, J., Giesbers, B., Waterink, W., Eshuis, J., & Koper, R. (2014). A study about placement support using semantic similarity. _Journal of Educational Technology & Society_, _17_(3), 54-64. https://www.jstor.org/stable/jeductechsoci.17.3.54

@@ -2,6 +2,7 @@
 title: Privacy Policy
 date: 2026-07-31
 draft: false
+
 ---
 
 _Last updated: 31 July 2026_
@@ -14,7 +15,7 @@ Prof. Dr. Marco Kalz
 Heidelberg University of Education  
 Keplerstraße 87  
 69120 Heidelberg  
-Germany  
+Germany
 
 Email: [kalz@ph-heidelberg.de](mailto:kalz@ph-heidelberg.de)
 
@@ -30,7 +31,7 @@ Further information is available in the [GitHub Privacy Statement](https://docs.
 
 ## 3. Newsletter through SendFox
 
-Visitors may subscribe to the newsletter *The day’s refrain – musings on digital education*. The newsletter service is provided by Sumo Group Inc., doing business as SendFox, 1305 E. 6th St #3, Austin, TX 78702, USA.
+Visitors may subscribe to the newsletter _The day’s refrain – musings on digital education_. The newsletter service is provided by Sumo Group Inc., doing business as SendFox, 1305 E. 6th St #3, Austin, TX 78702, USA.
 
 When you subscribe, the information entered in the subscription form, including your first name, last name, email address, consent status, and potentially technical information such as your IP address and submission time, is transmitted to SendFox.
 

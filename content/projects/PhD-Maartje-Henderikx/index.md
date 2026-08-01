@@ -6,7 +6,7 @@ summary: "Mind the Gap. Unravelling learner success and behaviour in Massive Ope
 authors: [Maartje Henderikx]
 tags: [PhD]
 categories: []
-date: 2021-04-11T13:58:03+02:00
+date: "2021-04-11T13:58:03+02:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -38,7 +38,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
 - Title of the thesis: Mind the Gap. Unravelling learner success and behaviour in Massive Open Online Courses [(thesis download)](https://research.ou.nl/ws/portalfiles/portal/11849471/DissertationMaartjeHenderikx.pdf)
 - Defense date: 6. September 2019
 - Awarding institution: Open University of the Netherlands

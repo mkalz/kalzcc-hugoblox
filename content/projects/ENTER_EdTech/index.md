@@ -6,7 +6,7 @@ summary: "Entering the EdTech Entrepreneurship World"
 authors: []
 tags: [entrepreneurship, EdTech, startups, EU project]
 categories: [project, EU, R&D]
-date: 2021-04-10T23:25:23+02:00
+date: "2021-04-10T23:25:23+02:00"
 project_start: 2021-01-01
 project_end: 2024-12-31
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 **ENTER_EdTech: Entering the EdTech Entrepreneurship World (funded via Erasmus Plus by the European Commission), Januar 2021 – December 2024, Budget: 924 050 EUR (128.250 EUR acquired for own institution)**

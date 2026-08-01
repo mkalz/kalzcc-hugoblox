@@ -5,43 +5,43 @@ date: 2024-01-01
 type: slides
 summary: "A quick tour of recent research highlights: multimodal LLMs, efficient training, and responsible AI."
 slides:
-  theme: black  # Options: black, white, league, beige, sky, night, serif, simple, solarized
-  highlight_style: dracula  # Code syntax highlighting theme
-  diagram: true  # Enable Mermaid diagrams for flowcharts, etc.
+  theme: black # Options: black, white, league, beige, sky, night, serif, simple, solarized
+  highlight_style: dracula # Code syntax highlighting theme
+  diagram: true # Enable Mermaid diagrams for flowcharts, etc.
   reveal_options:
-    controls: true      # Show navigation arrows
-    progress: true      # Show progress bar
-    slideNumber: true   # Show slide numbers
-    hash: true          # Update URL when navigating slides
+    controls: true # Show navigation arrows
+    progress: true # Show progress bar
+    slideNumber: true # Show slide numbers
+    hash: true # Update URL when navigating slides
 
   # BRANDING: Add logo, title overlay, and footer to your presentation
   # All settings are optional - remove any you don't need
   branding:
     # LOGO: Display your organization's logo
     logo:
-      filename: "slides-logo.svg"   # File in assets/media/ folder (SVG recommended for any theme)
-      position: "top-right"         # Options: top-left, top-right, bottom-left, bottom-right
-      width: "50px"                 # Logo width (height scales automatically)
+      filename: "slides-logo.svg" # File in assets/media/ folder (SVG recommended for any theme)
+      position: "top-right" # Options: top-left, top-right, bottom-left, bottom-right
+      width: "50px" # Logo width (height scales automatically)
       # margin: "20px"              # Distance from edge (optional, default: 20px)
-    
+
     # TITLE OVERLAY: Show presentation title on every slide
     title:
-      show: true                    # Set to false to hide
-      position: "bottom-left"       # Options: top-left, top-right, bottom-left, bottom-right
+      show: true # Set to false to hide
+      position: "bottom-left" # Options: top-left, top-right, bottom-left, bottom-right
       # text: "Short Title"         # Optional: override the page title with custom text
       # margin: "20px"              # Distance from edge (optional)
-    
+
     # AUTHOR OVERLAY: Show author name on every slide
     # author:
     #   show: true
     #   position: "bottom-right"
-    
+
     # FOOTER TEXT: Display copyright, conference name, etc.
     footer:
-      text: "© 2026 HugoBlox"       # Supports Markdown (e.g., links)
-      position: "bottom-center"     # Options: top-left, top-right, bottom-left, bottom-right, bottom-center
----
+      text: "© 2026 HugoBlox" # Supports Markdown (e.g., links)
+      position: "bottom-center" # Options: top-left, top-right, bottom-left, bottom-right, bottom-center
 
+---
 
 <!-- no-branding -->
 # Example Talk

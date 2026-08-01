@@ -1,7 +1,7 @@
 ---
 title: Retraction of a plagiarised edtech book. The final chapter.
 subtitle:
-date: 2024-05-22T02:36:59.875Z
+date: "2024-05-22T02:36:59.875Z"
 authors:
   - me
 draft: false
@@ -22,7 +22,9 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+
 ---
+
 This is hopefully the last chapter of a series of activities I have started nearly one year ago. I had reported a case of AI-supported plagiarism in a book on learning analytics which has been published in German last year ([see original post here](https://kalz.cc/2023/09/15/ai-destroys-principles-of-authorship-a-scary-case-from-educational-technology-publishing./)). One of our papers has been plagiarized by a team of authors who have published a [book in German on "Educational Data Mining and Learning Analytics"](https://link.springer.com/book/10.1007/978-3-658-39607-7). After months of lack of reaction by the Springer and authors from Dublin City University I have reported the status [in this post](https://kalz.cc/2024/03/08/a-plagiarised-edtech-book-and-nobody-cares/).
 
 Today, I am happy to report that the book is finally retracted and it even has the following retraction message on each chapter:

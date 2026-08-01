@@ -3,14 +3,14 @@
 
 title: "Kompetenzorientierung"
 authors:
-- me
-date: 2025-09-09T01:33:18+02:00
+  - me
+date: "2025-09-09T01:33:18+02:00"
 hugoblox:
   ids:
     doi: "10.5771/9783748943334-275"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-09-09T01:33:18+02:00
+publishDate: "2025-09-09T01:33:18+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,11 +28,6 @@ publication:
   publisher: "Nomos Verlagsgesellschaft mbH & Co. KG"
 
 apa_citation: "Kalz, M. (2025). II.1.7 Kompetenzorientierung. In *Hochschulforschung* (pp. 275–284). Nomos Verlagsgesellschaft mbH & Co. KG. https://doi.org/10.5771/9783748943334-275"
-
-
-
-
-
 
 abstract: "Der Begriff der Kompetenz stellt sich als ein multidimensionales und uneinheitliches Konzept für Hochschulen dar. Der Beitrag diskutiert die Kompetenzorientierung von Hochschu­len aus historischer Sicht und systematisiert den aktuellen Diskurs zu Kompetenzen für die Hochschulbildung auf Basis von akademischen Kompetenzen. Schließlich wird der Trend zur Formulierung von neuen Kompetenzanforderungen an Hochschulen kritisch beleuchtet."
 
@@ -61,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -81,6 +76,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Kalz, M. (2025). Kompetenzorientierung. In K., Pasternack, P., Reinmann, G., Schneijderberg, C. (Eds). *Handbuch Hochschulforschung. Forschung über Hochschule und Wissenschaft.* (pp.275-284) Baden-Baden, Nomos Verlag. https://doi.org/10.5771/9783748943334-275
+Kalz, M. (2025). Kompetenzorientierung. In K., Pasternack, P., Reinmann, G., Schneijderberg, C. (Eds). _Handbuch Hochschulforschung. Forschung über Hochschule und Wissenschaft._ (pp.275-284) Baden-Baden, Nomos Verlag. https://doi.org/10.5771/9783748943334-275

@@ -6,7 +6,7 @@ summary: "Innovative collaboration for Inter-specialty cancer training across Eu
 authors: []
 tags: [EU project, cancer, professionalization, doctors, nurses, TEL]
 categories: [project, EU, R&D, H2020, EU Health]
-date: 2022-07-01T23:25:23+02:00
+date: "2022-07-01T23:25:23+02:00"
 project_start: 2022-07-01
 project_end: 2023-11-30
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 **INTERACT EUROPE: Innovative collaboration for Inter-specialty cancer training across Europe(funded via the EU Health Programme by the European Commission), July 2022 – November 2023, Budget: 2.6 Mio EUR (170,826.80 EUR acquired for own institution)**

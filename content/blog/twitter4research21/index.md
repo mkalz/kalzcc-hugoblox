@@ -1,7 +1,7 @@
 ---
 title: Implications of the new Twitter Academic Research product track
 subtitle: How to use Twitter for research
-date: 2021-04-02T09:36:59.875Z
+date: "2021-04-02T09:36:59.875Z"
 authors:
   - me
 draft: false
@@ -19,10 +19,10 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+
 ---
+
 Twitter has recently announced that it will make the so called "full archive search" available for academic research. Until this change, it was either very costly (by paying for the enterprise version) or it took very long to build an archive of tweets (for example via the very good [TAGS tool](https://tags.hawksey.info)). With the new product for researchers and the advanced version of the Twitter-API (v2) it is possible to collect tweets from the whole archive even until the first day of existence of Twitter. This changes the potential to use Twitter also for retrospective research completely. Since the setup is not that easy I will lead you through the steps required for starting your own research with the help of Twitter.
-
-
 
 **Step-by-step instruction towards your corpus of tweets**
 
@@ -55,4 +55,3 @@ I have collected in this example all tweets that have been sent for three hashta
 **Some words on computational capacity**
 
 Since I have collected a larger number of tweets (around 700 000) and I have used a setup with a low amount of memory (1 GB), it was important to collect tweets in batches and then merge the data in a second step. I have during the process analyzed the performance of the computer and I have seen that I was running into memory limits. If you see this, you need to either choose a more powerful setup or make your timespans smaller to reduce the number of tweets per collection step. In the second featured post in this newsletter I will introduce a very flexible infrastructure for this kind of activities.
-

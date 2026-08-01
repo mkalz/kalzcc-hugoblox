@@ -3,16 +3,16 @@
 
 title: "Refining success and dropout in massive open online courses based on the intention–behavior gap"
 authors:
-- Maartje Henderikx
-- Karel Kreijns
-- me
-date: 2017-09-12T11:02:28+02:00
+  - Maartje Henderikx
+  - Karel Kreijns
+  - me
+date: "2017-09-12T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1080/01587919.2017.1369006"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2017-09-12T11:02:28+02:00
+publishDate: "2017-09-12T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,11 +30,6 @@ publication:
   publisher: "Taylor & Francis"
 
 apa_citation: "Henderikx, M. A., Kreijns, K., & Kalz, M. (2017). Refining success and dropout in massive open online courses based on the intention–behavior gap. *Distance Education*, *38*(3), 353–368. https://doi.org/10.1080/01587919.2017.1369006"
-
-
-
-
-
 
 abstract: "In this paper we present an alternative typology for determining success and dropout in massive open online courses (MOOCs). This typology takes the perspectives of MOOC-takers into account and is based on the their intentions and subsequent behaviour. An explorative study using two MOOCs was carried out to test the applicability of the typology. Following the traditional approach based on course completion to identify educational success, success rates were 6.5 and 5.6%. The success rates from the perspectives of the MOOC-taker were 59 and 70%. These findings demonstrate that merely looking at course completion as a measure for success does not suffice in the context of MOOCs. This change in addressing MOOC success and dropout provides an alternative view and demonstrates the importance of MOOC-takers’ perspectives."
 # Summary. An optional shortened abstract.
@@ -62,7 +57,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -82,6 +77,7 @@ projects: [SOONER, PhD-Maartje-Henderikx]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Henderikx, M. A., Kreijns, K., & Kalz, M. (2017). Refining success and dropout in massive open online courses based on the intention–behavior gap. *Distance Education*, *38*(3), 353-368. https://doi.org/10.1080/01587919.2017.1369006
+Henderikx, M. A., Kreijns, K., & Kalz, M. (2017). Refining success and dropout in massive open online courses based on the intention–behavior gap. _Distance Education_, _38_(3), 353-368. https://doi.org/10.1080/01587919.2017.1369006

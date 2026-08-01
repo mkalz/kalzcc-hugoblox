@@ -7,8 +7,8 @@ summary: ""
 authors: [me]
 tags: [rstats, cloud, research infrastructure]
 categories: [hacks, daily improvisation]
-date: 2021-04-11T18:23:30+02:00
-lastmod: 2021-04-11T18:23:30+02:00
+date: "2021-04-11T18:23:30+02:00"
+lastmod: "2021-04-11T18:23:30+02:00"
 featured: false
 draft: false
 
@@ -26,6 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
 ---
 
 In the last two years I have slowly deviated from using GUI-interfaces for statistical analysis towards a more open and transparent approach. Before and during the pandemic I have shiftet my data-analysis completely to R and I have offered in the last semester for the first time a course on "Data Science in Education" in which I have used R intensively with students. Since my usage of R has increased in the meantime also towards more complex scenarios like natural-language-processing or social-network-analysis I was loooking into an analysis environment that is easy to reach and that can run without disturbing my other tasks. This requirement has become even more important during the pandemic in which I hardly find time to let my computer run 1 hour for an analysis without interacting. My usage scenario is clearly only a fraction of any standard high-performance-computing so I was looking for a flexible solution which is cheap and scalable.

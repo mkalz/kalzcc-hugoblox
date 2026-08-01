@@ -1,7 +1,7 @@
 ---
 title: Using Nextcloud as project management system
 subtitle:
-date: 2024-02-03T09:36:59.875Z
+date: "2024-02-03T09:36:59.875Z"
 authors:
   - me
 draft: false
@@ -20,10 +20,13 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+
 ---
+
 Due to lack of good open source project management systems and deficiencies of federal solutions and lack of a local system, I have explored again [Nextcloud](https://nextcloud.com) as an open source option for project management. While an initial search mostly delivers integrations to Open Project into Nextcloud, I had the goal to model a workflow of a project fully in Nextcloud.
 
 My requirements for project-management besides conformity with national data protection rules are the following:
+
 - A group function to assign users to groups (members of a project). Groups should be visible in other apps.
 - A joint file-sharing option with joint editing support. For the editing I want to be able to start documents in the browser for notetaking during meetings and other purposes. Collaborative editing should also work flawlessly.
 - An option to maintain joint ToDo lists with deadlines and assignment of tasks to individuals.

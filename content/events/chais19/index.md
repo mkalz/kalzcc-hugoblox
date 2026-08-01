@@ -1,7 +1,7 @@
 ---
 title: Learning in the digital society. Effects and unintended consequences of mainstreaming of technology-enhanced learning
 event_url: null
-location: Ra'anana, Israel
+location: "Ra'anana, Israel"
 address:
   street: null
   city: null
@@ -10,7 +10,7 @@ address:
   country: null
 summary: null
 abstract: null
-date: 2020-04-11T00:18:04+02:00
+date: "2020-04-11T00:18:04+02:00"
 authors: []
 tags:
   - events
@@ -30,11 +30,13 @@ links:
     url: "https://youtu.be/hmz-5CblECw"
 slides: ""
 projects: []
-event_start: 2019-02-13T09:00:00+02:00
-event_end: 2019-02-13T11:00:00+02:00
+event_start: "2019-02-13T09:00:00+02:00"
+event_end: "2019-02-13T11:00:00+02:00"
 event_all_day: false
 event_name: Annual CHAIS conference of the Research Center for Innovation in Learning Technologies at the Open University of Israel
+
 ---
+
 ## Recording
 
 {{< youtube hmz-5CblECw >}}

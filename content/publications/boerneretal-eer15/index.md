@@ -3,16 +3,16 @@
 
 title: "It Doesn’t Matter, But: Examining the impact of ambient learning displays on energy consumption and conservation at the workplace"
 authors:
-- Dirk Börner
-- me
-- Marcus Specht
-date: 2015-12-03T11:02:28+02:00
+  - Dirk Börner
+  - me
+  - Marcus Specht
+date: "2015-12-03T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1080/13504622.2014.921804"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2015-12-03T11:02:28+02:00
+publishDate: "2015-12-03T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,11 +30,6 @@ publication:
   publisher: "Taylor & Francis"
 
 apa_citation: "Börner, D., Kalz, M., & Specht, M. (2015). It doesn’t matter, but: examining the impact of ambient learning displays on energy consumption and conservation at the workplace. *Environmental Education Research*, *21*(6), 899–915. https://doi.org/10.1080/13504622.2014.921804"
-
-
-
-
-
 
 abstract: "This study reports an intervention to initiate environmental learning and facilitate pro-environmental behaviour. The purpose was to examine the impact of ambient learning displays on energy consumption and conservation at the workplace, more specifically the evaluation of learning outcome and behaviour change. Using a quasi-experimental design, the empirical study was conducted among employees working at a university campus. For the experimental treatments ambient learning display prototypes were varied on two design dimensions, namely representational fidelity and notification level. The results do not provide clear evidence that the design of the displays influences learning outcome or that the displays lead to pro-environmental behaviour change. Nevertheless the sole deployment of the display prototypes eased the comprehension of the information provided and lowered the need for additional information. Thus ambient learning displays provide a promising framework in the context of environmental learning and beyond."
 # Summary. An optional shortened abstract.
@@ -62,7 +57,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -82,6 +77,7 @@ projects: [PhD-Dirk-Boerner]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Börner, D., Kalz, M., & Specht, M. (2015). It doesn’t matter, but: examining the impact of ambient learning displays on energy consumption and conservation at the workplace. *Environmental Education Research*, *21*(6), 899-915. https://doi.org/10.1080/13504622.2014.921804
+Börner, D., Kalz, M., & Specht, M. (2015). It doesn’t matter, but: examining the impact of ambient learning displays on energy consumption and conservation at the workplace. _Environmental Education Research_, _21_(6), 899-915. https://doi.org/10.1080/13504622.2014.921804

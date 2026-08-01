@@ -3,14 +3,14 @@
 
 title: "Annotation of a Dutch Essay Corpus with Argument Structures and Quality Indicators"
 authors:
-- Liqin Zhang
-- Howard Spoelstra
-- me
+  - Liqin Zhang
+  - Howard Spoelstra
+  - me
 
-date: 2022-06-06T11:02:28+02:00
+date: "2022-06-06T11:02:28+02:00"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-06T08:02:28+02:00
+publishDate: "2022-06-06T08:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,11 +28,6 @@ publication:
   publisher: ""
 
 apa_citation: "Zhang, L., Spoelstra, H., & Kalz, M. (2021). Annotation of a Dutch Essay Corpus with Argument Structures and Quality Indicators. *Computational Linguistics in the Netherlands Journal*, *11*, 257–279."
-
-
-
-
-
 
 abstract: "Based on the availability of previously annotated text corpora, the technique of argument min- ing (AM) aims to discover components in texts belonging to an argumentation structure. Due to the lack of such annotated corpus for the Dutch language, this paper presents a Dutch essay corpus with annotations of argumentation structures and quality indicators. We applied the annotation schemes and guidelines derived from previous studies to capture the argument structures of Dutch argumentative essays by identifying and classifying the argument components into major claims, claims, and premises as well as the support/attack relations between the components. Further- more, we annotated persuasiveness scores and attributes that influence persuasiveness as quality indicators. The annotation task was performed by four native Dutch teachers who annotated 30 student-written Dutch argumentative essays. The inter-rater agreement of the annotations was generally lower compared to similar previous work, due to the less rigid format of the essays in our corpus and more annotators participating in the annotation task. However, the essays in our corpus are more in line with non-worked real-world text examples. To ensure the accuracy, objec- tivity, and reliability of the corpus a consolidation procedure was applied to the final compilation. This corpus presents a novel and reliable resource for future applications in argument mining tasks in the Dutch context. The corpus is publicly available via GitHub1."
 # Summary. An optional shortened abstract.
@@ -60,7 +55,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -80,6 +75,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Zhang, L., Spoelstra, H., & Kalz, M. (2021). Annotation of a Dutch Essay Corpus with Argument Structures and Quality Indicators. *Computational Linguistics in the Netherlands Journal*, 11, 257-279.
+Zhang, L., Spoelstra, H., & Kalz, M. (2021). Annotation of a Dutch Essay Corpus with Argument Structures and Quality Indicators. _Computational Linguistics in the Netherlands Journal_, 11, 257-279.

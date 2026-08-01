@@ -6,10 +6,9 @@ summary: "Open eLearning Content Observatory Services"
 authors: []
 tags: [open content, OER, open practices, EU project]
 categories: [projects, EU-funding]
-date: 2021-04-11T14:00:32+02:00
+date: "2021-04-11T14:00:32+02:00"
 project_start: 2006-01-01
 project_end: 2007-12-31
-
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -41,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 **Transversal Action funded by the European Comission under the eLearning programme between January 2006 – December 2007), Budget: 373.263 €, 80 000 EUR for own institution:** **[http://www.olcos.org](http://www.olcos.org/)**

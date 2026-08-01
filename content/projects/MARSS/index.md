@@ -17,7 +17,7 @@ categories:
   - teachers
   - OER
 
-date: 2022-10-01T02:59:50+02:00
+date: "2022-10-01T02:59:50+02:00"
 
 image:
   caption: ""
@@ -25,6 +25,7 @@ image:
   preview_only: false
 
 ---
+
 ## Funding
 
 Funded via a grant of the Federal Ministry of Research, Technology and Space. April 2026 - March 2029, Budget: 2,2 Mio EUR (396 492 EUR acquired for own institution)

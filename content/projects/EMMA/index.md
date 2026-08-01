@@ -6,14 +6,14 @@ summary: "European Multiple MOOC Aggregator"
 authors: []
 tags: [MOOCS, learning design, cross-language, NLP, EU project]
 categories: [projects, EU, R&D]
-date: 2021-04-10T23:26:00+02:00
+date: "2021-04-10T23:26:00+02:00"
 project_start: 2019-09-01
 project_end: 2022-12-31
 featured: false
 
 links:
   - type: site
-    url: https://platform.europeanmoocs.eu
+    url: "https://platform.europeanmoocs.eu"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,6 +42,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 **EMMA: European Multiple MOOC Aggregator (funded via Policy Support Program by the European Commission), February 2014 – August 2016, Budget: 4,95 Mio EUR (191.000 EUR acquired for own institution, Role: partner) [http://www.europeanmoocs.eu](http://www.europeanmoocs.eu/)**

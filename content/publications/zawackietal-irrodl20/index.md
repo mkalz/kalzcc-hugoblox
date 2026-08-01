@@ -3,39 +3,39 @@
 
 title: "Elements of Open Education: An Invitation to Future Research"
 authors:
-- Olaf Zawacki-Richter
-- Dianne Conrad
-- Aras Bozkurt
-- Cengiz Hakan Aydin
-- Svenja Bedenlier
-- Insung Jung
-- Joachim Stöter
-- George Veletsianos
-- Lisa Marie Blaschke
-- Melissa Bond
-- Andrea Broens
-- Elisa Bruhn
-- Carina Dolch
-- me
-- Yasar Kondakci
-- Victoria Marin
-- Kerstin Mayrberger
-- Wolfgang Müskens
-- Som Naidu
-- Adnan Qayyum
-- Jennifer Roberts
-- Albert Sangrà
-- Frank Senyo Loglo
-- Patricia J. Slagter van Tryon
-- Junhong Xiao
-- Michael Kerres
-date: 2020-09-11T18:10:42+02:00
+  - Olaf Zawacki-Richter
+  - Dianne Conrad
+  - Aras Bozkurt
+  - Cengiz Hakan Aydin
+  - Svenja Bedenlier
+  - Insung Jung
+  - Joachim Stöter
+  - George Veletsianos
+  - Lisa Marie Blaschke
+  - Melissa Bond
+  - Andrea Broens
+  - Elisa Bruhn
+  - Carina Dolch
+  - me
+  - Yasar Kondakci
+  - Victoria Marin
+  - Kerstin Mayrberger
+  - Wolfgang Müskens
+  - Som Naidu
+  - Adnan Qayyum
+  - Jennifer Roberts
+  - Albert Sangrà
+  - Frank Senyo Loglo
+  - Patricia J. Slagter van Tryon
+  - Junhong Xiao
+  - Michael Kerres
+date: "2020-09-11T18:10:42+02:00"
 hugoblox:
   ids:
     doi: "10.19173/irrodl.v21i3.4659"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-11T18:10:42+02:00
+publishDate: "2021-04-11T18:10:42+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -53,11 +53,6 @@ publication:
   publisher: ""
 
 apa_citation: "Zawacki-Richter, O., Conrad, D., Bozkurt, A., Aydin, C. H., Bedenlier, S., Jung, I., Stöter, J., Veletsianos, G., Blaschke, L. M., Bond, M., Broens, A., Bruhn, E., Dolch, C., Kalz, M., Kerres, M., Kondakci, Y., Marin, V., Mayrberger, K., Müskens, W., … Xiao, J. (2020). Elements of Open Education: An Invitation to Future Research. *The International Review of Research in Open and Distributed Learning*, *21*(3), 319–334. https://doi.org/10.19173/irrodl.v21i3.4659"
-
-
-
-
-
 
 abstract: "This paper explores elements of open education within the context of higher education. After an introduction to the origins of open education and its theoretical foundations, the topics of open and distance learning, international education issues in open education, open educational practices and scholarship, open educational resources, MOOCs, prior learning accreditation and recognition, and learner characteristics are considered, following the framework of macro, meso, and micro levels of research in open and distance learning. Implications for future research at the macro, meso, and micro levels are then provided."
 
@@ -86,7 +81,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -106,6 +101,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Zawacki-Richter, O., Conrad, D., Bozkurt, A., Aydin, C. H., Bedenlier, S., Jung, I., Stöter, J., Veletsianos, G., Blaschke, L. M., Bond, M., Broens, A., Bruhn, E., Dolch, C., Kalz, M., Kerres, M., Kondakci, Y., Marin, V., Mayrberger, K., Müskens, W., Naidu, S., Qayyum, A., Roberts, J., Sangrà, A., Loglo, F. S., Slagter van Tryon, P. J., & Xiao, J. (2020). Elements of Open Education: An Invitation to Future Research . *The International Review of Research in Open and Distributed Learning*, *21*(3), 319-334. https://doi.org/10.19173/irrodl.v21i3.4659
+Zawacki-Richter, O., Conrad, D., Bozkurt, A., Aydin, C. H., Bedenlier, S., Jung, I., Stöter, J., Veletsianos, G., Blaschke, L. M., Bond, M., Broens, A., Bruhn, E., Dolch, C., Kalz, M., Kerres, M., Kondakci, Y., Marin, V., Mayrberger, K., Müskens, W., Naidu, S., Qayyum, A., Roberts, J., Sangrà, A., Loglo, F. S., Slagter van Tryon, P. J., & Xiao, J. (2020). Elements of Open Education: An Invitation to Future Research . _The International Review of Research in Open and Distributed Learning_, _21_(3), 319-334. https://doi.org/10.19173/irrodl.v21i3.4659

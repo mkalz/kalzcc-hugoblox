@@ -1,7 +1,7 @@
 ---
 title: KI-Campus. Quo vadis?
 subtitle:
-date: 2024-05-09T09:36:59.875Z
+date: "2024-05-09T09:36:59.875Z"
 authors:
   - me
 draft: false
@@ -20,7 +20,9 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+
 ---
+
 Wir ([Mandy Schiefner-Rohs](https://sowi.rptu.de/fgs/paedagogik/team/mandy-schiefner-rohs/seite) und ich mit Team) haben aus einer kleinen Förderung des BMBF im Jahr 2021/2022 ein Kursangebot zur Datenkompetenz von (angehenden) Lehrer:innen erstellt. Dabei haben wir Konzepten zur Ethik von Daten in Bildungskontexten mit anwendungsorientierten Fragen zur Nutzung von Bildungsdaten kombiniert. Über das Projekt [Data2Teach](https://elmeb.org/data2teach/) konnten wir im September 2022 den Kurs Data2Teach auf dem [KI-Campus anbieten](https://ki-campus.org/courses/data2teach). Der Kurs ist sicherlich nicht der bekannteste und begehrteste auf dem Campus, aber wir beobachten stetigen Zuwachs von Einschreibungen und nutzen den Kurs und/oder Anteile in der eigenen Lehre.
 
 Nun erreichte mich vor einigen Wochen die folgende Mitteilung des Teams des KI-Campus:

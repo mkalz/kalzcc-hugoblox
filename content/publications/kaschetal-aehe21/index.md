@@ -3,11 +3,11 @@
 
 title: "The factor structure of the peer-feedback orientation scale (PFOS): toward a measure for assessing students’ peer- feedback dispositions"
 authors:
-- Julia Kasch
-- Peter van Rosmalen
-- Maartje Henderikx
-- me
-date: 2021-03-12T21:22:31+01:00
+  - Julia Kasch
+  - Peter van Rosmalen
+  - Maartje Henderikx
+  - me
+date: "2021-03-12T21:22:31+01:00"
 hugoblox:
   ids:
     doi: "10.1080/02602938.2021.1893650"
@@ -16,7 +16,7 @@ hugoblox:
 # author_notes:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-03-12T21:22:31+01:00
+publishDate: "2021-03-12T21:22:31+01:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,11 +34,6 @@ publication:
   publisher: "Routledge"
 
 apa_citation: "Kasch, J., Rosmalen, P. V., Henderikx, M., & Kalz, M. (2021). The factor structure of the peer-feedback orientation scale (PFOS): toward a measure for assessing students’ peer-feedback dispositions. *Assessment & Evaluation in Higher Education*, *0*(0), 1–14. https://doi.org/10.1080/02602938.2021.1893650"
-
-
-
-
-
 
 abstract: "This study reports on the quantitative findings of an exploratory sequen- tial mixed methods study in which the underlying factor structure of students’ peer-feedback orientation (i.e. openness to provide and receive peer-feedback) was investigated. Building on the qualitative findings of a previous study in which the ‘peer-feedback orientation’ concept was introduced, an online survey was developed to collect data among higher education students (N=148). An exploratory factor analysis produced a five-factor solution including the dimensions: accountability, communi- cativeness, utility, self-efficacy and receptivity. The practical value of the results lies in having a measure of students’ peer-feedback orientation that provides teachers and researchers with an instrument for under- standing students’ dispositions toward receiving and providing peer-feedback."
 
@@ -67,7 +62,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -87,6 +82,7 @@ projects: [SOONER, PhD-Julia-Kasch]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Kasch, J., Van Rosmalen, P., Henderikx, M., & Kalz, M. (2022). The factor structure of the peer-feedback orientation scale (PFOS): toward a measure for assessing students’ peer-feedback dispositions. *Assessment & Evaluation in Higher Education*, 47(1) 15-28. https://doi.org/10.1080/02602938.2021.1893650
+Kasch, J., Van Rosmalen, P., Henderikx, M., & Kalz, M. (2022). The factor structure of the peer-feedback orientation scale (PFOS): toward a measure for assessing students’ peer-feedback dispositions. _Assessment & Evaluation in Higher Education_, 47(1) 15-28. https://doi.org/10.1080/02602938.2021.1893650

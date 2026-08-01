@@ -3,15 +3,15 @@
 
 title: "The MOOC and learning analytics innovation cycle (MOLAC): a reflective summary of ongoing research and its challenges"
 authors:
-- Hendrik Drachsler
-- me
-date: 2016-03-16T11:02:28+02:00
+  - Hendrik Drachsler
+  - me
+date: "2016-03-16T11:02:28+02:00"
 hugoblox:
   ids:
     doi: "10.1111/jcal.12135"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2016-03-16T11:02:28+02:00
+publishDate: "2016-03-16T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,11 +29,6 @@ publication:
   publisher: "Wiley Online Library"
 
 apa_citation: "Drachsler, H., & Kalz, M. (2016). The MOOC and learning analytics innovation cycle (MOLAC): A reflective summary of ongoing research and its challenges. *Journal of Computer Assisted Learning*, *32*(3), 281–290. https://doi.org/10.1111/jcal.12135"
-
-
-
-
-
 
 abstract: "The article deals with the interplay between learning analytics and massive open online courses (MOOCs) and provides a conceptual framework to situate ongoing research in the MOOC and learning analytics innovation cycle (MOLAC framework). The MOLAC framework is organized on three levels: On the micro-level, the data collection and analytics activities are focused on individual reflection and individual prediction. On the meso-level, data from several open courses are combined to support benchmarking and to create insights about behaviour of groups of learners rather than the individual. These insights can inform the institution to adapt their educational model. On the macro-level of the framework, cross-institutional learning analytics enables to develop learning and teaching interventions that can be tested in a cluster of educational organizations to analyse the impact of these interventions beyond contextual factors. The article proposes four areas of future activities that are needed to enable the MOLAC framework. These are the standardization of the description of the educational design of MOOCs, data sharing facilities across institutions, joint policymaking and ethical guidelines and last but not least standardized evaluation approaches."
 # Summary. An optional shortened abstract.
@@ -61,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -81,6 +76,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Drachsler, H., & Kalz, M. (2016). The MOOC and learning analytics innovation cycle (MOLAC): A reflective summary of ongoing research and its challenges. *Journal of Computer Assisted Learning*, *32*(3), 281-290. https://doi.org/10.1111/jcal.12135
+Drachsler, H., & Kalz, M. (2016). The MOOC and learning analytics innovation cycle (MOLAC): A reflective summary of ongoing research and its challenges. _Journal of Computer Assisted Learning_, _32_(3), 281-290. https://doi.org/10.1111/jcal.12135

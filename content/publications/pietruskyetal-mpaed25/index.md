@@ -3,9 +3,9 @@
 
 title: "Individualisiertes Lernen mit digitalen Bildungsressourcen: Eine Delphi Studie aus der Perspektive von Lehrer:innen."
 authors:
-- Stefan Pietrusky
-- me
-date: 2025-02-04T21:22:31+01:00
+  - Stefan Pietrusky
+  - me
+date: "2025-02-04T21:22:31+01:00"
 hugoblox:
   ids:
     doi: "10.21240/mpaed/00/2025.02.04.X"
@@ -14,7 +14,7 @@ hugoblox:
 # author_notes:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-02-20T21:10:31+01:00
+publishDate: "2025-02-20T21:10:31+01:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,11 +32,6 @@ publication:
   publisher: ""
 
 apa_citation: "Pietrusky, S., & Kalz, M. (2025). Individualisiertes Lernen mit digitalen Bildungsressourcen: Eine Delphi Studie aus der Perspektive von Lehrer:innen. *MedienPädagogik: Zeitschrift Für Theorie Und Praxis Der Medienbildung*, *2025*(Occasional Papers), 27–49. https://doi.org/10.21240/mpaed/00/2025.02.04.X"
-
-
-
-
-
 
 abstract: "Ziel dieser Studie ist die Entwicklung eines Konzepts für die einheitliche Gestaltung digitaler Bildungsressourcen anhand verbindlicher Kriterien zur Förderung individualisierten Lernens im Unterricht. Während die aktuelle Literatur viel Wert auf OER legt, wird die Anpassungsfähigkeit digitaler Bildungsressourcen unabhängig von Lizenzfragen weniger diskutiert. Zudem fehlen Daten zur höheren Wirksamkeit von OER im Vergleich zu kommerziellen Bildungsressourcen. Daher wurde auf der Basis pädagogischer und lernpsychologischer Theorien ein theoretisches Konzept mit verbindlichen Kriterien für digitale Bildungsressourcen (DER) aus Lehrerperspektive entwickelt. Eine Delphi-Studie mit Lehramtsstudent:innen und Lehrenden identifizierte in der ersten Runde (N = 69) 19 wichtige Kriterien. In der zweiten Runde (N = 88) wurde die Wichtigkeit der Kriterien beurteilt und dabei festgestellt, dass eine höhere Häufigkeit eines Kriteriums (erste Runde) mit einer hohen durchschnittlichen Zustimmung (zweite Runde) korrelierte, was auf eine starke Zustimmung hinweist. Die drei wichtigsten Kriterien für DER sind Benutzerfreundlichkeit, Adaptierbarkeit und Verständlichkeit. Die kostenlose Verfügbarkeit von digitalen Bildungsressourcen wurde im Vergleich zu anderen Bewertungskriterien als weit weniger bedeutsam eingestuft. Die Ergebnisse der Delphi-Studie zeigen die Notwendigkeit alternativer Konzepte mit eindeutigen Kriterien zur Entwicklung digitaler Bildungsressourcen, die individualisiertes Lernen aus Sicht von Lehrer:innen fördern."
 
@@ -65,7 +60,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -85,6 +80,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Pietrusky, S., & Kalz, M. (2025). Individualisiertes Lernen mit digitalen Bildungsressourcen: Eine Delphi Studie aus der Perspektive von Lehrer:innen. *MedienPädagogik: Zeitschrift für Theorie Und Praxis Der Medienbildung*, 2025(Occasional Papers), 27–49. https://doi.org/10.21240/mpaed/00/2025.02.04.X
+Pietrusky, S., & Kalz, M. (2025). Individualisiertes Lernen mit digitalen Bildungsressourcen: Eine Delphi Studie aus der Perspektive von Lehrer:innen. _MedienPädagogik: Zeitschrift für Theorie Und Praxis Der Medienbildung_, 2025(Occasional Papers), 27–49. https://doi.org/10.21240/mpaed/00/2025.02.04.X

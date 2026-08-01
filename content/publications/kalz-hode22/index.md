@@ -3,14 +3,14 @@
 
 title: "Open Education as Social Movement? Between Evidence-Based Research and Activism"
 authors:
-- me
-date: 2022-06-11T16:33:18+02:00
+  - me
+date: "2022-06-11T16:33:18+02:00"
 hugoblox:
   ids:
     doi: "10.1007/978-981-19-0351-9_3-1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-11T16:33:18+02:00
+publishDate: "2022-06-11T16:33:18+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,11 +28,6 @@ publication:
   publisher: "Springer Nature Singapore"
 
 apa_citation: "Kalz, M. (2022). Open Education as Social Movement? Between Evidence-Based Research and Activism. In *Handbook of Open, Distance and Digital Education* (pp. 1–14). Springer Nature Singapore. https://doi.org/10.1007/978-981-19-0351-9_3-1"
-
-
-
-
-
 
 abstract: "This chapter analyzes open education initiatives through the lens of social movement theory. Open education is introduced as a field with multiple dimensions, activities, and perspectives. Social movement theory is used to discuss along the dimensions of conflict and protest, cultural representation, values and collective action, and the influence of the social, political, and cultural context. Accordingly, epistemic communities are proposed as an alternative development direction for the field."
 
@@ -61,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -81,7 +76,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Kalz, M. (2022). Open Education as Social Movement? Between Evidence-Based Research and Activism. In: *Handbook of Open, Distance and Digital Education*. Springer, Singapore. https://doi.org/10.1007/978-981-19-0351-9_3-1
-
+Kalz, M. (2022). Open Education as Social Movement? Between Evidence-Based Research and Activism. In: _Handbook of Open, Distance and Digital Education_. Springer, Singapore. https://doi.org/10.1007/978-981-19-0351-9_3-1

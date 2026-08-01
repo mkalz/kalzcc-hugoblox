@@ -3,15 +3,15 @@
 
 title: "Supporting Inquiry-based Learning with Google Glass (GPIM)"
 authors:
-- Angel Suarez
-- Stefaan Ternier
-- me
-- Marcus Specht
+  - Angel Suarez
+  - Stefaan Ternier
+  - me
+  - Marcus Specht
 
-date: 2015-06-19T11:02:28+02:00
+date: "2015-06-19T11:02:28+02:00"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2015-06-19T11:02:28+02:00
+publishDate: "2015-06-19T11:02:28+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,11 +29,6 @@ publication:
   publisher: ""
 
 apa_citation: "Suarez, A., Ternier, S., Kalz, M., & Specht, M. (n.d.). *Supporting inquiry-based learning with Google Glass (GPIM)*."
-
-
-
-
-
 
 abstract: "Wearable technology is a new genre of technology that is appearing to enhance learning in context. This manuscript introduces a Google Glass application to support Inquiry-based Learning (IBL). Applying Google Glass to IBL, we aim to transform the learning process into a more seamless, personal and meaningful learning experience. Google Glass aids users from a first person perspective with hands-free interaction. This paper first introduces the educational background and the framework behind the application. Next, the Personal Inquiry Manager (PIM) of the weSPOT project is introduced. The design and functionalities of Glassware PIM (GPIM) are explained in detail. The paper concludes with open issues for future research, especially focused on evaluation and further developments."
 # Summary. An optional shortened abstract.
@@ -61,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -81,6 +76,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
-Suarez, A., Ternier, S., Kalz, M., & Specht, M. (2015). Supporting inquiry-based learning with Google Glass (GPIM). *Interaction Design and Architecture(s) Journal*, *24*, 100-110.
+Suarez, A., Ternier, S., Kalz, M., & Specht, M. (2015). Supporting inquiry-based learning with Google Glass (GPIM). _Interaction Design and Architecture(s) Journal_, _24_, 100-110.

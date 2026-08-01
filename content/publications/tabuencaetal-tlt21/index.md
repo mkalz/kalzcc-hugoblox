@@ -1,19 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Effects of an ambient learning display on noise levels and
-  perceived learning in a secondary school"
+title: |
+  Effects of an ambient learning display on noise levels and
+    perceived learning in a secondary school
 authors: 
 - Bernardo Tabuenca
 - Dirk Börner
 - me
-date: 2021-02-01T10:42:47+02:00
+date: "2021-02-01T10:42:47+02:00"
 hugoblox:
   ids:
     doi: "10.1109/TLT.2021.3056038"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-11T10:42:47+02:00
+publishDate: "2021-04-11T10:42:47+02:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -86,4 +87,4 @@ projects: []
 slides: ""
 ---
 
-Tabuenca, B., Börner, D., & Kalz, M. (2021). Effects of an ambient learning display on noise levels and perceived learning in a secondary school. *IEEE Transactions on Learning Technologies*. *14*(1). 69-80.
+Tabuenca, B., Börner, D., & Kalz, M. (2021). Effects of an ambient learning display on noise levels and perceived learning in a secondary school. _IEEE Transactions on Learning Technologies_. _14_(1). 69-80.

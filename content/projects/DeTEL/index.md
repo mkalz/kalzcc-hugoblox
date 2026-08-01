@@ -6,7 +6,7 @@ summary: "Doctoral Education for Technology-Enhanced Learning"
 authors: []
 tags: [EU project]
 categories: []
-date: 2021-04-11T13:59:50+02:00
+date: "2021-04-11T13:59:50+02:00"
 project_start: 2019-09-01
 project_end: 2022-12-31
 
@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 Doctoral Education for Technology-Enhanced Learning (DE-TEL) project will establish and deepen a strategic partnership for doctoral education in Technology-Enhanced Learning (TEL). DE-TEL brings together 9 internationally renowned universities and the [European Association of Technology-Enhanced Learning](https://ea-tel.eu/) to reflect their expertise in doctoral education into a new internationally validated program in TEL, extended with rich and professionally produced Open Educational Resources. The project grounds the design of the new program in the best practices in TEL doctoral education across Europe as well as institutional and national requirements.
