@@ -43,7 +43,7 @@ slides: ""
 
 ---
 
-**Funded via a grant of the German Ministry of Research and Education, October 2022 – September 2024), Budget: 1.442.547 EUR (298 486 EUR acquired for own institution, Role: partner)**
+# Funded via a grant of the German Ministry of Research and Education, October 2022 – September 2024), Budget: 1.442.547 EUR (298 486 EUR acquired for own institution, Role: partner)
 
 Evaluation und mediendidaktische/musikpädagogische Validierung von Gini2
 

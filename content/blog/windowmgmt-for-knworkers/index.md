@@ -25,7 +25,7 @@ image:
 
 Since many years I am using at least one external monitor for work and it has supported my productivity a lot. During an intensive time of online-meetings and online-teaching in the last 3 years I have extended my setup with another external screen so that I have three screens available. On a normal working day I am switching many windows from and between these screens and sometimes I am also disconnecting my machine (a Macbook Air M1) completely from the setup. This means a lot of shuffling and moving of application-windows between the screens. For this purpose I have bought a version of StreamDeck to see if it is possible to define scenarios which allow to automate the switching between different productivity modes easily with an external button.
 
-**My setup for the use of three monitors**
+# My setup for the use of three monitors**
 
 I could now finally realize this scenario with a relatively easy set of ingredients after a lot of trial-and-error and I would like to share the setup here:
 

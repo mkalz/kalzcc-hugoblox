@@ -32,7 +32,7 @@ Angesicht einer Interviewanfrage und der andauernden Diskussion zum Smartphone-V
 
 Wenn ich es richtig verstehe, will man ein generelles Verbot von Smartphones, die von Schüler:innen genutzt werden, diskutieren und dabei auch die Fälle 2 und 3 aus der Autonomie von Schulen entfernen. Solche ein tiefgreifender Eingriff in die Autonomie der Schulen wird ja sicherlich auf Basis aktueller wissenschaftlicher Erkenntnisse zustande kommen. In meiner Recherche bin ich dabei schnell auf ein Interview von Anfang Januar gestoßen, in dem Klaus Zierer im Magazin ["Campus Schulmanagement"](https://www.campus-schulmanagement.de/magazin/smartphone-verbote-an-schulen-was-bringen-sie-wirklich-klaus-zierer) interviewt wird zu einer aktuellen Studie, die er zusammen mit Tobias Böttger publiziert hat. Dabei wird erwähnt, dass es positive Auswirkungen auf die Lernleistung und das soziale Wohlbefinden gebe, wobei direkt im nächsten Abschnitt nur von geringen Effekten auf die Lernleistung geredet wird. Daher habe ich mir diese Studie einmal genauer angesehen.
 
-**Böttger, T., & Zierer, K. (2024). To Ban or Not to Ban? A Rapid Review on the Impact of Smartphone Bans in Schools on Social Well-Being and Academic Performance. _Education Sciences_, 14(8), 906. https://doi.org/10.3390/educsci14080906**
+# Böttger, T., & Zierer, K. (2024). To Ban or Not to Ban? A Rapid Review on the Impact of Smartphone Bans in Schools on Social Well-Being and Academic Performance. _Education Sciences_, 14(8), 906. https://doi.org/10.3390/educsci14080906
 
 Zunächst fällt mir hier auf, dass diese Publikation in einem Publikationskanal publiziert wurde, der nicht gerade für seriöse Begutachtung und Qualität bekannt ist. Das Finnische Forum für die Klassifikation von Publikationskanälen (JUFO) hat entschieden, dass [ab 2025 alle Journals des Verlags MDPI als "graue Literatur" (Level 0) bewertet werden](https://julkaisufoorumi.fi/en/news/changes-classification). Aber das es sich hier ja um ein sog. "rapid Review" handelt, war den Autoren die schnelle Publikation hier evtl. wichtiger als die Qualität des Publikationskanals.
 
@@ -40,7 +40,7 @@ Beim Lesen der Publikation fällt als nächstes auf, dass sich das Review auf ge
 
 Zusammenfassend würde ich hier sagen, dass das Rapid Review keine ausreichenden Basis für die Einführung von Smartphone-Verboten in Schulen bietet. Daher bin ich noch einmal auf die Suche gegangen, um zu schauen, ob es bessere Wissenschaft zu dem Thema gibt. Dabei bin ich auf ein Scoping Review einer australischen Gruppe von Forschenden gestoßen, welches ich im folgenden vorstellen mmöchte.
 
-**Campbell, M., Edwards, E. J., Pennell, D., Poed, S., Lister, V., Gillett-Swan, J., ... & Nguyen, T. A. (2024). Evidence for and against banning mobile phones in schools: A scoping review. _Journal of Psychologists and Counsellors in Schools_, 34(3), 242-265. https://doi.org/10.1177/20556365241270394**
+# Campbell, M., Edwards, E. J., Pennell, D., Poed, S., Lister, V., Gillett-Swan, J., ... & Nguyen, T. A. (2024). Evidence for and against banning mobile phones in schools: A scoping review. _Journal of Psychologists and Counsellors in Schools_, 34(3), 242-265. https://doi.org/10.1177/20556365241270394
 
 In diesem prä-registriertem Scoping Review einer Forschungsguppe verschiedener autralischer Universitäten wird die wissenschaftliche Evidenz zu Smartphone-Verboten in Bezug auf die Variablen Lernleistung, mentale Gesundheit und Wohlbefinden und Cyberbullying untersucht. Dabei leiten die Autor:innen das Review zunächst mit Verbreitungsdaten von Smartphones ein und diskutieren, dass Smartphone-Verbote oft als politische Reaktionen auf Sorgen in der Bevölkerung installiert werden. Als theoretische Grundlage nehmen die Autor:innen eine systemtheoretische Perspektive ein, in denen Effekte vom Kontext und Hintergrundvariablen abhängen und auch Wechselwirkungen eine Rolle spielen können. Da ich die Beschreibung so passend für den aktuellen Diskurs in Deutschland finde, zitiere ich hier direkt zum politischen Diskurs:
 
@@ -56,7 +56,7 @@ Mir erscheint ein von den Bildungsministern verordnetes Smartphone-Verbot in Sch
 
 Zudem erscheint mir die Diskussion sehr janus-köpfig, wenn einerseits auch von politischer Seite immer wieder die Bedeutung von neuen Technologie und KI und der notwendigen Medienkompetenz betont wird, andererseits aber Objekte der Lebenswelt einfach wegreguliert werden. An einer weiteren Entfernung von Schule und Lebenswelt hat sicherlich niemand Interesse. Daher wäre meine Schlussfolgerung, dass man die Regulierung den Schulen überlassen sollte und den verantwortungsvollen Umgang mit Smartphones als übergreifende Aufgabe in den Lehrplan aufnehmen sollte mit vielen Anknüpfungspunkten zur Medienbildung und politischen Bildung.
 
-**Referenzen**
+# Referenzen
 
 Campbell, M., Edwards, E. J., Pennell, D., Poed, S., Lister, V., Gillett-Swan, J., ... & Nguyen, T. A. (2024). Evidence for and against banning mobile phones in schools: A scoping review. _Journal of Psychologists and Counsellors in Schools_, 34(3), 242-265. https://doi.org/10.1177/20556365241270394
 

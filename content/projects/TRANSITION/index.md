@@ -43,6 +43,6 @@ slides: ""
 
 ---
 
-**TRANSITION - Digital Transition and digital resilience in oncology (Funded via European Commission, 01.03.2023 - 28.02.2025), Budget: 2.299 541 EUR (53 928 EUR acquired for own institution, Role: partner)**
+# TRANSITION - Digital Transition and digital resilience in oncology (Funded via European Commission, 01.03.2023 - 28.02.2025), Budget: 2.299 541 EUR (53 928 EUR acquired for own institution, Role: partner)
 
 TRANSITION is an 24-month project (March 2023 - February 2025) co-funded by the EU under the EU4Health programme 2021-2027. Digital health presents great potential across the whole spectrum of the cancer patient trajectory. . However, there are many challenges to its full deployment. A crucial challenge is to provide continuous professional development and training for the cancer healthcare workforce and the non-clinical professionals, which poses an essential barrier to the uptake, safe, and effective use of digital health solutions across the cancer continuum. The TRANSiTION proposal contributes to creating a new state-of-the-art education and training programme for healthcare professionals and non-clinical professionals that will enable the acquisition of digital skills and competencies for current and future needs that the integration of digital solutions generates. TRANSiTION brings together an interdisciplinary consortium of 27 partners from 15-member states with extensive expertise in the development, assessment, and successful implementation of continuous professional development and training programmes in health.

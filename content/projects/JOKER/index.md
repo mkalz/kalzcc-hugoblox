@@ -43,6 +43,6 @@ slides: ""
 
 ---
 
-**Funded via a grant of the Federal Institute for Communication (LfK), October 2021 – September 2024), Budget: 352 764 EUR (168 030 EUR acquired for own institution)**
+# Funded via a grant of the Federal Institute for Communication (LfK), October 2021 – September 2024), Budget: 352 764 EUR (168 030 EUR acquired for own institution)
 
 Das Projekt „JOKER – Journalistische und crossmediale Kompetenzentwicklung für Studierende“, ist ein Entwicklungsprojekt der Pädagogischen Hochschule Heidelberg, unter Förderung der LFK, Die Medienanstalt für Baden-Württemberg. Im Projektzeitraum, Oktober 2021 bis September 2024 sollen Lehr- und Lernmaterialien entstehen, die dazu beitragen die Nachrichten- und Informationskompetenzen von Studierenden zu stärken.

@@ -7,7 +7,7 @@ draft: false
 
 _Last updated: 31 July 2026_
 
-## 1. Controller
+# 1. Controller
 
 The controller responsible for processing personal data on this website is:
 
@@ -19,7 +19,7 @@ Germany
 
 Email: [kalz@ph-heidelberg.de](mailto:kalz@ph-heidelberg.de)
 
-## 2. Hosting through GitHub Pages
+# 2. Hosting through GitHub Pages
 
 This website is hosted using GitHub Pages, a service provided by GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA.
 
@@ -29,7 +29,7 @@ The processing is based on Article 6(1)(f) GDPR. The legitimate interest is the 
 
 Further information is available in the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-## 3. Newsletter through SendFox
+# 3. Newsletter through SendFox
 
 Visitors may subscribe to the newsletter _The day’s refrain – musings on digital education_. The newsletter service is provided by Sumo Group Inc., doing business as SendFox, 1305 E. 6th St #3, Austin, TX 78702, USA.
 
@@ -41,7 +41,7 @@ The data is retained until you unsubscribe or request deletion, unless legal ret
 
 Further information is available in the [SendFox Privacy Policy](https://sendfox.com/privacy).
 
-## 4. Contact form through FormRobin
+# 4. Contact form through FormRobin
 
 This website embeds a contact form provided by FormRobin, a service operated by Sumo Group, Inc.
 
@@ -55,7 +55,7 @@ Contact-form data is retained only for as long as necessary to respond to the en
 
 Further information is available in the [FormRobin Privacy Policy](https://formrobin.com/privacy).
 
-## 5. Anonymous feedback through Admonymous
+# 5. Anonymous feedback through Admonymous
 
 This website contains a link to an external anonymous-feedback service provided through Admonymous. Admonymous is maintained by Eloïse Rosen.
 
@@ -65,19 +65,19 @@ Feedback can be submitted anonymously. However, users should avoid including per
 
 Further information is available in the [Admonymous FAQ](https://www.admonymous.co/suggestions).
 
-## 6. External links
+# 6. External links
 
 This website contains links to external websites and services. The respective operators are responsible for data processing after you follow such a link. This Privacy Policy does not govern the privacy practices of external websites.
 
-## 7. Cookies and analytics
+# 7. Cookies and analytics
 
 This website does not use its own analytics or advertising system. Embedded third-party services may use technically necessary storage mechanisms or process technical connection data according to their respective privacy policies.
 
-## 8. Retention of personal data
+# 8. Retention of personal data
 
 Personal data is retained only for as long as necessary for the respective purpose or as required by statutory retention obligations. Data is deleted when the purpose no longer applies and no legal obligation requires continued retention.
 
-## 9. Your rights
+# 9. Your rights
 
 Subject to the requirements of the GDPR, you have the right to:
 
@@ -94,6 +94,6 @@ The competent supervisory authority in Baden-Württemberg is the State Commissio
 
 To exercise your rights, contact [kalz@ph-heidelberg.de](mailto:kalz@ph-heidelberg.de).
 
-## 10. Changes to this Privacy Policy
+# 10. Changes to this Privacy Policy
 
 This Privacy Policy may be updated when the website, embedded services, or legal requirements change. The current version is published on this page.
