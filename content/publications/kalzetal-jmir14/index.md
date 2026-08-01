@@ -3,13 +3,13 @@
 
 title: "Smartphone Apps for Cardiopulmonary Resuscitation Training and Real Incident Support: A Mixed-Methods Evaluation Study"
 authors:
-- me
-- Niklas Lenssen
-- Marc Felzen
-- Rolf Rossaint
-- Bernardo Tabuenca
-- Marcus Specht
-- Max Skorning
+  - me
+  - Niklas Lenssen
+  - Marc Felzen
+  - Rolf Rossaint
+  - Bernardo Tabuenca
+  - Marcus Specht
+  - Max Skorning
 date: "2014-03-19T11:02:28+02:00"
 hugoblox:
   ids:
@@ -34,11 +34,6 @@ publication:
   publisher: "JMIR Publications Inc., Toronto, Canada"
 
 apa_citation: "Kalz, M., Lenssen, N., Felzen, M., Rossaint, R., Tabuenca, B., Specht, M., & Skorning, M. (2014). Smartphone apps for cardiopulmonary resuscitation training and real incident support: a mixed-methods evaluation study. *Journal of Medical Internet Research*, *16*(3), e2951. https://doi.org/10.2196/jmir.2951"
-
-
-
-
-
 
 abstract: |
   Background: No systematic evaluation of smartphone/mobile apps for resuscitation training and real incident support is available to date. To provide medical, usability, and additional quality criteria for the development of apps, we conducted a mixed-methods sequential evaluation combining the perspective of medical experts and end-users.
@@ -72,7 +67,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -92,6 +87,7 @@ projects: [EMuRgency]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 Kalz, M., Lenssen, N., Felzen, M., Rossaint, R., Tabuenca, B., Specht, M., & Skorning, M. (2014). Smartphone apps for cardiopulmonary resuscitation training and real incident support: a mixed-methods evaluation study. _Journal of medical Internet research_, _16_(3), e2951. https://doi.org/10.2196/jmir.2951"

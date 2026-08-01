@@ -4,10 +4,10 @@
 title: |
   Effects of an ambient learning display on noise levels and
     perceived learning in a secondary school
-authors: 
-- Bernardo Tabuenca
-- Dirk Börner
-- me
+authors:
+  - Bernardo Tabuenca
+  - Dirk Börner
+  - me
 date: "2021-02-01T10:42:47+02:00"
 hugoblox:
   ids:
@@ -32,11 +32,6 @@ publication:
   publisher: ""
 
 apa_citation: "Tabuenca, B., Börner, D., & Kalz, M. (2021). Effects of an Ambient Learning Display on Noise Levels and Perceived Learning in a Secondary School. *IEEE Transactions on Learning Technologies*, *14*(1), 69–80. https://doi.org/10.1109/TLT.2021.3056038"
-
-
-
-
-
 
 abstract: "Recent reviews addressing the impact of noise exposure in teaching and learning situations conclude negative effects on learning performance. Providing objective real-time feedback on noise is key for teachers and students to adjust it into suitable levels. This experimental work presents the results from a study exploring the visual feedback based on noise level and the impact on students’ (n = 198) perceived learning performance collected in 24 sessions. The results suggest persuasive effects of the ambient display on the groups and an improvement of noise awareness in students. Measurements of perceived learning- performance, and perceived noise were collected and correlated with the objective noise samples concluding poorer perceived learning performance in noisiest groups. Finally, implications for further research as well as lessons learned to moderate noise levels in classrooms using ambient displays are discussed."
 
@@ -65,7 +60,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -85,6 +80,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 Tabuenca, B., Börner, D., & Kalz, M. (2021). Effects of an ambient learning display on noise levels and perceived learning in a secondary school. _IEEE Transactions on Learning Technologies_. _14_(1). 69-80.
