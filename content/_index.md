@@ -44,6 +44,15 @@ sections:
     design:
       view: article-grid
       columns: 3
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        <div class="peep-break peep-right peep-cyan" aria-hidden="true"><img src="media/peeps/reading.svg" alt="" loading="lazy"></div>
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: featured
     content:
@@ -66,6 +75,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        <div class="peep-break peep-left peep-blue" aria-hidden="true"><img src="media/peeps/research.svg" alt="" loading="lazy"></div>
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: projects
     content:
@@ -78,6 +96,15 @@ sections:
     design:
       view: article-grid
       columns: 3
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        <div class="peep-break peep-right peep-violet" aria-hidden="true"><img src="media/peeps/conversation.svg" alt="" loading="lazy"></div>
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: talks
     content:
@@ -104,6 +131,15 @@ sections:
     design:
       view: card
       columns: 3
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        <div class="peep-break peep-left peep-cyan" aria-hidden="true"><img src="media/peeps/contact.svg" alt="" loading="lazy"></div>
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: markdown
     id: newsletter
     content:

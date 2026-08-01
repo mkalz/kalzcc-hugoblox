@@ -147,3 +147,86 @@ article {
     padding: 1.25rem;
   }
 }
+
+/* Playful Research: Open Peeps interludes */
+
+.peep-break {
+  position: relative;
+  left: 50%;
+  width: min(1280px, calc(100vw - 3rem));
+  height: 7rem;
+  overflow: visible;
+  pointer-events: none;
+  transform: translateX(-50%);
+  z-index: 3;
+}
+
+.peep-break::before {
+  position: absolute;
+  bottom: 0.25rem;
+  width: clamp(125px, 15vw, 215px);
+  height: clamp(75px, 9vw, 130px);
+  border-radius: 58% 42% 52% 48% / 45% 55% 45% 55%;
+  content: "";
+  opacity: 0.9;
+  transform: rotate(-5deg);
+}
+
+.peep-break img {
+  position: absolute;
+  bottom: -0.25rem;
+  z-index: 2;
+  display: block;
+  width: auto;
+  height: clamp(135px, 15vw, 215px);
+  filter: drop-shadow(0 12px 15px rgba(15, 23, 42, 0.12));
+}
+
+.peep-left img {
+  left: 2%;
+}
+
+.peep-left::before {
+  left: 0;
+}
+
+.peep-right img {
+  right: 2%;
+}
+
+.peep-right::before {
+  right: 0;
+  transform: rotate(5deg);
+}
+
+.peep-cyan::before {
+  background: linear-gradient(135deg, #cffafe, #67e8f9);
+}
+
+.peep-blue::before {
+  background: linear-gradient(135deg, #dbeafe, #93c5fd);
+}
+
+.peep-violet::before {
+  background: linear-gradient(135deg, #ede9fe, #c4b5fd);
+}
+
+@media (prefers-color-scheme: dark) {
+  .peep-cyan::before {
+    background: linear-gradient(135deg, #164e63, #0891b2);
+  }
+
+  .peep-blue::before {
+    background: linear-gradient(135deg, #1e3a8a, #2563eb);
+  }
+
+  .peep-violet::before {
+    background: linear-gradient(135deg, #4c1d95, #7c3aed);
+  }
+}
+
+@media (max-width: 900px) {
+  .peep-break {
+    display: none;
+  }
+}
