@@ -3,10 +3,10 @@
 
 title: "Implementing infrastructures for managing learning objects"
 authors:
-- Roland Klemke
-- Stefaan Ternier
-- me
-- Marcus Specht
+  - Roland Klemke
+  - Stefaan Ternier
+  - me
+  - Marcus Specht
 date: "2010-10-13T11:02:28+02:00"
 hugoblox:
   ids:
@@ -31,11 +31,6 @@ publication:
   publisher: "Wiley Online Library"
 
 apa_citation: "Klemke, R., Ternier, S., Kalz, M., & Specht, M. (2010). Implementing infrastructures for managing learning objects. *British Journal of Educational Technology*, *41*(6), 873–882. https://doi.org/10.1111/j.1467-8535.2010.01127.x"
-
-
-
-
-
 
 abstract: |
   Making learning objects available is critical to reuse learning resources. Making
@@ -66,7 +61,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -86,6 +81,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 Klemke, R., Ternier, S., Kalz, M., & Specht, M. (2010). Implementing infrastructures for managing learning objects. _British Journal of Educational Technology_, _41_(6), 873-882. https://doi.org/10.1111/j.1467-8535.2010.01127.x

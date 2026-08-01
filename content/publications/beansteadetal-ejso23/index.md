@@ -3,38 +3,38 @@
 
 title: "An inter-specialty cancer training programme curriculum for Europe"
 authors:
-- Kim Beanstead
-- Andreas Brandl
-- Ton Brouwers
-- Jorge Civera
-- Sarah Collen
-- Degi L. Casa
-- Johan de Munter
-- Marieke Dewitte
-- Celia Diez de los Rio
-- Nikolina Dodlek
-- Jesper G. Eriksen
-- Patrice Forget
-- Chiara Gasparatto
-- Jan Geissler
-- Corinne Hall
-- Alfons Juan
-- me
-- Richard Kelly
-- Giorgos Klis
-- Taibe Kulaksiz
-- Carine Lecoq
-- Francesca Marangoni
-- Wendy McInally
-- Kathy Oliver
-- Maria Popovics
-- Christos Poulios
-- Richard Price
-- Irena Rollo
-- Silvia Romeo
-- Jana Steinbacher
-- Virpi Sulosaari
-- Niall O'Higgins
+  - Kim Beanstead
+  - Andreas Brandl
+  - Ton Brouwers
+  - Jorge Civera
+  - Sarah Collen
+  - Degi L. Casa
+  - Johan de Munter
+  - Marieke Dewitte
+  - Celia Diez de los Rio
+  - Nikolina Dodlek
+  - Jesper G. Eriksen
+  - Patrice Forget
+  - Chiara Gasparatto
+  - Jan Geissler
+  - Corinne Hall
+  - Alfons Juan
+  - me
+  - Richard Kelly
+  - Giorgos Klis
+  - Taibe Kulaksiz
+  - Carine Lecoq
+  - Francesca Marangoni
+  - Wendy McInally
+  - Kathy Oliver
+  - Maria Popovics
+  - Christos Poulios
+  - Richard Price
+  - Irena Rollo
+  - Silvia Romeo
+  - Jana Steinbacher
+  - Virpi Sulosaari
+  - Niall O'Higgins
 
 date: "2023-09-10T11:02:28+02:00"
 hugoblox:
@@ -61,21 +61,16 @@ publication:
 
 apa_citation: "Benstead, K., Brandl, A., Brouwers, T., Civera, J., Collen, S., Csaba, D. L., De Munter, J., Dewitte, M., de Los Rios, C. D., Dodlek, N., & others. (2023). An inter-specialty cancer training programme curriculum for Europe. *European Journal of Surgical Oncology*, *49*(9), 106989. https://doi.org/10.1016/j.ejso.2023.106989"
 
-
-
-
-
-
 abstract: |
   Introduction
   Multidisciplinary and multi-professional collaboration is vital in providing better outcomes for patients The aim of the INTERACT-EUROPE Project (Wide Ranging Cooperation and Cutting Edge Innovation As A Response To Cancer Training Needs) was to develop an inter-specialty curriculum. A pilot project will enable a pioneer cohort to acquire a sample of the competencies needed.
-  
+
   Methods
   A scoping review, qualitative and quantitative surveys were undertaken. The quantitative survey results are reported here. Respondents, including members of education boards, curriculum committees, trainee committees of European specialist societies and the ECO Patient Advisory Committee, were asked to score 127 proposed competencies on a 7-point Likert scale as to their value in achieving the aims of the curriculum. Results were discussed and competencies developed at two stakeholder meetings. A consultative document, shared with stakeholders and available online, requested views regarding the other components of the curriculum.
-  
+
   Results
   Eleven competencies were revised, three omitted and three added. The competencies were organised according to the CanMEDS framework with 13 Entrustable Professional Activities, 23 competencies and 127 enabling competencies covering all roles in the framework. Recommendations regarding the infrastructure, organisational aspects, eligibility of trainees and training centres, programme contents, assessment and evaluation were developed using the replies to the consultative document.
-  
+
   Conclusions
   An Inter-specialty Cancer Training Programme Curriculum and a pilot programme with virtual and face-to-face components have been developed with the aim of improving the care of people affected by cancer.
 # Summary. An optional shortened abstract.
@@ -103,7 +98,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -123,6 +118,7 @@ projects: [INTERACT]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 Benstead, K., Brandl, A., Brouwers, T., Civera, J., Collen, S., Csaba, D. L., ... & O'Higgins, N. (2023). An inter-specialty cancer training programme curriculum for Europe. _European Journal of Surgical Oncology_, 49(9), 106989. doi: https://doi.org/10.1016/j.ejso.2023.106989
