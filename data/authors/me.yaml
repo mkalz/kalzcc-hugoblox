@@ -47,6 +47,9 @@ links:
   - icon: at-symbol
     url: "mailto:kalz@ph-heidelberg.de"
     label: Email
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/kalz.cc
+    label: Follow me on Bluesky
   - icon: brands/github
     url: "https://github.com/mkalz"
     label: GitHub
