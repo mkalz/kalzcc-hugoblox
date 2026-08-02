@@ -67,7 +67,7 @@ security:
 sitemap:
   _merge: deep
 permalinks:
-  blog: "/post/:slug/"
+  blog: "/:year/:month/:day/:slug/"
   projects: "/project/:slug/"
   events: "/talk/:slug/"
   publications: "/publication/:slug/"
