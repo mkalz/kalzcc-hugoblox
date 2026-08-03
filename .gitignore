@@ -71,3 +71,5 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+config/_default/*.before-modern

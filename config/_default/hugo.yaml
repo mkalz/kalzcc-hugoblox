@@ -7,7 +7,7 @@
 title: ""
 # Website URL
 baseURL: "https://kalz.cc"
-
+buildFuture: true
 ############################
 ## LANGUAGE
 ############################

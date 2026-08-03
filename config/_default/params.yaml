@@ -26,24 +26,27 @@ hugoblox:
   # THEME
   # Color and visual design system
   # ────────────────────────────────────────────────────────────────────────────
+  hugoblox:
   theme:
     mode: system
-    pack: "marine"
+    pack: minimal
 
     colors:
-      primary: "blue"
-      secondary: "cyan"
+      primary: "#7457C8"
+      secondary: "#0F5E68"
       neutral: "slate"
 
     colors_light: {}
     colors_dark: {}
-    # Optional: Semantic surface color overrides
+
     surfaces:
       background: ""
       foreground: ""
+
       header:
         background: ""
         foreground: ""
+
       footer:
         background: ""
         foreground: ""
@@ -53,16 +56,16 @@ hugoblox:
   # Font and text sizing
   # ────────────────────────────────────────────────────────────────────────────
   typography:
-    pack: "modern"
+    pack: academic
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
   # Spacing and shape tokens
   # ────────────────────────────────────────────────────────────────────────────
   layout:
-    radius: "lg"
-    spacing: "comfortable"
-    avatar_shape: circle
+    radius: "sm"
+    spacing: "spacious"
+    avatar_shape: rounded
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
@@ -70,13 +73,15 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   header:
     enable: true
-    style: navbar
+    style: navbar-simple
     sticky: true
-    align: right
+    align: left
+
     search: true
     theme_toggle: true
     theme_picker: false
-    language_switcher: false
+    language_switcher: true
+
     cta:
       enable: false
       text: ""

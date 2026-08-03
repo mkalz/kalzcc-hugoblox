@@ -18,14 +18,21 @@ sections:
         education: ""
         interests: ""
     design:
+      css_class: modern-hero
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
-          enable: true
+          enable: false
+          spacing:
+            padding:
+              - "5rem"
+              - "0"
+              - "5rem"
+              - "0"
 
       # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
+        size: xl # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
       avatar:
@@ -42,6 +49,7 @@ sections:
           - blog
         exclude_featured: false
     design:
+      css_class: modern-section
       view: article-grid
       columns: 3
   - block: markdown
@@ -51,22 +59,50 @@ sections:
         <div class="peep-break peep-right peep-cyan" aria-hidden="true"><img src="media/peeps/reading.svg" alt="" loading="lazy"></div>
     design:
       columns: "1"
+      css_class: modern-research
       spacing:
-        padding: [0, 0, 0, 0]
+        padding:
+          - "5rem"
+          - "0"
+          - "5rem"
+          - "0"
+  # -------------------------------------------------------
+  # Featured publications
+  # -------------------------------------------------------
+
   - block: collection
-    id: featured
+    id: publications
+
     content:
-      title: Featured Publications
-      text: ""
-      count: 6
+      title: Featured publications
+      text: Selected academic publications and current research outputs.
+
+      count: 3
+      sort_by: Date
+      sort_ascending: false
+
       filters:
         folders:
           - publications
         featured_only: true
-      order: desc
+
+      archive:
+        enable: true
+        text: View all publications
+        link: /publications/
+
     design:
       view: article-grid
       columns: 3
+
+      css_class: modern-section modern-featured-publications
+
+      spacing:
+        padding:
+          - "5rem"
+          - "0"
+          - "5rem"
+          - "0"
   - block: collection
     content:
       title: Recent Publications
@@ -76,6 +112,7 @@ sections:
           - publications
         exclude_featured: false
     design:
+      css_class: modern-section
       view: citation
   - block: markdown
     content:
@@ -86,45 +123,114 @@ sections:
       columns: "1"
       spacing:
         padding: [0, 0, 0, 0]
+    # -------------------------------------------------------
+  # Current projects
+  # -------------------------------------------------------
   - block: current-projects
     id: projects
+
     content:
-      title: Current Projects
-      text: ""
+      title: Projects
+      text: Research projects, frameworks, tools, and development work.
+
       count: 6
+      sort_by: Date
+      sort_ascending: false
+
+      filters:
+        folders:
+          - projects
+
       archive:
         enable: true
         text: View all projects
+        link: /projects/
+
     design:
+      view: article-grid
+      columns: 3
+
+      css_class: modern-section modern-projects
+
       spacing:
-        padding: [3rem, 1rem, 3rem, 1rem]
-  - block: markdown
+        padding:
+          - "5rem"
+          - "0"
+          - "5rem"
+          - "0"
+  # -------------------------------------------------------
+  # 5a. Upcoming talks and events
+  # ------------------------------------------------------- 
+  - block: upcoming-events
+    id: talks
+
     content:
-      title: ""
-      text: |-
-        <div class="peep-break peep-right peep-violet" aria-hidden="true"><img src="media/peeps/conversation.svg" alt="" loading="lazy"></div>
+      title: Upcoming talks and events
+      text: Upcoming keynotes, invited talks, conferences, and workshops.
+
+      count: 3
+      sort_by: Date
+      sort_ascending: true
+
+      filters:
+        folders:
+          - events
+
+      archive:
+        enable: true
+        text: View all talks and events
+        link: /events/
+
     design:
-      columns: "1"
+      view: article-grid
+      columns: 3
+
+      css_class: modern-section modern-talks modern-talks-upcoming
+
       spacing:
-        padding: [0, 0, 0, 0]
-  - block: upcoming-talks
-    id: upcoming-talks
-    content:
-      title: Upcoming Talks
-      text: ""
-      count: 6
-    design:
-      spacing:
-        padding: [3rem, 1rem, 3rem, 1rem]
-  - block: featured-talks
+        padding:
+          - "5rem"
+          - "0"
+          - "3rem"
+          - "0"
+    # -------------------------------------------------------
+  # 5b. Featured talks and events
+  # -------------------------------------------------------
+
+  - block: collection
     id: featured-talks
+
     content:
-      title: Featured Talks
-      text: ""
-      count: 6
+      title: Featured talks and events
+      text: Selected keynotes, invited presentations, and public lectures.
+
+      count: 3
+      sort_by: Date
+      sort_ascending: false
+
+      filters:
+        folders:
+          - events
+        featured_only: true
+        exclude_future: true
+
+      archive:
+        enable: true
+        text: View all talks and events
+        link: /events/
+
     design:
+      view: article-grid
+      columns: 3
+
+      css_class: modern-section modern-talks modern-talks-featured
+
       spacing:
-        padding: [3rem, 1rem, 3rem, 1rem]
+        padding:
+          - "3rem"
+          - "0"
+          - "5rem"
+          - "0"
   - block: markdown
     content:
       title: ""
@@ -154,9 +260,14 @@ sections:
         </div>
         <script src="https://sendfox.com/js/form.js"></script>
     design:
+      css_class: modern-newsletter
       columns: "1"
       spacing:
-        padding: [2rem, 0, 2rem, 0]
+        padding:
+          - "5rem"
+          - "0"
+          - "5rem"
+          - "0"
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:

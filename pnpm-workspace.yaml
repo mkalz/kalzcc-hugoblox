@@ -1,2 +1,6 @@
 packages:
-  - './*'
+  - ./*
+
+ignoredBuiltDependencies:
+  - '@parcel/watcher'
+  - citation-js

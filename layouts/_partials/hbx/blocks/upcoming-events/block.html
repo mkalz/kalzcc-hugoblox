@@ -180,56 +180,32 @@
 {{ if $exclude_featured }}
   {{ $query = where $query "Params.featured" "!=" true }}
 {{ end }}
-{{ $exclude_past := partial "functions/coerce_bool" (dict "value" (index $filters "exclude_past") "default" false) }}
-{{ if $exclude_past }}
-  {{/* Use event_end -> event_start -> Date to decide if an item is past */}}
-  {{ $filtered := slice }}
-  {{ range $query }}
-    {{ $start := .Date }}
-    {{ with .Params.event_start }}{{ $start = . }}{{ end }}
-    {{ $end := $start }}
-    {{ with .Params.event_end }}{{ $end = . }}{{ end }}
-    {{ if ge $end now }}
-      {{ $filtered = $filtered | append . }}
-    {{ end }}
-  {{ end }}
-  {{ $query = $filtered }}
-{{ end }}
-{{ $exclude_future := partial "functions/coerce_bool" (dict "value" (index $filters "exclude_future") "default" false) }}
-{{ if $exclude_future }}
-  {{/* Use event_start -> Date to drop future/unscheduled items */}}
-  {{ $filtered := slice }}
-  {{ range $query }}
-    {{ $start := .Date }}
-    {{ with .Params.event_start }}{{ $start = . }}{{ end }}
-    {{ if lt $start now }}
-      {{ $filtered = $filtered | append . }}
-    {{ end }}
-  {{ end }}
-  {{ $query = $filtered }}
-{{ end }}
-
-{{/* Custom filter: projects without an end date or with an end date today/in the future */}}
-{{ $currentProjects := slice }}
-{{ $today := time.AsTime (now.Format "2006-01-02") }}
+{{/* Custom filter: upcoming and currently running events */}}
+{{ $upcomingEvents := slice }}
 
 {{ range $query }}
-  {{ $includeProject := true }}
+  {{ $eventStart := .Date }}
 
-  {{ with .Params.project_end }}
-    {{ $projectEnd := time.AsTime . }}
-
-    {{ if $projectEnd.Before $today }}
-      {{ $includeProject = false }}
-    {{ end }}
+  {{ with .Params.event_start }}
+    {{ $eventStart = time.AsTime . }}
   {{ end }}
 
-  {{ if $includeProject }}
-    {{ $currentProjects = $currentProjects | append . }}
+  {{ $eventEnd := $eventStart }}
+
+  {{ with .Params.date_end }}
+    {{ $eventEnd = time.AsTime . }}
+  {{ end }}
+
+  {{ with .Params.event_end }}
+    {{ $eventEnd = time.AsTime . }}
+  {{ end }}
+
+  {{ if ge $eventEnd now }}
+    {{ $upcomingEvents = $upcomingEvents | append . }}
   {{ end }}
 {{ end }}
 
-{{ $query = $currentProjects }}
+{{ $query = $upcomingEvents }}
 
 {{ $count := len $query }}
 
