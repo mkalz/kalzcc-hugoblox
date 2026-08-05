@@ -29,7 +29,7 @@ publication:
   pages: "104054"
   publisher: ""
 
-apa_citation: "Julia, K., Peter, V. R., & Marco, K. (2021). Educational scalability in MOOCs: Analysing instructional designs to find best practices. *Computers & Education*, *161*, 104054. https://doi.org/https://doi.org/10.1016/j.compedu.2020.104054"
+apa_citation: "Kasch, J., Van Rosmalen, P., & Kalz, M. (2021). Educational scalability in MOOCs: Analysing instructional designs to find best practices. *Computers & Education*, *161*, 104054. https://doi.org/https://doi.org/10.1016/j.compedu.2020.104054"
 
 abstract: "This study aims to reveal insights into the educational design of Massive Open Online Courses (MOOCs) in particular on their educational scalability: How do MOOCs provide interaction and formative feedback to high student numbers without being highly depending on the capacity of the teacher? We have applied a design analysis instrument that was specifically developed for large-scale online courses to analyse fifty MOOCs in a qualitative way. The goal of the analysis was to detect scalable best practices of formative feedback and interaction and focused on when, how and from whom students received formative feedback. To get more insight into the scalable best practices we also investigated on which complexity level they were provided. The analysis indicated scalable best practices on various complexity levels and across different learning ac- tivities. This shows that scalable formative feedback and interaction can be provided in MOOCs through different formats such quizzes, peer-feedback and simulations. The majority of the MOOCs in our sample provide student-content interaction during knowledge transfer activities (‘knows’). A selection of design examples is discussed as potentially best practices for educational scalability, not only for MOOCs but also for online education in general. While the study shows examples of scalable design choices in (open) online education, it also indicates a need for more elaborate interactions and feedback in MOOCs in order to improve their educational value and quality."
 
@@ -81,4 +81,4 @@ slides: ""
 
 ---
 
-Kasch, J., Van Rosmalen, P., & Kalz, M. (2021). Educational scalability in MOOCs: Analysing instructional designs to find best practices. _Computers & Education_, _161_, 104054.1-12. https://doi.org/10.1016/j.compedu.2020.104054
+Kasch, J., Van Rosmalen, P., & Kalz, M. (2021). Educational scalability in MOOCs: Analysing instructional designs to find best practices. *Computers & Education*, _161_, 104054.1-12. https://doi.org/10.1016/j.compedu.2020.104054
